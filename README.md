@@ -16,6 +16,8 @@ JAM is a rectified flow-based model for lyrics-to-song generation that addresses
 
 ## Features
 
+![cover-photo](jam-teaser.png)
+
 - **Fine-grained Word and Phoneme-level Timing Control**: The first model to provide word-level timing and duration control in song generation, enabling precise prosody control for musicians
 - **Compact 530M Parameter Architecture**: Less than half the size of existing models, enabling faster inference with reduced resource requirements
 - **Enhanced Lyric Fidelity**: Achieves over 3× reduction in Word Error Rate (WER) and Phoneme Error Rate (PER) compared to prior work through precise phoneme boundary attention
