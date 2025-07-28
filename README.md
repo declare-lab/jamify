@@ -11,6 +11,9 @@
 
 JAM is a rectified flow-based model for lyrics-to-song generation that addresses the lack of fine-grained word-level controllability in existing lyrics-to-song models. Built on a compact 530M-parameter architecture with 16 LLaMA-style Transformer layers as the Diffusion Transformer (DiT) backbone, JAM enables precise vocal control that musicians desire in their workflows. Unlike previous models, JAM provides word and phoneme-level timing control, allowing musicians to specify the exact placement of each vocal sound for improved rhythmic flexibility and expressive timing.
 
+## News
+> 📣 29/07/25: We have released JAM-0.5, the first version of the AI song generator from Project Jamify!
+
 ## Features
 
 - **Fine-grained Word and Phoneme-level Timing Control**: The first model to provide word-level timing and duration control in song generation, enabling precise prosody control for musicians
