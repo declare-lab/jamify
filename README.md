@@ -31,7 +31,7 @@ These samples demonstrate JAM's ability to generate high-quality music across di
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/declare-lab/jamify
 cd jam
 ```
 
