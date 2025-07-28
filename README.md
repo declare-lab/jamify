@@ -10,10 +10,21 @@ JAM is a state-of-the-art music generation model that uses Continuous Flow Match
 - **Multi-GPU Support**: Distributed inference using Hugging Face Accelerate
 - **Flexible Configuration**: Extensive customization options for generation parameters
 
+## JAM Samples
+
+Check out the example generated music in the `generated_examples/` folder to hear what JAM can produce:
+
+- **`Hybrid Minds, Brodie - Heroin.mp3`** - Electronic music with synthesized beats and electronic elements
+- **`Jade Bird - Avalanche.mp3`** - Country music with acoustic guitar and folk influences  
+- **`Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.mp3`** - Rap music with rhythmic beats and hip-hop style
+
+These samples demonstrate JAM's ability to generate high-quality music across different genres while maintaining vocal intelligence, style consistency and musical coherence.
+
 ## Requirements
 
 - Python 3.10 or higher
 - CUDA-compatible GPU with sufficient VRAM (8GB+ recommended)
+
 
 ## Installation
 
