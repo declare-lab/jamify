@@ -1,0 +1,66 @@
+project_root: "."
+evaluation:
+  checkpoint_path: ""
+  output_dir: "outputs"
+  test_set_path: "inputs/input.json"
+  negative_style_prompt: ${project_root}/public/vocal.npy
+  num_samples: null
+  batch_size: 1
+  random_crop_style: false
+  vae_type: 'diffrhythm'
+  num_style_secs: 30
+  ignore_style: false
+  use_prompt_style: false
+
+  dataset:
+    pattern: "placeholder"
+    shuffle: false
+    resample_by_duration_threshold: null
+    always_crop_from_beginning: true
+    always_use_style_index: 0
+  
+  sample_kwargs:
+    cfg_range:
+      - 0.05
+      - 1
+    dual_cfg:
+      - 4.7
+      - 2.5
+    steps: 50
+
+model:
+  num_channels: 64
+  cfm:
+    max_frames: ${max_frames}
+    num_channels: ${model.num_channels}
+    dual_drop_prob: [0.1, 0.5]
+    no_edit: true
+
+  dit:
+    max_frames: ${max_frames}
+    mel_dim: ${model.num_channels}
+    dim: 1408
+    depth: 16
+    heads: 32
+    ff_mult: 4
+    text_dim: 512
+    conv_layers: 4
+    grad_ckpt: true
+    use_implicit_duration: true
+
+data:
+  train_dataset:
+    max_frames: ${max_frames}
+    multiple_styles: true
+    sampling_rate: 44100
+    shuffle: true
+    silence_latent_path: ${project_root}/public/silience_latent.pt
+    tokenizer_path: ${project_root}/public/en_us_cmudict_ipa_forward.pt
+    lrc_upsample_factor: ${lrc_upsample_factor}
+    filler: average_sparse
+    phonemizer_checkpoint: ${project_root}/public/en_us_cmudict_ipa_forward.pt
+
+# General settings
+max_frames: 5000
+lrc_upsample_factor: 4
+seed: 42

@@ -1,0 +1,7575 @@
+{
+  "char": [
+    {
+      "char": [
+        "N"
+      ],
+      "start_offset": 8,
+      "end_offset": 10,
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "char": [
+        "ever"
+      ],
+      "start_offset": 10,
+      "end_offset": 13,
+      "start": 0.8,
+      "end": 1.04
+    },
+    {
+      "char": [
+        "been"
+      ],
+      "start_offset": 13,
+      "end_offset": 16,
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "char": [
+        "cont"
+      ],
+      "start_offset": 16,
+      "end_offset": 18,
+      "start": 1.28,
+      "end": 1.44
+    },
+    {
+      "char": [
+        "ro"
+      ],
+      "start_offset": 18,
+      "end_offset": 20,
+      "start": 1.44,
+      "end": 1.6
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 20,
+      "end_offset": 23,
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 23,
+      "end_offset": 25,
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "char": [
+        "by"
+      ],
+      "start_offset": 25,
+      "end_offset": 29,
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "char": [
+        "ev"
+      ],
+      "start_offset": 29,
+      "end_offset": 33,
+      "start": 2.32,
+      "end": 2.64
+    },
+    {
+      "char": [
+        "il"
+      ],
+      "start_offset": 33,
+      "end_offset": 37,
+      "start": 2.64,
+      "end": 2.96
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 37,
+      "end_offset": 37,
+      "start": 2.96,
+      "end": 2.96
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 45,
+      "end_offset": 48,
+      "start": 3.6,
+      "end": 3.84
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 48,
+      "end_offset": 50,
+      "start": 3.84,
+      "end": 4.0
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 50,
+      "end_offset": 50,
+      "start": 4.0,
+      "end": 4.0
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 52,
+      "end_offset": 52,
+      "start": 4.16,
+      "end": 4.16
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 52,
+      "end_offset": 54,
+      "start": 4.16,
+      "end": 4.32
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 57,
+      "end_offset": 60,
+      "start": 4.5600000000000005,
+      "end": 4.8
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 60,
+      "end_offset": 64,
+      "start": 4.8,
+      "end": 5.12
+    },
+    {
+      "char": [
+        "ou"
+      ],
+      "start_offset": 64,
+      "end_offset": 68,
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 68,
+      "end_offset": 72,
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 72,
+      "end_offset": 72,
+      "start": 5.76,
+      "end": 5.76
+    },
+    {
+      "char": [
+        "St"
+      ],
+      "start_offset": 81,
+      "end_offset": 83,
+      "start": 6.48,
+      "end": 6.640000000000001
+    },
+    {
+      "char": [
+        "ick"
+      ],
+      "start_offset": 83,
+      "end_offset": 86,
+      "start": 6.640000000000001,
+      "end": 6.88
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 86,
+      "end_offset": 89,
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 91,
+      "end_offset": 93,
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "char": [
+        "tr"
+      ],
+      "start_offset": 94,
+      "end_offset": 95,
+      "start": 7.5200000000000005,
+      "end": 7.6000000000000005
+    },
+    {
+      "char": [
+        "ick"
+      ],
+      "start_offset": 97,
+      "end_offset": 99,
+      "start": 7.76,
+      "end": 7.92
+    },
+    {
+      "char": [
+        "-"
+      ],
+      "start_offset": 99,
+      "end_offset": 99,
+      "start": 7.92,
+      "end": 7.92
+    },
+    {
+      "char": [
+        "or"
+      ],
+      "start_offset": 100,
+      "end_offset": 102,
+      "start": 8.0,
+      "end": 8.16
+    },
+    {
+      "char": [
+        "-"
+      ],
+      "start_offset": 102,
+      "end_offset": 102,
+      "start": 8.16,
+      "end": 8.16
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 105,
+      "end_offset": 106,
+      "start": 8.4,
+      "end": 8.48
+    },
+    {
+      "char": [
+        "ly"
+      ],
+      "start_offset": 108,
+      "end_offset": 109,
+      "start": 8.64,
+      "end": 8.72
+    },
+    {
+      "char": [
+        "way"
+      ],
+      "start_offset": 112,
+      "end_offset": 113,
+      "start": 8.96,
+      "end": 9.040000000000001
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 115,
+      "end_offset": 116,
+      "start": 9.200000000000001,
+      "end": 9.28
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 117,
+      "end_offset": 118,
+      "start": 9.36,
+      "end": 9.44
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 121,
+      "end_offset": 123,
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "char": [
+        "ill"
+      ],
+      "start_offset": 123,
+      "end_offset": 124,
+      "start": 9.84,
+      "end": 9.92
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 126,
+      "end_offset": 130,
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 130,
+      "end_offset": 134,
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 134,
+      "end_offset": 138,
+      "start": 10.72,
+      "end": 11.040000000000001
+    },
+    {
+      "char": [
+        "le"
+      ],
+      "start_offset": 138,
+      "end_offset": 142,
+      "start": 11.040000000000001,
+      "end": 11.36
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 142,
+      "end_offset": 142,
+      "start": 11.36,
+      "end": 11.36
+    },
+    {
+      "char": [
+        "St"
+      ],
+      "start_offset": 150,
+      "end_offset": 151,
+      "start": 12.0,
+      "end": 12.08
+    },
+    {
+      "char": [
+        "ra"
+      ],
+      "start_offset": 151,
+      "end_offset": 153,
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 153,
+      "end_offset": 156,
+      "start": 12.24,
+      "end": 12.48
+    },
+    {
+      "char": [
+        "from"
+      ],
+      "start_offset": 156,
+      "end_offset": 160,
+      "start": 12.48,
+      "end": 12.8
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 160,
+      "end_offset": 164,
+      "start": 12.8,
+      "end": 13.120000000000001
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 164,
+      "end_offset": 168,
+      "start": 13.120000000000001,
+      "end": 13.44
+    },
+    {
+      "char": [
+        "le"
+      ],
+      "start_offset": 168,
+      "end_offset": 172,
+      "start": 13.44,
+      "end": 13.76
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 172,
+      "end_offset": 176,
+      "start": 13.76,
+      "end": 14.08
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 176,
+      "end_offset": 180,
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 180,
+      "end_offset": 182,
+      "start": 14.4,
+      "end": 14.56
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 182,
+      "end_offset": 184,
+      "start": 14.56,
+      "end": 14.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 184,
+      "end_offset": 184,
+      "start": 14.72,
+      "end": 14.72
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 186,
+      "end_offset": 189,
+      "start": 14.88,
+      "end": 15.120000000000001
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 189,
+      "end_offset": 191,
+      "start": 15.120000000000001,
+      "end": 15.280000000000001
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 191,
+      "end_offset": 193,
+      "start": 15.280000000000001,
+      "end": 15.44
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 193,
+      "end_offset": 197,
+      "start": 15.44,
+      "end": 15.76
+    },
+    {
+      "char": [
+        "will"
+      ],
+      "start_offset": 197,
+      "end_offset": 201,
+      "start": 15.76,
+      "end": 16.080000000000002
+    },
+    {
+      "char": [
+        "ro"
+      ],
+      "start_offset": 201,
+      "end_offset": 205,
+      "start": 16.080000000000002,
+      "end": 16.4
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 205,
+      "end_offset": 209,
+      "start": 16.4,
+      "end": 16.72
+    },
+    {
+      "char": [
+        "St"
+      ],
+      "start_offset": 253,
+      "end_offset": 255,
+      "start": 20.240000000000002,
+      "end": 20.400000000000002
+    },
+    {
+      "char": [
+        "ra"
+      ],
+      "start_offset": 255,
+      "end_offset": 257,
+      "start": 20.400000000000002,
+      "end": 20.56
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 257,
+      "end_offset": 260,
+      "start": 20.56,
+      "end": 20.8
+    },
+    {
+      "char": [
+        "from"
+      ],
+      "start_offset": 260,
+      "end_offset": 264,
+      "start": 20.8,
+      "end": 21.12
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 264,
+      "end_offset": 268,
+      "start": 21.12,
+      "end": 21.44
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 268,
+      "end_offset": 271,
+      "start": 21.44,
+      "end": 21.68
+    },
+    {
+      "char": [
+        "le"
+      ],
+      "start_offset": 271,
+      "end_offset": 275,
+      "start": 21.68,
+      "end": 22.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 275,
+      "end_offset": 275,
+      "start": 22.0,
+      "end": 22.0
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 283,
+      "end_offset": 285,
+      "start": 22.64,
+      "end": 22.8
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 285,
+      "end_offset": 287,
+      "start": 22.8,
+      "end": 22.96
+    },
+    {
+      "char": [
+        "ar"
+      ],
+      "start_offset": 287,
+      "end_offset": 290,
+      "start": 22.96,
+      "end": 23.2
+    },
+    {
+      "char": [
+        "those"
+      ],
+      "start_offset": 290,
+      "end_offset": 294,
+      "start": 23.2,
+      "end": 23.52
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 294,
+      "end_offset": 296,
+      "start": 23.52,
+      "end": 23.68
+    },
+    {
+      "char": [
+        "ist"
+      ],
+      "start_offset": 296,
+      "end_offset": 299,
+      "start": 23.68,
+      "end": 23.92
+    },
+    {
+      "char": [
+        "ant"
+      ],
+      "start_offset": 299,
+      "end_offset": 302,
+      "start": 23.92,
+      "end": 24.16
+    },
+    {
+      "char": [
+        "v"
+      ],
+      "start_offset": 302,
+      "end_offset": 304,
+      "start": 24.16,
+      "end": 24.32
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 304,
+      "end_offset": 306,
+      "start": 24.32,
+      "end": 24.48
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 306,
+      "end_offset": 308,
+      "start": 24.48,
+      "end": 24.64
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 308,
+      "end_offset": 311,
+      "start": 24.64,
+      "end": 24.88
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 311,
+      "end_offset": 311,
+      "start": 24.88,
+      "end": 24.88
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 315,
+      "end_offset": 317,
+      "start": 25.2,
+      "end": 25.36
+    },
+    {
+      "char": [
+        "they"
+      ],
+      "start_offset": 317,
+      "end_offset": 321,
+      "start": 25.36,
+      "end": 25.68
+    },
+    {
+      "char": [
+        "get"
+      ],
+      "start_offset": 321,
+      "end_offset": 324,
+      "start": 25.68,
+      "end": 25.92
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 324,
+      "end_offset": 328,
+      "start": 25.92,
+      "end": 26.240000000000002
+    },
+    {
+      "char": [
+        "high"
+      ],
+      "start_offset": 328,
+      "end_offset": 331,
+      "start": 26.240000000000002,
+      "end": 26.48
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 332,
+      "end_offset": 334,
+      "start": 26.560000000000002,
+      "end": 26.72
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 337,
+      "end_offset": 339,
+      "start": 26.96,
+      "end": 27.12
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 339,
+      "end_offset": 340,
+      "start": 27.12,
+      "end": 27.2
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 342,
+      "end_offset": 343,
+      "start": 27.36,
+      "end": 27.44
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 343,
+      "end_offset": 343,
+      "start": 27.44,
+      "end": 27.44
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 353,
+      "end_offset": 355,
+      "start": 28.240000000000002,
+      "end": 28.400000000000002
+    },
+    {
+      "char": [
+        "think"
+      ],
+      "start_offset": 355,
+      "end_offset": 358,
+      "start": 28.400000000000002,
+      "end": 28.64
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 358,
+      "end_offset": 359,
+      "start": 28.64,
+      "end": 28.72
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 362,
+      "end_offset": 364,
+      "start": 28.96,
+      "end": 29.12
+    },
+    {
+      "char": [
+        "ound"
+      ],
+      "start_offset": 364,
+      "end_offset": 368,
+      "start": 29.12,
+      "end": 29.44
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 368,
+      "end_offset": 372,
+      "start": 29.44,
+      "end": 29.76
+    },
+    {
+      "char": [
+        "po"
+      ],
+      "start_offset": 372,
+      "end_offset": 376,
+      "start": 29.76,
+      "end": 30.080000000000002
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 376,
+      "end_offset": 380,
+      "start": 30.080000000000002,
+      "end": 30.400000000000002
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 380,
+      "end_offset": 384,
+      "start": 30.400000000000002,
+      "end": 30.72
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 384,
+      "end_offset": 384,
+      "start": 30.72,
+      "end": 30.72
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 392,
+      "end_offset": 395,
+      "start": 31.36,
+      "end": 31.6
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 395,
+      "end_offset": 395,
+      "start": 31.6,
+      "end": 31.6
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 397,
+      "end_offset": 399,
+      "start": 31.76,
+      "end": 31.92
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 399,
+      "end_offset": 399,
+      "start": 31.92,
+      "end": 31.92
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 400,
+      "end_offset": 402,
+      "start": 32.0,
+      "end": 32.160000000000004
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 402,
+      "end_offset": 405,
+      "start": 32.160000000000004,
+      "end": 32.4
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 405,
+      "end_offset": 407,
+      "start": 32.4,
+      "end": 32.56
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 407,
+      "end_offset": 410,
+      "start": 32.56,
+      "end": 32.8
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 410,
+      "end_offset": 412,
+      "start": 32.8,
+      "end": 32.96
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 412,
+      "end_offset": 415,
+      "start": 32.96,
+      "end": 33.2
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 415,
+      "end_offset": 415,
+      "start": 33.2,
+      "end": 33.2
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 418,
+      "end_offset": 420,
+      "start": 33.44,
+      "end": 33.6
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 420,
+      "end_offset": 420,
+      "start": 33.6,
+      "end": 33.6
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 421,
+      "end_offset": 423,
+      "start": 33.68,
+      "end": 33.84
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 423,
+      "end_offset": 426,
+      "start": 33.84,
+      "end": 34.08
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 428,
+      "end_offset": 430,
+      "start": 34.24,
+      "end": 34.4
+    },
+    {
+      "char": [
+        "con"
+      ],
+      "start_offset": 431,
+      "end_offset": 434,
+      "start": 34.480000000000004,
+      "end": 34.72
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 434,
+      "end_offset": 437,
+      "start": 34.72,
+      "end": 34.96
+    },
+    {
+      "char": [
+        "ant"
+      ],
+      "start_offset": 437,
+      "end_offset": 439,
+      "start": 34.96,
+      "end": 35.12
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 439,
+      "end_offset": 442,
+      "start": 35.12,
+      "end": 35.36
+    },
+    {
+      "char": [
+        "ra"
+      ],
+      "start_offset": 442,
+      "end_offset": 445,
+      "start": 35.36,
+      "end": 35.6
+    },
+    {
+      "char": [
+        "ving"
+      ],
+      "start_offset": 445,
+      "end_offset": 446,
+      "start": 35.6,
+      "end": 35.68
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 446,
+      "end_offset": 446,
+      "start": 35.68,
+      "end": 35.68
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 453,
+      "end_offset": 455,
+      "start": 36.24,
+      "end": 36.4
+    },
+    {
+      "char": [
+        "they"
+      ],
+      "start_offset": 455,
+      "end_offset": 457,
+      "start": 36.4,
+      "end": 36.56
+    },
+    {
+      "char": [
+        "get"
+      ],
+      "start_offset": 457,
+      "end_offset": 459,
+      "start": 36.56,
+      "end": 36.72
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 463,
+      "end_offset": 464,
+      "start": 37.04,
+      "end": 37.12
+    },
+    {
+      "char": [
+        "all"
+      ],
+      "start_offset": 466,
+      "end_offset": 468,
+      "start": 37.28,
+      "end": 37.44
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 471,
+      "end_offset": 473,
+      "start": 37.68,
+      "end": 37.84
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 474,
+      "end_offset": 475,
+      "start": 37.92,
+      "end": 38.0
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 475,
+      "end_offset": 476,
+      "start": 38.0,
+      "end": 38.08
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 480,
+      "end_offset": 481,
+      "start": 38.4,
+      "end": 38.480000000000004
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 483,
+      "end_offset": 485,
+      "start": 38.64,
+      "end": 38.800000000000004
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 485,
+      "end_offset": 485,
+      "start": 38.800000000000004,
+      "end": 38.800000000000004
+    },
+    {
+      "char": [
+        "To"
+      ],
+      "start_offset": 491,
+      "end_offset": 493,
+      "start": 39.28,
+      "end": 39.44
+    },
+    {
+      "char": [
+        "x"
+      ],
+      "start_offset": 493,
+      "end_offset": 496,
+      "start": 39.44,
+      "end": 39.68
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 496,
+      "end_offset": 498,
+      "start": 39.68,
+      "end": 39.84
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 501,
+      "end_offset": 504,
+      "start": 40.08,
+      "end": 40.32
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 505,
+      "end_offset": 507,
+      "start": 40.4,
+      "end": 40.56
+    },
+    {
+      "char": [
+        "po"
+      ],
+      "start_offset": 510,
+      "end_offset": 513,
+      "start": 40.800000000000004,
+      "end": 41.04
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 513,
+      "end_offset": 516,
+      "start": 41.04,
+      "end": 41.28
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 516,
+      "end_offset": 520,
+      "start": 41.28,
+      "end": 41.6
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 520,
+      "end_offset": 520,
+      "start": 41.6,
+      "end": 41.6
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 532,
+      "end_offset": 533,
+      "start": 42.56,
+      "end": 42.64
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 535,
+      "end_offset": 537,
+      "start": 42.800000000000004,
+      "end": 42.96
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 537,
+      "end_offset": 537,
+      "start": 42.96,
+      "end": 42.96
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 538,
+      "end_offset": 540,
+      "start": 43.04,
+      "end": 43.2
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 540,
+      "end_offset": 542,
+      "start": 43.2,
+      "end": 43.36
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 542,
+      "end_offset": 544,
+      "start": 43.36,
+      "end": 43.52
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 544,
+      "end_offset": 546,
+      "start": 43.52,
+      "end": 43.68
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 546,
+      "end_offset": 548,
+      "start": 43.68,
+      "end": 43.84
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 548,
+      "end_offset": 550,
+      "start": 43.84,
+      "end": 44.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 550,
+      "end_offset": 550,
+      "start": 44.0,
+      "end": 44.0
+    },
+    {
+      "char": [
+        "M"
+      ],
+      "start_offset": 551,
+      "end_offset": 552,
+      "start": 44.08,
+      "end": 44.160000000000004
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 553,
+      "end_offset": 554,
+      "start": 44.24,
+      "end": 44.32
+    },
+    {
+      "char": [
+        "fr"
+      ],
+      "start_offset": 555,
+      "end_offset": 556,
+      "start": 44.4,
+      "end": 44.480000000000004
+    },
+    {
+      "char": [
+        "ie"
+      ],
+      "start_offset": 557,
+      "end_offset": 558,
+      "start": 44.56,
+      "end": 44.64
+    },
+    {
+      "char": [
+        "nd"
+      ],
+      "start_offset": 558,
+      "end_offset": 559,
+      "start": 44.64,
+      "end": 44.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 559,
+      "end_offset": 559,
+      "start": 44.72,
+      "end": 44.72
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 572,
+      "end_offset": 574,
+      "start": 45.76,
+      "end": 45.92
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 574,
+      "end_offset": 574,
+      "start": 45.92,
+      "end": 45.92
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 575,
+      "end_offset": 575,
+      "start": 46.0,
+      "end": 46.0
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 578,
+      "end_offset": 580,
+      "start": 46.24,
+      "end": 46.4
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 580,
+      "end_offset": 582,
+      "start": 46.4,
+      "end": 46.56
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 582,
+      "end_offset": 582,
+      "start": 46.56,
+      "end": 46.56
+    },
+    {
+      "char": [
+        "That"
+      ],
+      "start_offset": 673,
+      "end_offset": 675,
+      "start": 53.84,
+      "end": 54.0
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 675,
+      "end_offset": 675,
+      "start": 54.0,
+      "end": 54.0
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 676,
+      "end_offset": 677,
+      "start": 54.08,
+      "end": 54.160000000000004
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 677,
+      "end_offset": 679,
+      "start": 54.160000000000004,
+      "end": 54.32
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 680,
+      "end_offset": 682,
+      "start": 54.4,
+      "end": 54.56
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 682,
+      "end_offset": 684,
+      "start": 54.56,
+      "end": 54.72
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 684,
+      "end_offset": 685,
+      "start": 54.72,
+      "end": 54.800000000000004
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 685,
+      "end_offset": 687,
+      "start": 54.800000000000004,
+      "end": 54.96
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 687,
+      "end_offset": 687,
+      "start": 54.96,
+      "end": 54.96
+    },
+    {
+      "char": [
+        "M"
+      ],
+      "start_offset": 690,
+      "end_offset": 691,
+      "start": 55.2,
+      "end": 55.28
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 691,
+      "end_offset": 692,
+      "start": 55.28,
+      "end": 55.36
+    },
+    {
+      "char": [
+        "fr"
+      ],
+      "start_offset": 693,
+      "end_offset": 694,
+      "start": 55.44,
+      "end": 55.52
+    },
+    {
+      "char": [
+        "ie"
+      ],
+      "start_offset": 695,
+      "end_offset": 696,
+      "start": 55.6,
+      "end": 55.68
+    },
+    {
+      "char": [
+        "nd"
+      ],
+      "start_offset": 696,
+      "end_offset": 697,
+      "start": 55.68,
+      "end": 55.76
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 697,
+      "end_offset": 697,
+      "start": 55.76,
+      "end": 55.76
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 698,
+      "end_offset": 699,
+      "start": 55.84,
+      "end": 55.92
+    },
+    {
+      "char": [
+        "ix"
+      ],
+      "start_offset": 699,
+      "end_offset": 701,
+      "start": 55.92,
+      "end": 56.08
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 702,
+      "end_offset": 703,
+      "start": 56.160000000000004,
+      "end": 56.24
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 703,
+      "end_offset": 703,
+      "start": 56.24,
+      "end": 56.24
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 705,
+      "end_offset": 706,
+      "start": 56.4,
+      "end": 56.480000000000004
+    },
+    {
+      "char": [
+        "um"
+      ],
+      "start_offset": 706,
+      "end_offset": 707,
+      "start": 56.480000000000004,
+      "end": 56.56
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 707,
+      "end_offset": 708,
+      "start": 56.56,
+      "end": 56.64
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 708,
+      "end_offset": 709,
+      "start": 56.64,
+      "end": 56.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 709,
+      "end_offset": 709,
+      "start": 56.72,
+      "end": 56.72
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 715,
+      "end_offset": 716,
+      "start": 57.2,
+      "end": 57.28
+    },
+    {
+      "char": [
+        "ast"
+      ],
+      "start_offset": 717,
+      "end_offset": 719,
+      "start": 57.36,
+      "end": 57.52
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 719,
+      "end_offset": 719,
+      "start": 57.52,
+      "end": 57.52
+    },
+    {
+      "char": [
+        "That"
+      ],
+      "start_offset": 811,
+      "end_offset": 813,
+      "start": 64.88,
+      "end": 65.04
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 813,
+      "end_offset": 813,
+      "start": 65.04,
+      "end": 65.04
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 814,
+      "end_offset": 816,
+      "start": 65.12,
+      "end": 65.28
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 816,
+      "end_offset": 819,
+      "start": 65.28,
+      "end": 65.52
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 819,
+      "end_offset": 821,
+      "start": 65.52,
+      "end": 65.68
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 821,
+      "end_offset": 823,
+      "start": 65.68,
+      "end": 65.84
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 823,
+      "end_offset": 825,
+      "start": 65.84,
+      "end": 66.0
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 825,
+      "end_offset": 827,
+      "start": 66.0,
+      "end": 66.16
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 827,
+      "end_offset": 827,
+      "start": 66.16,
+      "end": 66.16
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 849,
+      "end_offset": 850,
+      "start": 67.92,
+      "end": 68.0
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 853,
+      "end_offset": 854,
+      "start": 68.24,
+      "end": 68.32000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 854,
+      "end_offset": 854,
+      "start": 68.32000000000001,
+      "end": 68.32000000000001
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 855,
+      "end_offset": 855,
+      "start": 68.4,
+      "end": 68.4
+    },
+    {
+      "char": [
+        "try"
+      ],
+      "start_offset": 857,
+      "end_offset": 859,
+      "start": 68.56,
+      "end": 68.72
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 863,
+      "end_offset": 864,
+      "start": 69.04,
+      "end": 69.12
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 865,
+      "end_offset": 866,
+      "start": 69.2,
+      "end": 69.28
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 869,
+      "end_offset": 870,
+      "start": 69.52,
+      "end": 69.60000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 870,
+      "end_offset": 870,
+      "start": 69.60000000000001,
+      "end": 69.60000000000001
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 876,
+      "end_offset": 878,
+      "start": 70.08,
+      "end": 70.24
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 881,
+      "end_offset": 883,
+      "start": 70.48,
+      "end": 70.64
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 883,
+      "end_offset": 885,
+      "start": 70.64,
+      "end": 70.8
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 885,
+      "end_offset": 885,
+      "start": 70.8,
+      "end": 70.8
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 888,
+      "end_offset": 891,
+      "start": 71.04,
+      "end": 71.28
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 894,
+      "end_offset": 898,
+      "start": 71.52,
+      "end": 71.84
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 898,
+      "end_offset": 902,
+      "start": 71.84,
+      "end": 72.16
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 902,
+      "end_offset": 902,
+      "start": 72.16,
+      "end": 72.16
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 918,
+      "end_offset": 919,
+      "start": 73.44,
+      "end": 73.52
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 922,
+      "end_offset": 923,
+      "start": 73.76,
+      "end": 73.84
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 923,
+      "end_offset": 923,
+      "start": 73.84,
+      "end": 73.84
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 924,
+      "end_offset": 924,
+      "start": 73.92,
+      "end": 73.92
+    },
+    {
+      "char": [
+        "try"
+      ],
+      "start_offset": 926,
+      "end_offset": 928,
+      "start": 74.08,
+      "end": 74.24
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 931,
+      "end_offset": 933,
+      "start": 74.48,
+      "end": 74.64
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 934,
+      "end_offset": 935,
+      "start": 74.72,
+      "end": 74.8
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 938,
+      "end_offset": 939,
+      "start": 75.04,
+      "end": 75.12
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 939,
+      "end_offset": 939,
+      "start": 75.12,
+      "end": 75.12
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 945,
+      "end_offset": 947,
+      "start": 75.60000000000001,
+      "end": 75.76
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 950,
+      "end_offset": 952,
+      "start": 76.0,
+      "end": 76.16
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 952,
+      "end_offset": 955,
+      "start": 76.16,
+      "end": 76.4
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 955,
+      "end_offset": 955,
+      "start": 76.4,
+      "end": 76.4
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 957,
+      "end_offset": 960,
+      "start": 76.56,
+      "end": 76.8
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 963,
+      "end_offset": 967,
+      "start": 77.04,
+      "end": 77.36
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 967,
+      "end_offset": 971,
+      "start": 77.36,
+      "end": 77.68
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 971,
+      "end_offset": 971,
+      "start": 77.68,
+      "end": 77.68
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 987,
+      "end_offset": 988,
+      "start": 78.96000000000001,
+      "end": 79.04
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 991,
+      "end_offset": 992,
+      "start": 79.28,
+      "end": 79.36
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 992,
+      "end_offset": 992,
+      "start": 79.36,
+      "end": 79.36
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 993,
+      "end_offset": 993,
+      "start": 79.44,
+      "end": 79.44
+    },
+    {
+      "char": [
+        "try"
+      ],
+      "start_offset": 995,
+      "end_offset": 997,
+      "start": 79.60000000000001,
+      "end": 79.76
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 1001,
+      "end_offset": 1002,
+      "start": 80.08,
+      "end": 80.16
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1003,
+      "end_offset": 1004,
+      "start": 80.24,
+      "end": 80.32000000000001
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1007,
+      "end_offset": 1008,
+      "start": 80.56,
+      "end": 80.64
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1008,
+      "end_offset": 1008,
+      "start": 80.64,
+      "end": 80.64
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 1014,
+      "end_offset": 1016,
+      "start": 81.12,
+      "end": 81.28
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 1019,
+      "end_offset": 1021,
+      "start": 81.52,
+      "end": 81.68
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1021,
+      "end_offset": 1023,
+      "start": 81.68,
+      "end": 81.84
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1023,
+      "end_offset": 1023,
+      "start": 81.84,
+      "end": 81.84
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 1026,
+      "end_offset": 1029,
+      "start": 82.08,
+      "end": 82.32000000000001
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 1032,
+      "end_offset": 1036,
+      "start": 82.56,
+      "end": 82.88
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1036,
+      "end_offset": 1040,
+      "start": 82.88,
+      "end": 83.2
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1040,
+      "end_offset": 1040,
+      "start": 83.2,
+      "end": 83.2
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 1083,
+      "end_offset": 1084,
+      "start": 86.64,
+      "end": 86.72
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 1086,
+      "end_offset": 1088,
+      "start": 86.88,
+      "end": 87.04
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1088,
+      "end_offset": 1088,
+      "start": 87.04,
+      "end": 87.04
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1090,
+      "end_offset": 1090,
+      "start": 87.2,
+      "end": 87.2
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1090,
+      "end_offset": 1092,
+      "start": 87.2,
+      "end": 87.36
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1094,
+      "end_offset": 1095,
+      "start": 87.52,
+      "end": 87.60000000000001
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1095,
+      "end_offset": 1097,
+      "start": 87.60000000000001,
+      "end": 87.76
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 1097,
+      "end_offset": 1098,
+      "start": 87.76,
+      "end": 87.84
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 1098,
+      "end_offset": 1100,
+      "start": 87.84,
+      "end": 88.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1100,
+      "end_offset": 1100,
+      "start": 88.0,
+      "end": 88.0
+    },
+    {
+      "char": [
+        "D"
+      ],
+      "start_offset": 1105,
+      "end_offset": 1106,
+      "start": 88.4,
+      "end": 88.48
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1106,
+      "end_offset": 1107,
+      "start": 88.48,
+      "end": 88.56
+    },
+    {
+      "char": [
+        "ep"
+      ],
+      "start_offset": 1107,
+      "end_offset": 1108,
+      "start": 88.56,
+      "end": 88.64
+    },
+    {
+      "char": [
+        "down"
+      ],
+      "start_offset": 1108,
+      "end_offset": 1110,
+      "start": 88.64,
+      "end": 88.8
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1110,
+      "end_offset": 1110,
+      "start": 88.8,
+      "end": 88.8
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1112,
+      "end_offset": 1113,
+      "start": 88.96000000000001,
+      "end": 89.04
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1113,
+      "end_offset": 1113,
+      "start": 89.04,
+      "end": 89.04
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 1114,
+      "end_offset": 1115,
+      "start": 89.12,
+      "end": 89.2
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 1115,
+      "end_offset": 1116,
+      "start": 89.2,
+      "end": 89.28
+    },
+    {
+      "char": [
+        "no"
+      ],
+      "start_offset": 1117,
+      "end_offset": 1118,
+      "start": 89.36,
+      "end": 89.44
+    },
+    {
+      "char": [
+        "wr"
+      ],
+      "start_offset": 1121,
+      "end_offset": 1123,
+      "start": 89.68,
+      "end": 89.84
+    },
+    {
+      "char": [
+        "ong"
+      ],
+      "start_offset": 1123,
+      "end_offset": 1125,
+      "start": 89.84,
+      "end": 90.0
+    },
+    {
+      "char": [
+        "with"
+      ],
+      "start_offset": 1125,
+      "end_offset": 1127,
+      "start": 90.0,
+      "end": 90.16
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1127,
+      "end_offset": 1129,
+      "start": 90.16,
+      "end": 90.32000000000001
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 1129,
+      "end_offset": 1131,
+      "start": 90.32000000000001,
+      "end": 90.48
+    },
+    {
+      "char": [
+        "ide"
+      ],
+      "start_offset": 1131,
+      "end_offset": 1133,
+      "start": 90.48,
+      "end": 90.64
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1133,
+      "end_offset": 1133,
+      "start": 90.64,
+      "end": 90.64
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 1134,
+      "end_offset": 1137,
+      "start": 90.72,
+      "end": 90.96000000000001
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1137,
+      "end_offset": 1138,
+      "start": 90.96000000000001,
+      "end": 91.04
+    },
+    {
+      "char": [
+        "keep"
+      ],
+      "start_offset": 1139,
+      "end_offset": 1143,
+      "start": 91.12,
+      "end": 91.44
+    },
+    {
+      "char": [
+        "going"
+      ],
+      "start_offset": 1143,
+      "end_offset": 1147,
+      "start": 91.44,
+      "end": 91.76
+    },
+    {
+      "char": [
+        "back"
+      ],
+      "start_offset": 1147,
+      "end_offset": 1150,
+      "start": 91.76,
+      "end": 92.0
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1150,
+      "end_offset": 1153,
+      "start": 92.0,
+      "end": 92.24
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1153,
+      "end_offset": 1155,
+      "start": 92.24,
+      "end": 92.4
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1155,
+      "end_offset": 1155,
+      "start": 92.4,
+      "end": 92.4
+    },
+    {
+      "char": [
+        "D"
+      ],
+      "start_offset": 1172,
+      "end_offset": 1173,
+      "start": 93.76,
+      "end": 93.84
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1173,
+      "end_offset": 1174,
+      "start": 93.84,
+      "end": 93.92
+    },
+    {
+      "char": [
+        "ep"
+      ],
+      "start_offset": 1174,
+      "end_offset": 1176,
+      "start": 93.92,
+      "end": 94.08
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 1176,
+      "end_offset": 1178,
+      "start": 94.08,
+      "end": 94.24
+    },
+    {
+      "char": [
+        "iv"
+      ],
+      "start_offset": 1178,
+      "end_offset": 1180,
+      "start": 94.24,
+      "end": 94.4
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1180,
+      "end_offset": 1181,
+      "start": 94.4,
+      "end": 94.48
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1181,
+      "end_offset": 1181,
+      "start": 94.48,
+      "end": 94.48
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1183,
+      "end_offset": 1184,
+      "start": 94.64,
+      "end": 94.72
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1184,
+      "end_offset": 1184,
+      "start": 94.72,
+      "end": 94.72
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1185,
+      "end_offset": 1186,
+      "start": 94.8,
+      "end": 94.88
+    },
+    {
+      "char": [
+        "gonna"
+      ],
+      "start_offset": 1186,
+      "end_offset": 1188,
+      "start": 94.88,
+      "end": 95.04
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 1189,
+      "end_offset": 1191,
+      "start": 95.12,
+      "end": 95.28
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 1191,
+      "end_offset": 1193,
+      "start": 95.28,
+      "end": 95.44
+    },
+    {
+      "char": [
+        "own"
+      ],
+      "start_offset": 1193,
+      "end_offset": 1195,
+      "start": 95.44,
+      "end": 95.60000000000001
+    },
+    {
+      "char": [
+        "with"
+      ],
+      "start_offset": 1195,
+      "end_offset": 1197,
+      "start": 95.60000000000001,
+      "end": 95.76
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1197,
+      "end_offset": 1198,
+      "start": 95.76,
+      "end": 95.84
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1198,
+      "end_offset": 1200,
+      "start": 95.84,
+      "end": 96.0
+    },
+    {
+      "char": [
+        "ide"
+      ],
+      "start_offset": 1200,
+      "end_offset": 1203,
+      "start": 96.0,
+      "end": 96.24000000000001
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1203,
+      "end_offset": 1203,
+      "start": 96.24000000000001,
+      "end": 96.24000000000001
+    },
+    {
+      "char": [
+        "D"
+      ],
+      "start_offset": 1204,
+      "end_offset": 1205,
+      "start": 96.32000000000001,
+      "end": 96.4
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 1205,
+      "end_offset": 1205,
+      "start": 96.4,
+      "end": 96.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1205,
+      "end_offset": 1205,
+      "start": 96.4,
+      "end": 96.4
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1206,
+      "end_offset": 1207,
+      "start": 96.48,
+      "end": 96.56
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1207,
+      "end_offset": 1208,
+      "start": 96.56,
+      "end": 96.64
+    },
+    {
+      "char": [
+        "ind"
+      ],
+      "start_offset": 1208,
+      "end_offset": 1210,
+      "start": 96.64,
+      "end": 96.8
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1210,
+      "end_offset": 1210,
+      "start": 96.8,
+      "end": 96.8
+    },
+    {
+      "char": [
+        "ca"
+      ],
+      "start_offset": 1211,
+      "end_offset": 1213,
+      "start": 96.88,
+      "end": 97.04
+    },
+    {
+      "char": [
+        "use"
+      ],
+      "start_offset": 1213,
+      "end_offset": 1214,
+      "start": 97.04,
+      "end": 97.12
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1214,
+      "end_offset": 1217,
+      "start": 97.12,
+      "end": 97.36
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1217,
+      "end_offset": 1219,
+      "start": 97.36,
+      "end": 97.52
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1221,
+      "end_offset": 1223,
+      "start": 97.68,
+      "end": 97.84
+    },
+    {
+      "char": [
+        "v"
+      ],
+      "start_offset": 1223,
+      "end_offset": 1227,
+      "start": 97.84,
+      "end": 98.16
+    },
+    {
+      "char": [
+        "iew"
+      ],
+      "start_offset": 1227,
+      "end_offset": 1231,
+      "start": 98.16,
+      "end": 98.48
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1231,
+      "end_offset": 1231,
+      "start": 98.48,
+      "end": 98.48
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 1239,
+      "end_offset": 1242,
+      "start": 99.12,
+      "end": 99.36
+    },
+    {
+      "char": [
+        "any"
+      ],
+      "start_offset": 1242,
+      "end_offset": 1246,
+      "start": 99.36,
+      "end": 99.68
+    },
+    {
+      "char": [
+        "way"
+      ],
+      "start_offset": 1246,
+      "end_offset": 1248,
+      "start": 99.68,
+      "end": 99.84
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1248,
+      "end_offset": 1248,
+      "start": 99.84,
+      "end": 99.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1250,
+      "end_offset": 1252,
+      "start": 100.0,
+      "end": 100.16
+    },
+    {
+      "char": [
+        "could"
+      ],
+      "start_offset": 1252,
+      "end_offset": 1255,
+      "start": 100.16,
+      "end": 100.4
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 1255,
+      "end_offset": 1258,
+      "start": 100.4,
+      "end": 100.64
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1258,
+      "end_offset": 1260,
+      "start": 100.64,
+      "end": 100.8
+    },
+    {
+      "char": [
+        "ea"
+      ],
+      "start_offset": 1260,
+      "end_offset": 1261,
+      "start": 100.8,
+      "end": 100.88
+    },
+    {
+      "char": [
+        "ve"
+      ],
+      "start_offset": 1261,
+      "end_offset": 1263,
+      "start": 100.88,
+      "end": 101.04
+    },
+    {
+      "char": [
+        "if"
+      ],
+      "start_offset": 1264,
+      "end_offset": 1266,
+      "start": 101.12,
+      "end": 101.28
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1266,
+      "end_offset": 1267,
+      "start": 101.28,
+      "end": 101.36
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1267,
+      "end_offset": 1269,
+      "start": 101.36,
+      "end": 101.52
+    },
+    {
+      "char": [
+        "ri"
+      ],
+      "start_offset": 1269,
+      "end_offset": 1270,
+      "start": 101.52,
+      "end": 101.60000000000001
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1270,
+      "end_offset": 1271,
+      "start": 101.60000000000001,
+      "end": 101.68
+    },
+    {
+      "char": [
+        "these"
+      ],
+      "start_offset": 1273,
+      "end_offset": 1275,
+      "start": 101.84,
+      "end": 102.0
+    },
+    {
+      "char": [
+        "point"
+      ],
+      "start_offset": 1276,
+      "end_offset": 1278,
+      "start": 102.08,
+      "end": 102.24000000000001
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1280,
+      "end_offset": 1281,
+      "start": 102.4,
+      "end": 102.48
+    },
+    {
+      "char": [
+        "ess"
+      ],
+      "start_offset": 1281,
+      "end_offset": 1282,
+      "start": 102.48,
+      "end": 102.56
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 1284,
+      "end_offset": 1286,
+      "start": 102.72,
+      "end": 102.88
+    },
+    {
+      "char": [
+        "atch"
+      ],
+      "start_offset": 1286,
+      "end_offset": 1288,
+      "start": 102.88,
+      "end": 103.04
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1290,
+      "end_offset": 1291,
+      "start": 103.2,
+      "end": 103.28
+    },
+    {
+      "char": [
+        "use"
+      ],
+      "start_offset": 1294,
+      "end_offset": 1298,
+      "start": 103.52,
+      "end": 103.84
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1298,
+      "end_offset": 1298,
+      "start": 103.84,
+      "end": 103.84
+    },
+    {
+      "char": [
+        ""
+      ],
+      "start_offset": 1309,
+      "end_offset": 1310,
+      "start": 104.72,
+      "end": 104.8
+    },
+    {
+      "char": [
+        "Q"
+      ],
+      "start_offset": 1310,
+      "end_offset": 1310,
+      "start": 104.8,
+      "end": 104.8
+    },
+    {
+      "char": [
+        "u"
+      ],
+      "start_offset": 1310,
+      "end_offset": 1311,
+      "start": 104.8,
+      "end": 104.88
+    },
+    {
+      "char": [
+        "ick"
+      ],
+      "start_offset": 1311,
+      "end_offset": 1312,
+      "start": 104.88,
+      "end": 104.96000000000001
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1314,
+      "end_offset": 1315,
+      "start": 105.12,
+      "end": 105.2
+    },
+    {
+      "char": [
+        "ound"
+      ],
+      "start_offset": 1315,
+      "end_offset": 1317,
+      "start": 105.2,
+      "end": 105.36
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1319,
+      "end_offset": 1320,
+      "start": 105.52,
+      "end": 105.60000000000001
+    },
+    {
+      "char": [
+        "ull"
+      ],
+      "start_offset": 1320,
+      "end_offset": 1321,
+      "start": 105.60000000000001,
+      "end": 105.68
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1322,
+      "end_offset": 1323,
+      "start": 105.76,
+      "end": 105.84
+    },
+    {
+      "char": [
+        "with"
+      ],
+      "start_offset": 1324,
+      "end_offset": 1326,
+      "start": 105.92,
+      "end": 106.08
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 1326,
+      "end_offset": 1328,
+      "start": 106.08,
+      "end": 106.24000000000001
+    },
+    {
+      "char": [
+        "big"
+      ],
+      "start_offset": 1328,
+      "end_offset": 1330,
+      "start": 106.24000000000001,
+      "end": 106.4
+    },
+    {
+      "char": [
+        "ha"
+      ],
+      "start_offset": 1332,
+      "end_offset": 1333,
+      "start": 106.56,
+      "end": 106.64
+    },
+    {
+      "char": [
+        "nds"
+      ],
+      "start_offset": 1333,
+      "end_offset": 1335,
+      "start": 106.64,
+      "end": 106.8
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1335,
+      "end_offset": 1335,
+      "start": 106.8,
+      "end": 106.8
+    },
+    {
+      "char": [
+        "T"
+      ],
+      "start_offset": 1337,
+      "end_offset": 1338,
+      "start": 106.96000000000001,
+      "end": 107.04
+    },
+    {
+      "char": [
+        "ell"
+      ],
+      "start_offset": 1338,
+      "end_offset": 1340,
+      "start": 107.04,
+      "end": 107.2
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1340,
+      "end_offset": 1341,
+      "start": 107.2,
+      "end": 107.28
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 1341,
+      "end_offset": 1343,
+      "start": 107.28,
+      "end": 107.44
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1343,
+      "end_offset": 1344,
+      "start": 107.44,
+      "end": 107.52
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1344,
+      "end_offset": 1344,
+      "start": 107.52,
+      "end": 107.52
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1345,
+      "end_offset": 1347,
+      "start": 107.60000000000001,
+      "end": 107.76
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1347,
+      "end_offset": 1350,
+      "start": 107.76,
+      "end": 108.0
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1350,
+      "end_offset": 1350,
+      "start": 108.0,
+      "end": 108.0
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 1357,
+      "end_offset": 1359,
+      "start": 108.56,
+      "end": 108.72
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1359,
+      "end_offset": 1360,
+      "start": 108.72,
+      "end": 108.8
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1360,
+      "end_offset": 1360,
+      "start": 108.8,
+      "end": 108.8
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1361,
+      "end_offset": 1363,
+      "start": 108.88,
+      "end": 109.04
+    },
+    {
+      "char": [
+        "sub"
+      ],
+      "start_offset": 1363,
+      "end_offset": 1365,
+      "start": 109.04,
+      "end": 109.2
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1365,
+      "end_offset": 1367,
+      "start": 109.2,
+      "end": 109.36
+    },
+    {
+      "char": [
+        "le"
+      ],
+      "start_offset": 1367,
+      "end_offset": 1369,
+      "start": 109.36,
+      "end": 109.52
+    },
+    {
+      "char": [
+        "ab"
+      ],
+      "start_offset": 1371,
+      "end_offset": 1375,
+      "start": 109.68,
+      "end": 110.0
+    },
+    {
+      "char": [
+        "use"
+      ],
+      "start_offset": 1375,
+      "end_offset": 1379,
+      "start": 110.0,
+      "end": 110.32000000000001
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1379,
+      "end_offset": 1379,
+      "start": 110.32000000000001,
+      "end": 110.32000000000001
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1387,
+      "end_offset": 1389,
+      "start": 110.96000000000001,
+      "end": 111.12
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 1389,
+      "end_offset": 1390,
+      "start": 111.12,
+      "end": 111.2
+    },
+    {
+      "char": [
+        "ar"
+      ],
+      "start_offset": 1390,
+      "end_offset": 1393,
+      "start": 111.2,
+      "end": 111.44
+    },
+    {
+      "char": [
+        "those"
+      ],
+      "start_offset": 1393,
+      "end_offset": 1397,
+      "start": 111.44,
+      "end": 111.76
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 1397,
+      "end_offset": 1399,
+      "start": 111.76,
+      "end": 111.92
+    },
+    {
+      "char": [
+        "ist"
+      ],
+      "start_offset": 1399,
+      "end_offset": 1402,
+      "start": 111.92,
+      "end": 112.16
+    },
+    {
+      "char": [
+        "ant"
+      ],
+      "start_offset": 1402,
+      "end_offset": 1405,
+      "start": 112.16,
+      "end": 112.4
+    },
+    {
+      "char": [
+        "v"
+      ],
+      "start_offset": 1405,
+      "end_offset": 1407,
+      "start": 112.4,
+      "end": 112.56
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1407,
+      "end_offset": 1410,
+      "start": 112.56,
+      "end": 112.8
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 1410,
+      "end_offset": 1412,
+      "start": 112.8,
+      "end": 112.96000000000001
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 1412,
+      "end_offset": 1415,
+      "start": 112.96000000000001,
+      "end": 113.2
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1415,
+      "end_offset": 1415,
+      "start": 113.2,
+      "end": 113.2
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1419,
+      "end_offset": 1421,
+      "start": 113.52,
+      "end": 113.68
+    },
+    {
+      "char": [
+        "they"
+      ],
+      "start_offset": 1421,
+      "end_offset": 1424,
+      "start": 113.68,
+      "end": 113.92
+    },
+    {
+      "char": [
+        "get"
+      ],
+      "start_offset": 1424,
+      "end_offset": 1428,
+      "start": 113.92,
+      "end": 114.24000000000001
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 1428,
+      "end_offset": 1432,
+      "start": 114.24000000000001,
+      "end": 114.56
+    },
+    {
+      "char": [
+        "high"
+      ],
+      "start_offset": 1432,
+      "end_offset": 1434,
+      "start": 114.56,
+      "end": 114.72
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1436,
+      "end_offset": 1440,
+      "start": 114.88,
+      "end": 115.2
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 1440,
+      "end_offset": 1442,
+      "start": 115.2,
+      "end": 115.36
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1444,
+      "end_offset": 1446,
+      "start": 115.52,
+      "end": 115.68
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1446,
+      "end_offset": 1447,
+      "start": 115.68,
+      "end": 115.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1447,
+      "end_offset": 1447,
+      "start": 115.76,
+      "end": 115.76
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1456,
+      "end_offset": 1459,
+      "start": 116.48,
+      "end": 116.72
+    },
+    {
+      "char": [
+        "think"
+      ],
+      "start_offset": 1459,
+      "end_offset": 1462,
+      "start": 116.72,
+      "end": 116.96000000000001
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1462,
+      "end_offset": 1463,
+      "start": 116.96000000000001,
+      "end": 117.04
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1466,
+      "end_offset": 1468,
+      "start": 117.28,
+      "end": 117.44
+    },
+    {
+      "char": [
+        "ound"
+      ],
+      "start_offset": 1468,
+      "end_offset": 1471,
+      "start": 117.44,
+      "end": 117.68
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1471,
+      "end_offset": 1475,
+      "start": 117.68,
+      "end": 118.0
+    },
+    {
+      "char": [
+        "po"
+      ],
+      "start_offset": 1475,
+      "end_offset": 1479,
+      "start": 118.0,
+      "end": 118.32000000000001
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 1479,
+      "end_offset": 1483,
+      "start": 118.32000000000001,
+      "end": 118.64
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 1483,
+      "end_offset": 1487,
+      "start": 118.64,
+      "end": 118.96000000000001
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1487,
+      "end_offset": 1487,
+      "start": 118.96000000000001,
+      "end": 118.96000000000001
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 1495,
+      "end_offset": 1498,
+      "start": 119.60000000000001,
+      "end": 119.84
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1498,
+      "end_offset": 1498,
+      "start": 119.84,
+      "end": 119.84
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 1500,
+      "end_offset": 1502,
+      "start": 120.0,
+      "end": 120.16
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1502,
+      "end_offset": 1502,
+      "start": 120.16,
+      "end": 120.16
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1503,
+      "end_offset": 1506,
+      "start": 120.24000000000001,
+      "end": 120.48
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1506,
+      "end_offset": 1509,
+      "start": 120.48,
+      "end": 120.72
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1509,
+      "end_offset": 1511,
+      "start": 120.72,
+      "end": 120.88
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1511,
+      "end_offset": 1513,
+      "start": 120.88,
+      "end": 121.04
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 1513,
+      "end_offset": 1516,
+      "start": 121.04,
+      "end": 121.28
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 1516,
+      "end_offset": 1518,
+      "start": 121.28,
+      "end": 121.44
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1518,
+      "end_offset": 1518,
+      "start": 121.44,
+      "end": 121.44
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 1522,
+      "end_offset": 1523,
+      "start": 121.76,
+      "end": 121.84
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1523,
+      "end_offset": 1523,
+      "start": 121.84,
+      "end": 121.84
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1524,
+      "end_offset": 1526,
+      "start": 121.92,
+      "end": 122.08
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1526,
+      "end_offset": 1529,
+      "start": 122.08,
+      "end": 122.32000000000001
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1531,
+      "end_offset": 1533,
+      "start": 122.48,
+      "end": 122.64
+    },
+    {
+      "char": [
+        "con"
+      ],
+      "start_offset": 1535,
+      "end_offset": 1537,
+      "start": 122.8,
+      "end": 122.96000000000001
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 1537,
+      "end_offset": 1540,
+      "start": 122.96000000000001,
+      "end": 123.2
+    },
+    {
+      "char": [
+        "ant"
+      ],
+      "start_offset": 1540,
+      "end_offset": 1543,
+      "start": 123.2,
+      "end": 123.44
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 1543,
+      "end_offset": 1546,
+      "start": 123.44,
+      "end": 123.68
+    },
+    {
+      "char": [
+        "ra"
+      ],
+      "start_offset": 1546,
+      "end_offset": 1548,
+      "start": 123.68,
+      "end": 123.84
+    },
+    {
+      "char": [
+        "ving"
+      ],
+      "start_offset": 1548,
+      "end_offset": 1550,
+      "start": 123.84,
+      "end": 124.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1550,
+      "end_offset": 1550,
+      "start": 124.0,
+      "end": 124.0
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 1557,
+      "end_offset": 1558,
+      "start": 124.56,
+      "end": 124.64
+    },
+    {
+      "char": [
+        "they"
+      ],
+      "start_offset": 1558,
+      "end_offset": 1559,
+      "start": 124.64,
+      "end": 124.72
+    },
+    {
+      "char": [
+        "get"
+      ],
+      "start_offset": 1561,
+      "end_offset": 1563,
+      "start": 124.88000000000001,
+      "end": 125.04
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 1566,
+      "end_offset": 1568,
+      "start": 125.28,
+      "end": 125.44
+    },
+    {
+      "char": [
+        "all"
+      ],
+      "start_offset": 1570,
+      "end_offset": 1572,
+      "start": 125.60000000000001,
+      "end": 125.76
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1575,
+      "end_offset": 1577,
+      "start": 126.0,
+      "end": 126.16
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1579,
+      "end_offset": 1581,
+      "start": 126.32000000000001,
+      "end": 126.48
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1581,
+      "end_offset": 1582,
+      "start": 126.48,
+      "end": 126.56
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 1584,
+      "end_offset": 1586,
+      "start": 126.72,
+      "end": 126.88000000000001
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1586,
+      "end_offset": 1588,
+      "start": 126.88000000000001,
+      "end": 127.04
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1588,
+      "end_offset": 1588,
+      "start": 127.04,
+      "end": 127.04
+    },
+    {
+      "char": [
+        "To"
+      ],
+      "start_offset": 1595,
+      "end_offset": 1597,
+      "start": 127.60000000000001,
+      "end": 127.76
+    },
+    {
+      "char": [
+        "x"
+      ],
+      "start_offset": 1597,
+      "end_offset": 1599,
+      "start": 127.76,
+      "end": 127.92
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 1599,
+      "end_offset": 1601,
+      "start": 127.92,
+      "end": 128.08
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1603,
+      "end_offset": 1604,
+      "start": 128.24,
+      "end": 128.32
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1608,
+      "end_offset": 1611,
+      "start": 128.64000000000001,
+      "end": 128.88
+    },
+    {
+      "char": [
+        "po"
+      ],
+      "start_offset": 1613,
+      "end_offset": 1616,
+      "start": 129.04,
+      "end": 129.28
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 1616,
+      "end_offset": 1619,
+      "start": 129.28,
+      "end": 129.52
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 1619,
+      "end_offset": 1623,
+      "start": 129.52,
+      "end": 129.84
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1623,
+      "end_offset": 1623,
+      "start": 129.84,
+      "end": 129.84
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 1635,
+      "end_offset": 1636,
+      "start": 130.8,
+      "end": 130.88
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 1638,
+      "end_offset": 1640,
+      "start": 131.04,
+      "end": 131.2
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1640,
+      "end_offset": 1640,
+      "start": 131.2,
+      "end": 131.2
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1641,
+      "end_offset": 1643,
+      "start": 131.28,
+      "end": 131.44
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1643,
+      "end_offset": 1646,
+      "start": 131.44,
+      "end": 131.68
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1646,
+      "end_offset": 1648,
+      "start": 131.68,
+      "end": 131.84
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1648,
+      "end_offset": 1650,
+      "start": 131.84,
+      "end": 132.0
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 1650,
+      "end_offset": 1651,
+      "start": 132.0,
+      "end": 132.08
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 1651,
+      "end_offset": 1653,
+      "start": 132.08,
+      "end": 132.24
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1653,
+      "end_offset": 1653,
+      "start": 132.24,
+      "end": 132.24
+    },
+    {
+      "char": [
+        "M"
+      ],
+      "start_offset": 1655,
+      "end_offset": 1656,
+      "start": 132.4,
+      "end": 132.48
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1656,
+      "end_offset": 1657,
+      "start": 132.48,
+      "end": 132.56
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1659,
+      "end_offset": 1661,
+      "start": 132.72,
+      "end": 132.88
+    },
+    {
+      "char": [
+        "ace"
+      ],
+      "start_offset": 1661,
+      "end_offset": 1663,
+      "start": 132.88,
+      "end": 133.04
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1663,
+      "end_offset": 1663,
+      "start": 133.04,
+      "end": 133.04
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1666,
+      "end_offset": 1667,
+      "start": 133.28,
+      "end": 133.36
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1667,
+      "end_offset": 1667,
+      "start": 133.36,
+      "end": 133.36
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1671,
+      "end_offset": 1671,
+      "start": 133.68,
+      "end": 133.68
+    },
+    {
+      "char": [
+        "cl"
+      ],
+      "start_offset": 1673,
+      "end_offset": 1675,
+      "start": 133.84,
+      "end": 134.0
+    },
+    {
+      "char": [
+        "os"
+      ],
+      "start_offset": 1675,
+      "end_offset": 1677,
+      "start": 134.0,
+      "end": 134.16
+    },
+    {
+      "char": [
+        "er"
+      ],
+      "start_offset": 1677,
+      "end_offset": 1678,
+      "start": 134.16,
+      "end": 134.24
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1678,
+      "end_offset": 1678,
+      "start": 134.24,
+      "end": 134.24
+    },
+    {
+      "char": [
+        "S"
+      ],
+      "start_offset": 1685,
+      "end_offset": 1686,
+      "start": 134.8,
+      "end": 134.88
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1686,
+      "end_offset": 1687,
+      "start": 134.88,
+      "end": 134.96
+    },
+    {
+      "char": [
+        "ut"
+      ],
+      "start_offset": 1687,
+      "end_offset": 1688,
+      "start": 134.96,
+      "end": 135.04
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1689,
+      "end_offset": 1690,
+      "start": 135.12,
+      "end": 135.2
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1698,
+      "end_offset": 1700,
+      "start": 135.84,
+      "end": 136.0
+    },
+    {
+      "char": [
+        "ace"
+      ],
+      "start_offset": 1700,
+      "end_offset": 1702,
+      "start": 136.0,
+      "end": 136.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1702,
+      "end_offset": 1702,
+      "start": 136.16,
+      "end": 136.16
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1704,
+      "end_offset": 1705,
+      "start": 136.32,
+      "end": 136.4
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 1706,
+      "end_offset": 1707,
+      "start": 136.48,
+      "end": 136.56
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1709,
+      "end_offset": 1710,
+      "start": 136.72,
+      "end": 136.8
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1710,
+      "end_offset": 1710,
+      "start": 136.8,
+      "end": 136.8
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1710,
+      "end_offset": 1710,
+      "start": 136.8,
+      "end": 136.8
+    },
+    {
+      "char": [
+        "S"
+      ],
+      "start_offset": 1719,
+      "end_offset": 1720,
+      "start": 137.52,
+      "end": 137.6
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1720,
+      "end_offset": 1720,
+      "start": 137.6,
+      "end": 137.6
+    },
+    {
+      "char": [
+        "ould"
+      ],
+      "start_offset": 1721,
+      "end_offset": 1722,
+      "start": 137.68,
+      "end": 137.76
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1724,
+      "end_offset": 1725,
+      "start": 137.92000000000002,
+      "end": 138.0
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1728,
+      "end_offset": 1730,
+      "start": 138.24,
+      "end": 138.4
+    },
+    {
+      "char": [
+        "ace"
+      ],
+      "start_offset": 1730,
+      "end_offset": 1732,
+      "start": 138.4,
+      "end": 138.56
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1735,
+      "end_offset": 1737,
+      "start": 138.8,
+      "end": 138.96
+    },
+    {
+      "char": [
+        "um"
+      ],
+      "start_offset": 1737,
+      "end_offset": 1738,
+      "start": 138.96,
+      "end": 139.04
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1738,
+      "end_offset": 1739,
+      "start": 139.04,
+      "end": 139.12
+    },
+    {
+      "char": [
+        "cl"
+      ],
+      "start_offset": 1742,
+      "end_offset": 1743,
+      "start": 139.36,
+      "end": 139.44
+    },
+    {
+      "char": [
+        "os"
+      ],
+      "start_offset": 1745,
+      "end_offset": 1746,
+      "start": 139.6,
+      "end": 139.68
+    },
+    {
+      "char": [
+        "ure"
+      ],
+      "start_offset": 1746,
+      "end_offset": 1747,
+      "start": 139.68,
+      "end": 139.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1747,
+      "end_offset": 1747,
+      "start": 139.76,
+      "end": 139.76
+    },
+    {
+      "char": [
+        "S"
+      ],
+      "start_offset": 1754,
+      "end_offset": 1755,
+      "start": 140.32,
+      "end": 140.4
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1755,
+      "end_offset": 1756,
+      "start": 140.4,
+      "end": 140.48
+    },
+    {
+      "char": [
+        "um"
+      ],
+      "start_offset": 1756,
+      "end_offset": 1757,
+      "start": 140.48,
+      "end": 140.56
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1759,
+      "end_offset": 1760,
+      "start": 140.72,
+      "end": 140.8
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1760,
+      "end_offset": 1761,
+      "start": 140.8,
+      "end": 140.88
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1766,
+      "end_offset": 1767,
+      "start": 141.28,
+      "end": 141.36
+    },
+    {
+      "char": [
+        "ence"
+      ],
+      "start_offset": 1769,
+      "end_offset": 1771,
+      "start": 141.52,
+      "end": 141.68
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1771,
+      "end_offset": 1771,
+      "start": 141.68,
+      "end": 141.68
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 1774,
+      "end_offset": 1775,
+      "start": 141.92000000000002,
+      "end": 142.0
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 1776,
+      "end_offset": 1778,
+      "start": 142.08,
+      "end": 142.24
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1778,
+      "end_offset": 1778,
+      "start": 142.24,
+      "end": 142.24
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1779,
+      "end_offset": 1781,
+      "start": 142.32,
+      "end": 142.48
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1781,
+      "end_offset": 1783,
+      "start": 142.48,
+      "end": 142.64000000000001
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1784,
+      "end_offset": 1786,
+      "start": 142.72,
+      "end": 142.88
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1786,
+      "end_offset": 1788,
+      "start": 142.88,
+      "end": 143.04
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 1788,
+      "end_offset": 1789,
+      "start": 143.04,
+      "end": 143.12
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 1789,
+      "end_offset": 1792,
+      "start": 143.12,
+      "end": 143.36
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1792,
+      "end_offset": 1792,
+      "start": 143.36,
+      "end": 143.36
+    },
+    {
+      "char": [
+        "M"
+      ],
+      "start_offset": 1793,
+      "end_offset": 1794,
+      "start": 143.44,
+      "end": 143.52
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1794,
+      "end_offset": 1796,
+      "start": 143.52,
+      "end": 143.68
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1797,
+      "end_offset": 1799,
+      "start": 143.76,
+      "end": 143.92000000000002
+    },
+    {
+      "char": [
+        "ace"
+      ],
+      "start_offset": 1799,
+      "end_offset": 1801,
+      "start": 143.92000000000002,
+      "end": 144.08
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1801,
+      "end_offset": 1801,
+      "start": 144.08,
+      "end": 144.08
+    },
+    {
+      "char": [
+        "That"
+      ],
+      "start_offset": 1914,
+      "end_offset": 1916,
+      "start": 153.12,
+      "end": 153.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1916,
+      "end_offset": 1916,
+      "start": 153.28,
+      "end": 153.28
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1917,
+      "end_offset": 1919,
+      "start": 153.36,
+      "end": 153.52
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1919,
+      "end_offset": 1922,
+      "start": 153.52,
+      "end": 153.76
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1922,
+      "end_offset": 1924,
+      "start": 153.76,
+      "end": 153.92000000000002
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1924,
+      "end_offset": 1926,
+      "start": 153.92000000000002,
+      "end": 154.08
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 1926,
+      "end_offset": 1929,
+      "start": 154.08,
+      "end": 154.32
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 1929,
+      "end_offset": 1931,
+      "start": 154.32,
+      "end": 154.48
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1931,
+      "end_offset": 1931,
+      "start": 154.48,
+      "end": 154.48
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 1953,
+      "end_offset": 1954,
+      "start": 156.24,
+      "end": 156.32
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 1956,
+      "end_offset": 1958,
+      "start": 156.48,
+      "end": 156.64000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1958,
+      "end_offset": 1958,
+      "start": 156.64000000000001,
+      "end": 156.64000000000001
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1959,
+      "end_offset": 1959,
+      "start": 156.72,
+      "end": 156.72
+    },
+    {
+      "char": [
+        "try"
+      ],
+      "start_offset": 1961,
+      "end_offset": 1963,
+      "start": 156.88,
+      "end": 157.04
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 1966,
+      "end_offset": 1968,
+      "start": 157.28,
+      "end": 157.44
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1969,
+      "end_offset": 1971,
+      "start": 157.52,
+      "end": 157.68
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1972,
+      "end_offset": 1973,
+      "start": 157.76,
+      "end": 157.84
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1973,
+      "end_offset": 1973,
+      "start": 157.84,
+      "end": 157.84
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 1979,
+      "end_offset": 1981,
+      "start": 158.32,
+      "end": 158.48
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 1985,
+      "end_offset": 1988,
+      "start": 158.8,
+      "end": 159.04
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1988,
+      "end_offset": 1990,
+      "start": 159.04,
+      "end": 159.20000000000002
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1990,
+      "end_offset": 1990,
+      "start": 159.20000000000002,
+      "end": 159.20000000000002
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 1992,
+      "end_offset": 1994,
+      "start": 159.36,
+      "end": 159.52
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 1997,
+      "end_offset": 2001,
+      "start": 159.76,
+      "end": 160.08
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 2001,
+      "end_offset": 2005,
+      "start": 160.08,
+      "end": 160.4
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 2005,
+      "end_offset": 2005,
+      "start": 160.4,
+      "end": 160.4
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 2021,
+      "end_offset": 2022,
+      "start": 161.68,
+      "end": 161.76
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 2025,
+      "end_offset": 2027,
+      "start": 162.0,
+      "end": 162.16
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2027,
+      "end_offset": 2027,
+      "start": 162.16,
+      "end": 162.16
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2028,
+      "end_offset": 2028,
+      "start": 162.24,
+      "end": 162.24
+    },
+    {
+      "char": [
+        "try"
+      ],
+      "start_offset": 2030,
+      "end_offset": 2032,
+      "start": 162.4,
+      "end": 162.56
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 2035,
+      "end_offset": 2037,
+      "start": 162.8,
+      "end": 162.96
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 2038,
+      "end_offset": 2040,
+      "start": 163.04,
+      "end": 163.20000000000002
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 2042,
+      "end_offset": 2043,
+      "start": 163.36,
+      "end": 163.44
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2043,
+      "end_offset": 2043,
+      "start": 163.44,
+      "end": 163.44
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 2048,
+      "end_offset": 2050,
+      "start": 163.84,
+      "end": 164.0
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 2053,
+      "end_offset": 2056,
+      "start": 164.24,
+      "end": 164.48
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 2056,
+      "end_offset": 2059,
+      "start": 164.48,
+      "end": 164.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2059,
+      "end_offset": 2059,
+      "start": 164.72,
+      "end": 164.72
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 2061,
+      "end_offset": 2063,
+      "start": 164.88,
+      "end": 165.04
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 2067,
+      "end_offset": 2071,
+      "start": 165.36,
+      "end": 165.68
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 2071,
+      "end_offset": 2075,
+      "start": 165.68,
+      "end": 166.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 2075,
+      "end_offset": 2075,
+      "start": 166.0,
+      "end": 166.0
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 2090,
+      "end_offset": 2091,
+      "start": 167.20000000000002,
+      "end": 167.28
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 2094,
+      "end_offset": 2096,
+      "start": 167.52,
+      "end": 167.68
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2096,
+      "end_offset": 2096,
+      "start": 167.68,
+      "end": 167.68
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2097,
+      "end_offset": 2097,
+      "start": 167.76,
+      "end": 167.76
+    },
+    {
+      "char": [
+        "try"
+      ],
+      "start_offset": 2099,
+      "end_offset": 2101,
+      "start": 167.92000000000002,
+      "end": 168.08
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 2104,
+      "end_offset": 2106,
+      "start": 168.32,
+      "end": 168.48
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 2107,
+      "end_offset": 2109,
+      "start": 168.56,
+      "end": 168.72
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 2110,
+      "end_offset": 2111,
+      "start": 168.8,
+      "end": 168.88
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2111,
+      "end_offset": 2111,
+      "start": 168.88,
+      "end": 168.88
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 2117,
+      "end_offset": 2119,
+      "start": 169.36,
+      "end": 169.52
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 2122,
+      "end_offset": 2124,
+      "start": 169.76,
+      "end": 169.92000000000002
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 2124,
+      "end_offset": 2127,
+      "start": 169.92000000000002,
+      "end": 170.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2127,
+      "end_offset": 2127,
+      "start": 170.16,
+      "end": 170.16
+    },
+    {
+      "char": [
+        "never"
+      ],
+      "start_offset": 2130,
+      "end_offset": 2132,
+      "start": 170.4,
+      "end": 170.56
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 2135,
+      "end_offset": 2139,
+      "start": 170.8,
+      "end": 171.12
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 2139,
+      "end_offset": 2143,
+      "start": 171.12,
+      "end": 171.44
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 2143,
+      "end_offset": 2143,
+      "start": 171.44,
+      "end": 171.44
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 2187,
+      "end_offset": 2188,
+      "start": 174.96,
+      "end": 175.04
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 2190,
+      "end_offset": 2192,
+      "start": 175.20000000000002,
+      "end": 175.36
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2192,
+      "end_offset": 2192,
+      "start": 175.36,
+      "end": 175.36
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 2193,
+      "end_offset": 2195,
+      "start": 175.44,
+      "end": 175.6
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2195,
+      "end_offset": 2198,
+      "start": 175.6,
+      "end": 175.84
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2198,
+      "end_offset": 2200,
+      "start": 175.84,
+      "end": 176.0
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 2200,
+      "end_offset": 2202,
+      "start": 176.0,
+      "end": 176.16
+    },
+    {
+      "char": [
+        "ic"
+      ],
+      "start_offset": 2202,
+      "end_offset": 2204,
+      "start": 176.16,
+      "end": 176.32
+    },
+    {
+      "char": [
+        "ine"
+      ],
+      "start_offset": 2204,
+      "end_offset": 2207,
+      "start": 176.32,
+      "end": 176.56
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 2207,
+      "end_offset": 2207,
+      "start": 176.56,
+      "end": 176.56
+    }
+  ],
+  "word": [
+    {
+      "word": "Never",
+      "start_offset": 8,
+      "end_offset": 13,
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "word": "been",
+      "start_offset": 13,
+      "end_offset": 16,
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "word": "controlled",
+      "start_offset": 16,
+      "end_offset": 25,
+      "start": 1.28,
+      "end": 2.0
+    },
+    {
+      "word": "by",
+      "start_offset": 25,
+      "end_offset": 29,
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "word": "evil,",
+      "start_offset": 29,
+      "end_offset": 37,
+      "start": 2.32,
+      "end": 2.96
+    },
+    {
+      "word": "but",
+      "start_offset": 45,
+      "end_offset": 48,
+      "start": 3.6,
+      "end": 3.84
+    },
+    {
+      "word": "it's",
+      "start_offset": 48,
+      "end_offset": 52,
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "word": "got",
+      "start_offset": 52,
+      "end_offset": 54,
+      "start": 4.16,
+      "end": 4.32
+    },
+    {
+      "word": "my",
+      "start_offset": 57,
+      "end_offset": 60,
+      "start": 4.5600000000000005,
+      "end": 4.8
+    },
+    {
+      "word": "soul.",
+      "start_offset": 60,
+      "end_offset": 72,
+      "start": 4.8,
+      "end": 5.76
+    },
+    {
+      "word": "Sticky",
+      "start_offset": 81,
+      "end_offset": 89,
+      "start": 6.48,
+      "end": 7.12
+    },
+    {
+      "word": "like",
+      "start_offset": 91,
+      "end_offset": 93,
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "word": "trick-or-only",
+      "start_offset": 94,
+      "end_offset": 109,
+      "start": 7.5200000000000005,
+      "end": 8.72
+    },
+    {
+      "word": "ways",
+      "start_offset": 112,
+      "end_offset": 116,
+      "start": 8.96,
+      "end": 9.28
+    },
+    {
+      "word": "to",
+      "start_offset": 117,
+      "end_offset": 118,
+      "start": 9.36,
+      "end": 9.44
+    },
+    {
+      "word": "fill",
+      "start_offset": 121,
+      "end_offset": 124,
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "my",
+      "start_offset": 126,
+      "end_offset": 130,
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "word": "hole.",
+      "start_offset": 130,
+      "end_offset": 142,
+      "start": 10.4,
+      "end": 11.36
+    },
+    {
+      "word": "Straight",
+      "start_offset": 150,
+      "end_offset": 156,
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "word": "from",
+      "start_offset": 156,
+      "end_offset": 160,
+      "start": 12.48,
+      "end": 12.8
+    },
+    {
+      "word": "the",
+      "start_offset": 160,
+      "end_offset": 164,
+      "start": 12.8,
+      "end": 13.120000000000001
+    },
+    {
+      "word": "needle",
+      "start_offset": 164,
+      "end_offset": 172,
+      "start": 13.120000000000001,
+      "end": 13.76
+    },
+    {
+      "word": "to",
+      "start_offset": 172,
+      "end_offset": 176,
+      "start": 13.76,
+      "end": 14.08
+    },
+    {
+      "word": "my",
+      "start_offset": 176,
+      "end_offset": 180,
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "word": "head,",
+      "start_offset": 180,
+      "end_offset": 184,
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "word": "my",
+      "start_offset": 186,
+      "end_offset": 189,
+      "start": 14.88,
+      "end": 15.120000000000001
+    },
+    {
+      "word": "eyes",
+      "start_offset": 189,
+      "end_offset": 197,
+      "start": 15.120000000000001,
+      "end": 15.76
+    },
+    {
+      "word": "will",
+      "start_offset": 197,
+      "end_offset": 201,
+      "start": 15.76,
+      "end": 16.080000000000002
+    },
+    {
+      "word": "roll",
+      "start_offset": 201,
+      "end_offset": 209,
+      "start": 16.080000000000002,
+      "end": 16.72
+    },
+    {
+      "word": "Straight",
+      "start_offset": 253,
+      "end_offset": 260,
+      "start": 20.240000000000002,
+      "end": 20.8
+    },
+    {
+      "word": "from",
+      "start_offset": 260,
+      "end_offset": 264,
+      "start": 20.8,
+      "end": 21.12
+    },
+    {
+      "word": "the",
+      "start_offset": 264,
+      "end_offset": 268,
+      "start": 21.12,
+      "end": 21.44
+    },
+    {
+      "word": "needle.",
+      "start_offset": 268,
+      "end_offset": 275,
+      "start": 21.44,
+      "end": 22.0
+    },
+    {
+      "word": "I",
+      "start_offset": 283,
+      "end_offset": 285,
+      "start": 22.64,
+      "end": 22.8
+    },
+    {
+      "word": "hear",
+      "start_offset": 285,
+      "end_offset": 290,
+      "start": 22.8,
+      "end": 23.2
+    },
+    {
+      "word": "those",
+      "start_offset": 290,
+      "end_offset": 294,
+      "start": 23.2,
+      "end": 23.52
+    },
+    {
+      "word": "distant",
+      "start_offset": 294,
+      "end_offset": 302,
+      "start": 23.52,
+      "end": 24.16
+    },
+    {
+      "word": "voices,",
+      "start_offset": 302,
+      "end_offset": 311,
+      "start": 24.16,
+      "end": 24.88
+    },
+    {
+      "word": "and",
+      "start_offset": 315,
+      "end_offset": 317,
+      "start": 25.2,
+      "end": 25.36
+    },
+    {
+      "word": "they",
+      "start_offset": 317,
+      "end_offset": 321,
+      "start": 25.36,
+      "end": 25.68
+    },
+    {
+      "word": "get",
+      "start_offset": 321,
+      "end_offset": 324,
+      "start": 25.68,
+      "end": 25.92
+    },
+    {
+      "word": "me",
+      "start_offset": 324,
+      "end_offset": 328,
+      "start": 25.92,
+      "end": 26.240000000000002
+    },
+    {
+      "word": "high",
+      "start_offset": 328,
+      "end_offset": 331,
+      "start": 26.240000000000002,
+      "end": 26.48
+    },
+    {
+      "word": "like",
+      "start_offset": 332,
+      "end_offset": 334,
+      "start": 26.560000000000002,
+      "end": 26.72
+    },
+    {
+      "word": "heroin.",
+      "start_offset": 337,
+      "end_offset": 343,
+      "start": 26.96,
+      "end": 27.44
+    },
+    {
+      "word": "I",
+      "start_offset": 353,
+      "end_offset": 355,
+      "start": 28.240000000000002,
+      "end": 28.400000000000002
+    },
+    {
+      "word": "think",
+      "start_offset": 355,
+      "end_offset": 358,
+      "start": 28.400000000000002,
+      "end": 28.64
+    },
+    {
+      "word": "I",
+      "start_offset": 358,
+      "end_offset": 359,
+      "start": 28.64,
+      "end": 28.72
+    },
+    {
+      "word": "found",
+      "start_offset": 362,
+      "end_offset": 368,
+      "start": 28.96,
+      "end": 29.44
+    },
+    {
+      "word": "my",
+      "start_offset": 368,
+      "end_offset": 372,
+      "start": 29.44,
+      "end": 29.76
+    },
+    {
+      "word": "poison.",
+      "start_offset": 372,
+      "end_offset": 384,
+      "start": 29.76,
+      "end": 30.72
+    },
+    {
+      "word": "No,",
+      "start_offset": 392,
+      "end_offset": 395,
+      "start": 31.36,
+      "end": 31.6
+    },
+    {
+      "word": "that's",
+      "start_offset": 397,
+      "end_offset": 402,
+      "start": 31.76,
+      "end": 32.160000000000004
+    },
+    {
+      "word": "my",
+      "start_offset": 402,
+      "end_offset": 405,
+      "start": 32.160000000000004,
+      "end": 32.4
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 405,
+      "end_offset": 415,
+      "start": 32.4,
+      "end": 33.2
+    },
+    {
+      "word": "It's",
+      "start_offset": 418,
+      "end_offset": 423,
+      "start": 33.44,
+      "end": 33.84
+    },
+    {
+      "word": "like",
+      "start_offset": 423,
+      "end_offset": 426,
+      "start": 33.84,
+      "end": 34.08
+    },
+    {
+      "word": "a",
+      "start_offset": 428,
+      "end_offset": 430,
+      "start": 34.24,
+      "end": 34.4
+    },
+    {
+      "word": "constant",
+      "start_offset": 431,
+      "end_offset": 439,
+      "start": 34.480000000000004,
+      "end": 35.12
+    },
+    {
+      "word": "craving.",
+      "start_offset": 439,
+      "end_offset": 446,
+      "start": 35.12,
+      "end": 35.68
+    },
+    {
+      "word": "And",
+      "start_offset": 453,
+      "end_offset": 455,
+      "start": 36.24,
+      "end": 36.4
+    },
+    {
+      "word": "they",
+      "start_offset": 455,
+      "end_offset": 457,
+      "start": 36.4,
+      "end": 36.56
+    },
+    {
+      "word": "get",
+      "start_offset": 457,
+      "end_offset": 459,
+      "start": 36.56,
+      "end": 36.72
+    },
+    {
+      "word": "me",
+      "start_offset": 463,
+      "end_offset": 464,
+      "start": 37.04,
+      "end": 37.12
+    },
+    {
+      "word": "all",
+      "start_offset": 466,
+      "end_offset": 468,
+      "start": 37.28,
+      "end": 37.44
+    },
+    {
+      "word": "I",
+      "start_offset": 471,
+      "end_offset": 473,
+      "start": 37.68,
+      "end": 37.84
+    },
+    {
+      "word": "ever",
+      "start_offset": 474,
+      "end_offset": 476,
+      "start": 37.92,
+      "end": 38.08
+    },
+    {
+      "word": "win.",
+      "start_offset": 480,
+      "end_offset": 485,
+      "start": 38.4,
+      "end": 38.800000000000004
+    },
+    {
+      "word": "Toxic",
+      "start_offset": 491,
+      "end_offset": 498,
+      "start": 39.28,
+      "end": 39.84
+    },
+    {
+      "word": "love",
+      "start_offset": 501,
+      "end_offset": 504,
+      "start": 40.08,
+      "end": 40.32
+    },
+    {
+      "word": "like",
+      "start_offset": 505,
+      "end_offset": 507,
+      "start": 40.4,
+      "end": 40.56
+    },
+    {
+      "word": "poison.",
+      "start_offset": 510,
+      "end_offset": 520,
+      "start": 40.800000000000004,
+      "end": 41.6
+    },
+    {
+      "word": "But",
+      "start_offset": 532,
+      "end_offset": 533,
+      "start": 42.56,
+      "end": 42.64
+    },
+    {
+      "word": "that's",
+      "start_offset": 535,
+      "end_offset": 540,
+      "start": 42.800000000000004,
+      "end": 43.2
+    },
+    {
+      "word": "my",
+      "start_offset": 540,
+      "end_offset": 542,
+      "start": 43.2,
+      "end": 43.36
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 542,
+      "end_offset": 550,
+      "start": 43.36,
+      "end": 44.0
+    },
+    {
+      "word": "My",
+      "start_offset": 551,
+      "end_offset": 554,
+      "start": 44.08,
+      "end": 44.32
+    },
+    {
+      "word": "friend,",
+      "start_offset": 555,
+      "end_offset": 559,
+      "start": 44.4,
+      "end": 44.72
+    },
+    {
+      "word": "it's",
+      "start_offset": 572,
+      "end_offset": 575,
+      "start": 45.76,
+      "end": 46.0
+    },
+    {
+      "word": "fine.",
+      "start_offset": 578,
+      "end_offset": 582,
+      "start": 46.24,
+      "end": 46.56
+    },
+    {
+      "word": "That's",
+      "start_offset": 673,
+      "end_offset": 677,
+      "start": 53.84,
+      "end": 54.160000000000004
+    },
+    {
+      "word": "my",
+      "start_offset": 677,
+      "end_offset": 679,
+      "start": 54.160000000000004,
+      "end": 54.32
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 680,
+      "end_offset": 687,
+      "start": 54.4,
+      "end": 54.96
+    },
+    {
+      "word": "My",
+      "start_offset": 690,
+      "end_offset": 692,
+      "start": 55.2,
+      "end": 55.36
+    },
+    {
+      "word": "friend,",
+      "start_offset": 693,
+      "end_offset": 697,
+      "start": 55.44,
+      "end": 55.76
+    },
+    {
+      "word": "fixed,",
+      "start_offset": 698,
+      "end_offset": 703,
+      "start": 55.84,
+      "end": 56.24
+    },
+    {
+      "word": "pumped,",
+      "start_offset": 705,
+      "end_offset": 709,
+      "start": 56.4,
+      "end": 56.72
+    },
+    {
+      "word": "fast.",
+      "start_offset": 715,
+      "end_offset": 719,
+      "start": 57.2,
+      "end": 57.52
+    },
+    {
+      "word": "That's",
+      "start_offset": 811,
+      "end_offset": 816,
+      "start": 64.88,
+      "end": 65.28
+    },
+    {
+      "word": "my",
+      "start_offset": 816,
+      "end_offset": 819,
+      "start": 65.28,
+      "end": 65.52
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 819,
+      "end_offset": 827,
+      "start": 65.52,
+      "end": 66.16
+    },
+    {
+      "word": "You",
+      "start_offset": 849,
+      "end_offset": 850,
+      "start": 67.92,
+      "end": 68.0
+    },
+    {
+      "word": "don't",
+      "start_offset": 853,
+      "end_offset": 855,
+      "start": 68.24,
+      "end": 68.4
+    },
+    {
+      "word": "try",
+      "start_offset": 857,
+      "end_offset": 859,
+      "start": 68.56,
+      "end": 68.72
+    },
+    {
+      "word": "heroin,",
+      "start_offset": 863,
+      "end_offset": 870,
+      "start": 69.04,
+      "end": 69.60000000000001
+    },
+    {
+      "word": "never",
+      "start_offset": 876,
+      "end_offset": 878,
+      "start": 70.08,
+      "end": 70.24
+    },
+    {
+      "word": "win,",
+      "start_offset": 881,
+      "end_offset": 885,
+      "start": 70.48,
+      "end": 70.8
+    },
+    {
+      "word": "never",
+      "start_offset": 888,
+      "end_offset": 891,
+      "start": 71.04,
+      "end": 71.28
+    },
+    {
+      "word": "win.",
+      "start_offset": 894,
+      "end_offset": 902,
+      "start": 71.52,
+      "end": 72.16
+    },
+    {
+      "word": "You",
+      "start_offset": 918,
+      "end_offset": 919,
+      "start": 73.44,
+      "end": 73.52
+    },
+    {
+      "word": "don't",
+      "start_offset": 922,
+      "end_offset": 924,
+      "start": 73.76,
+      "end": 73.92
+    },
+    {
+      "word": "try",
+      "start_offset": 926,
+      "end_offset": 928,
+      "start": 74.08,
+      "end": 74.24
+    },
+    {
+      "word": "heroin,",
+      "start_offset": 931,
+      "end_offset": 939,
+      "start": 74.48,
+      "end": 75.12
+    },
+    {
+      "word": "never",
+      "start_offset": 945,
+      "end_offset": 947,
+      "start": 75.60000000000001,
+      "end": 75.76
+    },
+    {
+      "word": "win,",
+      "start_offset": 950,
+      "end_offset": 955,
+      "start": 76.0,
+      "end": 76.4
+    },
+    {
+      "word": "never",
+      "start_offset": 957,
+      "end_offset": 960,
+      "start": 76.56,
+      "end": 76.8
+    },
+    {
+      "word": "win.",
+      "start_offset": 963,
+      "end_offset": 971,
+      "start": 77.04,
+      "end": 77.68
+    },
+    {
+      "word": "You",
+      "start_offset": 987,
+      "end_offset": 988,
+      "start": 78.96000000000001,
+      "end": 79.04
+    },
+    {
+      "word": "don't",
+      "start_offset": 991,
+      "end_offset": 993,
+      "start": 79.28,
+      "end": 79.44
+    },
+    {
+      "word": "try",
+      "start_offset": 995,
+      "end_offset": 997,
+      "start": 79.60000000000001,
+      "end": 79.76
+    },
+    {
+      "word": "heroin,",
+      "start_offset": 1001,
+      "end_offset": 1008,
+      "start": 80.08,
+      "end": 80.64
+    },
+    {
+      "word": "never",
+      "start_offset": 1014,
+      "end_offset": 1016,
+      "start": 81.12,
+      "end": 81.28
+    },
+    {
+      "word": "win,",
+      "start_offset": 1019,
+      "end_offset": 1023,
+      "start": 81.52,
+      "end": 81.84
+    },
+    {
+      "word": "never",
+      "start_offset": 1026,
+      "end_offset": 1029,
+      "start": 82.08,
+      "end": 82.32000000000001
+    },
+    {
+      "word": "win.",
+      "start_offset": 1032,
+      "end_offset": 1040,
+      "start": 82.56,
+      "end": 83.2
+    },
+    {
+      "word": "But",
+      "start_offset": 1083,
+      "end_offset": 1084,
+      "start": 86.64,
+      "end": 86.72
+    },
+    {
+      "word": "that's",
+      "start_offset": 1086,
+      "end_offset": 1090,
+      "start": 86.88,
+      "end": 87.2
+    },
+    {
+      "word": "my",
+      "start_offset": 1090,
+      "end_offset": 1092,
+      "start": 87.2,
+      "end": 87.36
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 1094,
+      "end_offset": 1100,
+      "start": 87.52,
+      "end": 88.0
+    },
+    {
+      "word": "Deep",
+      "start_offset": 1105,
+      "end_offset": 1108,
+      "start": 88.4,
+      "end": 88.64
+    },
+    {
+      "word": "down,",
+      "start_offset": 1108,
+      "end_offset": 1110,
+      "start": 88.64,
+      "end": 88.8
+    },
+    {
+      "word": "I'll",
+      "start_offset": 1112,
+      "end_offset": 1115,
+      "start": 88.96000000000001,
+      "end": 89.2
+    },
+    {
+      "word": "be",
+      "start_offset": 1115,
+      "end_offset": 1116,
+      "start": 89.2,
+      "end": 89.28
+    },
+    {
+      "word": "no",
+      "start_offset": 1117,
+      "end_offset": 1118,
+      "start": 89.36,
+      "end": 89.44
+    },
+    {
+      "word": "wrong",
+      "start_offset": 1121,
+      "end_offset": 1125,
+      "start": 89.68,
+      "end": 90.0
+    },
+    {
+      "word": "with",
+      "start_offset": 1125,
+      "end_offset": 1127,
+      "start": 90.0,
+      "end": 90.16
+    },
+    {
+      "word": "the",
+      "start_offset": 1127,
+      "end_offset": 1129,
+      "start": 90.16,
+      "end": 90.32000000000001
+    },
+    {
+      "word": "ride.",
+      "start_offset": 1129,
+      "end_offset": 1133,
+      "start": 90.32000000000001,
+      "end": 90.64
+    },
+    {
+      "word": "But",
+      "start_offset": 1134,
+      "end_offset": 1137,
+      "start": 90.72,
+      "end": 90.96000000000001
+    },
+    {
+      "word": "I",
+      "start_offset": 1137,
+      "end_offset": 1138,
+      "start": 90.96000000000001,
+      "end": 91.04
+    },
+    {
+      "word": "keep",
+      "start_offset": 1139,
+      "end_offset": 1143,
+      "start": 91.12,
+      "end": 91.44
+    },
+    {
+      "word": "going",
+      "start_offset": 1143,
+      "end_offset": 1147,
+      "start": 91.44,
+      "end": 91.76
+    },
+    {
+      "word": "back",
+      "start_offset": 1147,
+      "end_offset": 1150,
+      "start": 91.76,
+      "end": 92.0
+    },
+    {
+      "word": "to",
+      "start_offset": 1150,
+      "end_offset": 1153,
+      "start": 92.0,
+      "end": 92.24
+    },
+    {
+      "word": "you.",
+      "start_offset": 1153,
+      "end_offset": 1155,
+      "start": 92.24,
+      "end": 92.4
+    },
+    {
+      "word": "Deep",
+      "start_offset": 1172,
+      "end_offset": 1176,
+      "start": 93.76,
+      "end": 94.08
+    },
+    {
+      "word": "diving,",
+      "start_offset": 1176,
+      "end_offset": 1181,
+      "start": 94.08,
+      "end": 94.48
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1183,
+      "end_offset": 1186,
+      "start": 94.64,
+      "end": 94.88
+    },
+    {
+      "word": "gonna",
+      "start_offset": 1186,
+      "end_offset": 1188,
+      "start": 94.88,
+      "end": 95.04
+    },
+    {
+      "word": "drown",
+      "start_offset": 1189,
+      "end_offset": 1195,
+      "start": 95.12,
+      "end": 95.60000000000001
+    },
+    {
+      "word": "with",
+      "start_offset": 1195,
+      "end_offset": 1197,
+      "start": 95.60000000000001,
+      "end": 95.76
+    },
+    {
+      "word": "the",
+      "start_offset": 1197,
+      "end_offset": 1198,
+      "start": 95.76,
+      "end": 95.84
+    },
+    {
+      "word": "tide.",
+      "start_offset": 1198,
+      "end_offset": 1203,
+      "start": 95.84,
+      "end": 96.24000000000001
+    },
+    {
+      "word": "Don't",
+      "start_offset": 1204,
+      "end_offset": 1207,
+      "start": 96.32000000000001,
+      "end": 96.56
+    },
+    {
+      "word": "mind,",
+      "start_offset": 1207,
+      "end_offset": 1210,
+      "start": 96.56,
+      "end": 96.8
+    },
+    {
+      "word": "cause",
+      "start_offset": 1211,
+      "end_offset": 1214,
+      "start": 96.88,
+      "end": 97.12
+    },
+    {
+      "word": "I",
+      "start_offset": 1214,
+      "end_offset": 1217,
+      "start": 97.12,
+      "end": 97.36
+    },
+    {
+      "word": "like",
+      "start_offset": 1217,
+      "end_offset": 1219,
+      "start": 97.36,
+      "end": 97.52
+    },
+    {
+      "word": "the",
+      "start_offset": 1221,
+      "end_offset": 1223,
+      "start": 97.68,
+      "end": 97.84
+    },
+    {
+      "word": "view.",
+      "start_offset": 1223,
+      "end_offset": 1231,
+      "start": 97.84,
+      "end": 98.48
+    },
+    {
+      "word": "And",
+      "start_offset": 1239,
+      "end_offset": 1242,
+      "start": 99.12,
+      "end": 99.36
+    },
+    {
+      "word": "anyway,",
+      "start_offset": 1242,
+      "end_offset": 1248,
+      "start": 99.36,
+      "end": 99.84
+    },
+    {
+      "word": "I",
+      "start_offset": 1250,
+      "end_offset": 1252,
+      "start": 100.0,
+      "end": 100.16
+    },
+    {
+      "word": "could",
+      "start_offset": 1252,
+      "end_offset": 1255,
+      "start": 100.16,
+      "end": 100.4
+    },
+    {
+      "word": "never",
+      "start_offset": 1255,
+      "end_offset": 1258,
+      "start": 100.4,
+      "end": 100.64
+    },
+    {
+      "word": "leave",
+      "start_offset": 1258,
+      "end_offset": 1263,
+      "start": 100.64,
+      "end": 101.04
+    },
+    {
+      "word": "if",
+      "start_offset": 1264,
+      "end_offset": 1266,
+      "start": 101.12,
+      "end": 101.28
+    },
+    {
+      "word": "I",
+      "start_offset": 1266,
+      "end_offset": 1267,
+      "start": 101.28,
+      "end": 101.36
+    },
+    {
+      "word": "tried",
+      "start_offset": 1267,
+      "end_offset": 1271,
+      "start": 101.36,
+      "end": 101.68
+    },
+    {
+      "word": "these",
+      "start_offset": 1273,
+      "end_offset": 1275,
+      "start": 101.84,
+      "end": 102.0
+    },
+    {
+      "word": "pointless",
+      "start_offset": 1276,
+      "end_offset": 1282,
+      "start": 102.08,
+      "end": 102.56
+    },
+    {
+      "word": "watch",
+      "start_offset": 1284,
+      "end_offset": 1288,
+      "start": 102.72,
+      "end": 103.04
+    },
+    {
+      "word": "the",
+      "start_offset": 1290,
+      "end_offset": 1291,
+      "start": 103.2,
+      "end": 103.28
+    },
+    {
+      "word": "use.",
+      "start_offset": 1294,
+      "end_offset": 1298,
+      "start": 103.52,
+      "end": 103.84
+    },
+    {
+      "word": "Quick",
+      "start_offset": 1309,
+      "end_offset": 1312,
+      "start": 104.72,
+      "end": 104.96000000000001
+    },
+    {
+      "word": "sound",
+      "start_offset": 1314,
+      "end_offset": 1317,
+      "start": 105.12,
+      "end": 105.36
+    },
+    {
+      "word": "pulling",
+      "start_offset": 1319,
+      "end_offset": 1323,
+      "start": 105.52,
+      "end": 105.84
+    },
+    {
+      "word": "with",
+      "start_offset": 1324,
+      "end_offset": 1326,
+      "start": 105.92,
+      "end": 106.08
+    },
+    {
+      "word": "your",
+      "start_offset": 1326,
+      "end_offset": 1328,
+      "start": 106.08,
+      "end": 106.24000000000001
+    },
+    {
+      "word": "big",
+      "start_offset": 1328,
+      "end_offset": 1330,
+      "start": 106.24000000000001,
+      "end": 106.4
+    },
+    {
+      "word": "hands.",
+      "start_offset": 1332,
+      "end_offset": 1335,
+      "start": 106.56,
+      "end": 106.8
+    },
+    {
+      "word": "Telling",
+      "start_offset": 1337,
+      "end_offset": 1341,
+      "start": 106.96000000000001,
+      "end": 107.28
+    },
+    {
+      "word": "me",
+      "start_offset": 1341,
+      "end_offset": 1343,
+      "start": 107.28,
+      "end": 107.44
+    },
+    {
+      "word": "it's",
+      "start_offset": 1343,
+      "end_offset": 1347,
+      "start": 107.44,
+      "end": 107.76
+    },
+    {
+      "word": "love,",
+      "start_offset": 1347,
+      "end_offset": 1350,
+      "start": 107.76,
+      "end": 108.0
+    },
+    {
+      "word": "but",
+      "start_offset": 1357,
+      "end_offset": 1359,
+      "start": 108.56,
+      "end": 108.72
+    },
+    {
+      "word": "it's",
+      "start_offset": 1359,
+      "end_offset": 1363,
+      "start": 108.72,
+      "end": 109.04
+    },
+    {
+      "word": "subtle",
+      "start_offset": 1363,
+      "end_offset": 1369,
+      "start": 109.04,
+      "end": 109.52
+    },
+    {
+      "word": "abuse.",
+      "start_offset": 1371,
+      "end_offset": 1379,
+      "start": 109.68,
+      "end": 110.32000000000001
+    },
+    {
+      "word": "I",
+      "start_offset": 1387,
+      "end_offset": 1389,
+      "start": 110.96000000000001,
+      "end": 111.12
+    },
+    {
+      "word": "hear",
+      "start_offset": 1389,
+      "end_offset": 1393,
+      "start": 111.12,
+      "end": 111.44
+    },
+    {
+      "word": "those",
+      "start_offset": 1393,
+      "end_offset": 1397,
+      "start": 111.44,
+      "end": 111.76
+    },
+    {
+      "word": "distant",
+      "start_offset": 1397,
+      "end_offset": 1405,
+      "start": 111.76,
+      "end": 112.4
+    },
+    {
+      "word": "voices,",
+      "start_offset": 1405,
+      "end_offset": 1415,
+      "start": 112.4,
+      "end": 113.2
+    },
+    {
+      "word": "and",
+      "start_offset": 1419,
+      "end_offset": 1421,
+      "start": 113.52,
+      "end": 113.68
+    },
+    {
+      "word": "they",
+      "start_offset": 1421,
+      "end_offset": 1424,
+      "start": 113.68,
+      "end": 113.92
+    },
+    {
+      "word": "get",
+      "start_offset": 1424,
+      "end_offset": 1428,
+      "start": 113.92,
+      "end": 114.24000000000001
+    },
+    {
+      "word": "me",
+      "start_offset": 1428,
+      "end_offset": 1432,
+      "start": 114.24000000000001,
+      "end": 114.56
+    },
+    {
+      "word": "high",
+      "start_offset": 1432,
+      "end_offset": 1434,
+      "start": 114.56,
+      "end": 114.72
+    },
+    {
+      "word": "like",
+      "start_offset": 1436,
+      "end_offset": 1440,
+      "start": 114.88,
+      "end": 115.2
+    },
+    {
+      "word": "heroin.",
+      "start_offset": 1440,
+      "end_offset": 1447,
+      "start": 115.2,
+      "end": 115.76
+    },
+    {
+      "word": "I",
+      "start_offset": 1456,
+      "end_offset": 1459,
+      "start": 116.48,
+      "end": 116.72
+    },
+    {
+      "word": "think",
+      "start_offset": 1459,
+      "end_offset": 1462,
+      "start": 116.72,
+      "end": 116.96000000000001
+    },
+    {
+      "word": "I",
+      "start_offset": 1462,
+      "end_offset": 1463,
+      "start": 116.96000000000001,
+      "end": 117.04
+    },
+    {
+      "word": "found",
+      "start_offset": 1466,
+      "end_offset": 1471,
+      "start": 117.28,
+      "end": 117.68
+    },
+    {
+      "word": "my",
+      "start_offset": 1471,
+      "end_offset": 1475,
+      "start": 117.68,
+      "end": 118.0
+    },
+    {
+      "word": "poison.",
+      "start_offset": 1475,
+      "end_offset": 1487,
+      "start": 118.0,
+      "end": 118.96000000000001
+    },
+    {
+      "word": "No,",
+      "start_offset": 1495,
+      "end_offset": 1498,
+      "start": 119.60000000000001,
+      "end": 119.84
+    },
+    {
+      "word": "that's",
+      "start_offset": 1500,
+      "end_offset": 1506,
+      "start": 120.0,
+      "end": 120.48
+    },
+    {
+      "word": "my",
+      "start_offset": 1506,
+      "end_offset": 1509,
+      "start": 120.48,
+      "end": 120.72
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 1509,
+      "end_offset": 1518,
+      "start": 120.72,
+      "end": 121.44
+    },
+    {
+      "word": "It's",
+      "start_offset": 1522,
+      "end_offset": 1526,
+      "start": 121.76,
+      "end": 122.08
+    },
+    {
+      "word": "like",
+      "start_offset": 1526,
+      "end_offset": 1529,
+      "start": 122.08,
+      "end": 122.32000000000001
+    },
+    {
+      "word": "a",
+      "start_offset": 1531,
+      "end_offset": 1533,
+      "start": 122.48,
+      "end": 122.64
+    },
+    {
+      "word": "constant",
+      "start_offset": 1535,
+      "end_offset": 1543,
+      "start": 122.8,
+      "end": 123.44
+    },
+    {
+      "word": "craving.",
+      "start_offset": 1543,
+      "end_offset": 1550,
+      "start": 123.44,
+      "end": 124.0
+    },
+    {
+      "word": "And",
+      "start_offset": 1557,
+      "end_offset": 1558,
+      "start": 124.56,
+      "end": 124.64
+    },
+    {
+      "word": "they",
+      "start_offset": 1558,
+      "end_offset": 1559,
+      "start": 124.64,
+      "end": 124.72
+    },
+    {
+      "word": "get",
+      "start_offset": 1561,
+      "end_offset": 1563,
+      "start": 124.88000000000001,
+      "end": 125.04
+    },
+    {
+      "word": "me",
+      "start_offset": 1566,
+      "end_offset": 1568,
+      "start": 125.28,
+      "end": 125.44
+    },
+    {
+      "word": "all",
+      "start_offset": 1570,
+      "end_offset": 1572,
+      "start": 125.60000000000001,
+      "end": 125.76
+    },
+    {
+      "word": "I",
+      "start_offset": 1575,
+      "end_offset": 1577,
+      "start": 126.0,
+      "end": 126.16
+    },
+    {
+      "word": "ever",
+      "start_offset": 1579,
+      "end_offset": 1582,
+      "start": 126.32000000000001,
+      "end": 126.56
+    },
+    {
+      "word": "win.",
+      "start_offset": 1584,
+      "end_offset": 1588,
+      "start": 126.72,
+      "end": 127.04
+    },
+    {
+      "word": "Toxic",
+      "start_offset": 1595,
+      "end_offset": 1601,
+      "start": 127.60000000000001,
+      "end": 128.08
+    },
+    {
+      "word": "love",
+      "start_offset": 1603,
+      "end_offset": 1604,
+      "start": 128.24,
+      "end": 128.32
+    },
+    {
+      "word": "like",
+      "start_offset": 1608,
+      "end_offset": 1611,
+      "start": 128.64000000000001,
+      "end": 128.88
+    },
+    {
+      "word": "poison.",
+      "start_offset": 1613,
+      "end_offset": 1623,
+      "start": 129.04,
+      "end": 129.84
+    },
+    {
+      "word": "But",
+      "start_offset": 1635,
+      "end_offset": 1636,
+      "start": 130.8,
+      "end": 130.88
+    },
+    {
+      "word": "that's",
+      "start_offset": 1638,
+      "end_offset": 1643,
+      "start": 131.04,
+      "end": 131.44
+    },
+    {
+      "word": "my",
+      "start_offset": 1643,
+      "end_offset": 1646,
+      "start": 131.44,
+      "end": 131.68
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 1646,
+      "end_offset": 1653,
+      "start": 131.68,
+      "end": 132.24
+    },
+    {
+      "word": "My",
+      "start_offset": 1655,
+      "end_offset": 1657,
+      "start": 132.4,
+      "end": 132.56
+    },
+    {
+      "word": "face,",
+      "start_offset": 1659,
+      "end_offset": 1663,
+      "start": 132.72,
+      "end": 133.04
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1666,
+      "end_offset": 1671,
+      "start": 133.28,
+      "end": 133.68
+    },
+    {
+      "word": "closer.",
+      "start_offset": 1673,
+      "end_offset": 1678,
+      "start": 133.84,
+      "end": 134.24
+    },
+    {
+      "word": "Shut",
+      "start_offset": 1685,
+      "end_offset": 1688,
+      "start": 134.8,
+      "end": 135.04
+    },
+    {
+      "word": "my",
+      "start_offset": 1689,
+      "end_offset": 1690,
+      "start": 135.12,
+      "end": 135.2
+    },
+    {
+      "word": "face,",
+      "start_offset": 1698,
+      "end_offset": 1702,
+      "start": 135.84,
+      "end": 136.16
+    },
+    {
+      "word": "popped.",
+      "start_offset": 1704,
+      "end_offset": 1710,
+      "start": 136.32,
+      "end": 136.8
+    },
+    {
+      "word": "Should",
+      "start_offset": 1719,
+      "end_offset": 1722,
+      "start": 137.52,
+      "end": 137.76
+    },
+    {
+      "word": "my",
+      "start_offset": 1724,
+      "end_offset": 1725,
+      "start": 137.92000000000002,
+      "end": 138.0
+    },
+    {
+      "word": "face",
+      "start_offset": 1728,
+      "end_offset": 1732,
+      "start": 138.24,
+      "end": 138.56
+    },
+    {
+      "word": "pump",
+      "start_offset": 1735,
+      "end_offset": 1739,
+      "start": 138.8,
+      "end": 139.12
+    },
+    {
+      "word": "closure.",
+      "start_offset": 1742,
+      "end_offset": 1747,
+      "start": 139.36,
+      "end": 139.76
+    },
+    {
+      "word": "Shumpa",
+      "start_offset": 1754,
+      "end_offset": 1761,
+      "start": 140.32,
+      "end": 140.88
+    },
+    {
+      "word": "fence,",
+      "start_offset": 1766,
+      "end_offset": 1771,
+      "start": 141.28,
+      "end": 141.68
+    },
+    {
+      "word": "but",
+      "start_offset": 1774,
+      "end_offset": 1775,
+      "start": 141.92000000000002,
+      "end": 142.0
+    },
+    {
+      "word": "that's",
+      "start_offset": 1776,
+      "end_offset": 1781,
+      "start": 142.08,
+      "end": 142.48
+    },
+    {
+      "word": "my",
+      "start_offset": 1781,
+      "end_offset": 1783,
+      "start": 142.48,
+      "end": 142.64000000000001
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 1784,
+      "end_offset": 1792,
+      "start": 142.72,
+      "end": 143.36
+    },
+    {
+      "word": "My",
+      "start_offset": 1793,
+      "end_offset": 1796,
+      "start": 143.44,
+      "end": 143.68
+    },
+    {
+      "word": "face.",
+      "start_offset": 1797,
+      "end_offset": 1801,
+      "start": 143.76,
+      "end": 144.08
+    },
+    {
+      "word": "That's",
+      "start_offset": 1914,
+      "end_offset": 1919,
+      "start": 153.12,
+      "end": 153.52
+    },
+    {
+      "word": "my",
+      "start_offset": 1919,
+      "end_offset": 1922,
+      "start": 153.52,
+      "end": 153.76
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 1922,
+      "end_offset": 1931,
+      "start": 153.76,
+      "end": 154.48
+    },
+    {
+      "word": "You",
+      "start_offset": 1953,
+      "end_offset": 1954,
+      "start": 156.24,
+      "end": 156.32
+    },
+    {
+      "word": "don't",
+      "start_offset": 1956,
+      "end_offset": 1959,
+      "start": 156.48,
+      "end": 156.72
+    },
+    {
+      "word": "try",
+      "start_offset": 1961,
+      "end_offset": 1963,
+      "start": 156.88,
+      "end": 157.04
+    },
+    {
+      "word": "heroin,",
+      "start_offset": 1966,
+      "end_offset": 1973,
+      "start": 157.28,
+      "end": 157.84
+    },
+    {
+      "word": "never",
+      "start_offset": 1979,
+      "end_offset": 1981,
+      "start": 158.32,
+      "end": 158.48
+    },
+    {
+      "word": "win,",
+      "start_offset": 1985,
+      "end_offset": 1990,
+      "start": 158.8,
+      "end": 159.20000000000002
+    },
+    {
+      "word": "never",
+      "start_offset": 1992,
+      "end_offset": 1994,
+      "start": 159.36,
+      "end": 159.52
+    },
+    {
+      "word": "win.",
+      "start_offset": 1997,
+      "end_offset": 2005,
+      "start": 159.76,
+      "end": 160.4
+    },
+    {
+      "word": "You",
+      "start_offset": 2021,
+      "end_offset": 2022,
+      "start": 161.68,
+      "end": 161.76
+    },
+    {
+      "word": "don't",
+      "start_offset": 2025,
+      "end_offset": 2028,
+      "start": 162.0,
+      "end": 162.24
+    },
+    {
+      "word": "try",
+      "start_offset": 2030,
+      "end_offset": 2032,
+      "start": 162.4,
+      "end": 162.56
+    },
+    {
+      "word": "heroin,",
+      "start_offset": 2035,
+      "end_offset": 2043,
+      "start": 162.8,
+      "end": 163.44
+    },
+    {
+      "word": "never",
+      "start_offset": 2048,
+      "end_offset": 2050,
+      "start": 163.84,
+      "end": 164.0
+    },
+    {
+      "word": "win,",
+      "start_offset": 2053,
+      "end_offset": 2059,
+      "start": 164.24,
+      "end": 164.72
+    },
+    {
+      "word": "never",
+      "start_offset": 2061,
+      "end_offset": 2063,
+      "start": 164.88,
+      "end": 165.04
+    },
+    {
+      "word": "win.",
+      "start_offset": 2067,
+      "end_offset": 2075,
+      "start": 165.36,
+      "end": 166.0
+    },
+    {
+      "word": "You",
+      "start_offset": 2090,
+      "end_offset": 2091,
+      "start": 167.20000000000002,
+      "end": 167.28
+    },
+    {
+      "word": "don't",
+      "start_offset": 2094,
+      "end_offset": 2097,
+      "start": 167.52,
+      "end": 167.76
+    },
+    {
+      "word": "try",
+      "start_offset": 2099,
+      "end_offset": 2101,
+      "start": 167.92000000000002,
+      "end": 168.08
+    },
+    {
+      "word": "heroin,",
+      "start_offset": 2104,
+      "end_offset": 2111,
+      "start": 168.32,
+      "end": 168.88
+    },
+    {
+      "word": "never",
+      "start_offset": 2117,
+      "end_offset": 2119,
+      "start": 169.36,
+      "end": 169.52
+    },
+    {
+      "word": "win,",
+      "start_offset": 2122,
+      "end_offset": 2127,
+      "start": 169.76,
+      "end": 170.16
+    },
+    {
+      "word": "never",
+      "start_offset": 2130,
+      "end_offset": 2132,
+      "start": 170.4,
+      "end": 170.56
+    },
+    {
+      "word": "win.",
+      "start_offset": 2135,
+      "end_offset": 2143,
+      "start": 170.8,
+      "end": 171.44
+    },
+    {
+      "word": "But",
+      "start_offset": 2187,
+      "end_offset": 2188,
+      "start": 174.96,
+      "end": 175.04
+    },
+    {
+      "word": "that's",
+      "start_offset": 2190,
+      "end_offset": 2195,
+      "start": 175.20000000000002,
+      "end": 175.6
+    },
+    {
+      "word": "my",
+      "start_offset": 2195,
+      "end_offset": 2198,
+      "start": 175.6,
+      "end": 175.84
+    },
+    {
+      "word": "medicine.",
+      "start_offset": 2198,
+      "end_offset": 2207,
+      "start": 175.84,
+      "end": 176.56
+    }
+  ],
+  "segment": [
+    {
+      "segment": "Never been controlled by evil, but it's got my soul.",
+      "start_offset": 8,
+      "end_offset": 72,
+      "start": 0.64,
+      "end": 5.76
+    },
+    {
+      "segment": "Sticky like trick-or-only ways to fill my hole.",
+      "start_offset": 81,
+      "end_offset": 142,
+      "start": 6.48,
+      "end": 11.36
+    },
+    {
+      "segment": "Straight from the needle to my head, my eyes will roll Straight from the needle.",
+      "start_offset": 150,
+      "end_offset": 275,
+      "start": 12.0,
+      "end": 22.0
+    },
+    {
+      "segment": "I hear those distant voices, and they get me high like heroin.",
+      "start_offset": 283,
+      "end_offset": 343,
+      "start": 22.64,
+      "end": 27.44
+    },
+    {
+      "segment": "I think I found my poison.",
+      "start_offset": 353,
+      "end_offset": 384,
+      "start": 28.240000000000002,
+      "end": 30.72
+    },
+    {
+      "segment": "No, that's my medicine.",
+      "start_offset": 392,
+      "end_offset": 415,
+      "start": 31.36,
+      "end": 33.2
+    },
+    {
+      "segment": "It's like a constant craving.",
+      "start_offset": 418,
+      "end_offset": 446,
+      "start": 33.44,
+      "end": 35.68
+    },
+    {
+      "segment": "And they get me all I ever win.",
+      "start_offset": 453,
+      "end_offset": 485,
+      "start": 36.24,
+      "end": 38.800000000000004
+    },
+    {
+      "segment": "Toxic love like poison.",
+      "start_offset": 491,
+      "end_offset": 520,
+      "start": 39.28,
+      "end": 41.6
+    },
+    {
+      "segment": "But that's my medicine.",
+      "start_offset": 532,
+      "end_offset": 550,
+      "start": 42.56,
+      "end": 44.0
+    },
+    {
+      "segment": "My friend, it's fine.",
+      "start_offset": 551,
+      "end_offset": 582,
+      "start": 44.08,
+      "end": 46.56
+    },
+    {
+      "segment": "That's my medicine.",
+      "start_offset": 673,
+      "end_offset": 687,
+      "start": 53.84,
+      "end": 54.96
+    },
+    {
+      "segment": "My friend, fixed, pumped, fast.",
+      "start_offset": 690,
+      "end_offset": 719,
+      "start": 55.2,
+      "end": 57.52
+    },
+    {
+      "segment": "That's my medicine.",
+      "start_offset": 811,
+      "end_offset": 827,
+      "start": 64.88,
+      "end": 66.16
+    },
+    {
+      "segment": "You don't try heroin, never win, never win.",
+      "start_offset": 849,
+      "end_offset": 902,
+      "start": 67.92,
+      "end": 72.16
+    },
+    {
+      "segment": "You don't try heroin, never win, never win.",
+      "start_offset": 918,
+      "end_offset": 971,
+      "start": 73.44,
+      "end": 77.68
+    },
+    {
+      "segment": "You don't try heroin, never win, never win.",
+      "start_offset": 987,
+      "end_offset": 1040,
+      "start": 78.96000000000001,
+      "end": 83.2
+    },
+    {
+      "segment": "But that's my medicine.",
+      "start_offset": 1083,
+      "end_offset": 1100,
+      "start": 86.64,
+      "end": 88.0
+    },
+    {
+      "segment": "Deep down, I'll be no wrong with the ride.",
+      "start_offset": 1105,
+      "end_offset": 1133,
+      "start": 88.4,
+      "end": 90.64
+    },
+    {
+      "segment": "But I keep going back to you.",
+      "start_offset": 1134,
+      "end_offset": 1155,
+      "start": 90.72,
+      "end": 92.4
+    },
+    {
+      "segment": "Deep diving, I'm gonna drown with the tide.",
+      "start_offset": 1172,
+      "end_offset": 1203,
+      "start": 93.76,
+      "end": 96.24000000000001
+    },
+    {
+      "segment": "Don't mind, cause I like the view.",
+      "start_offset": 1204,
+      "end_offset": 1231,
+      "start": 96.32000000000001,
+      "end": 98.48
+    },
+    {
+      "segment": "And anyway, I could never leave if I tried these pointless watch the use.",
+      "start_offset": 1239,
+      "end_offset": 1298,
+      "start": 99.12,
+      "end": 103.84
+    },
+    {
+      "segment": "Quick sound pulling with your big hands.",
+      "start_offset": 1309,
+      "end_offset": 1335,
+      "start": 104.72,
+      "end": 106.8
+    },
+    {
+      "segment": "Telling me it's love, but it's subtle abuse.",
+      "start_offset": 1337,
+      "end_offset": 1379,
+      "start": 106.96000000000001,
+      "end": 110.32000000000001
+    },
+    {
+      "segment": "I hear those distant voices, and they get me high like heroin.",
+      "start_offset": 1387,
+      "end_offset": 1447,
+      "start": 110.96000000000001,
+      "end": 115.76
+    },
+    {
+      "segment": "I think I found my poison.",
+      "start_offset": 1456,
+      "end_offset": 1487,
+      "start": 116.48,
+      "end": 118.96000000000001
+    },
+    {
+      "segment": "No, that's my medicine.",
+      "start_offset": 1495,
+      "end_offset": 1518,
+      "start": 119.60000000000001,
+      "end": 121.44
+    },
+    {
+      "segment": "It's like a constant craving.",
+      "start_offset": 1522,
+      "end_offset": 1550,
+      "start": 121.76,
+      "end": 124.0
+    },
+    {
+      "segment": "And they get me all I ever win.",
+      "start_offset": 1557,
+      "end_offset": 1588,
+      "start": 124.56,
+      "end": 127.04
+    },
+    {
+      "segment": "Toxic love like poison.",
+      "start_offset": 1595,
+      "end_offset": 1623,
+      "start": 127.60000000000001,
+      "end": 129.84
+    },
+    {
+      "segment": "But that's my medicine.",
+      "start_offset": 1635,
+      "end_offset": 1653,
+      "start": 130.8,
+      "end": 132.24
+    },
+    {
+      "segment": "My face, I'm closer.",
+      "start_offset": 1655,
+      "end_offset": 1678,
+      "start": 132.4,
+      "end": 134.24
+    },
+    {
+      "segment": "Shut my face, popped.",
+      "start_offset": 1685,
+      "end_offset": 1710,
+      "start": 134.8,
+      "end": 136.8
+    },
+    {
+      "segment": "Should my face pump closure.",
+      "start_offset": 1719,
+      "end_offset": 1747,
+      "start": 137.52,
+      "end": 139.76
+    },
+    {
+      "segment": "Shumpa fence, but that's my medicine.",
+      "start_offset": 1754,
+      "end_offset": 1792,
+      "start": 140.32,
+      "end": 143.36
+    },
+    {
+      "segment": "My face.",
+      "start_offset": 1793,
+      "end_offset": 1801,
+      "start": 143.44,
+      "end": 144.08
+    },
+    {
+      "segment": "That's my medicine.",
+      "start_offset": 1914,
+      "end_offset": 1931,
+      "start": 153.12,
+      "end": 154.48
+    },
+    {
+      "segment": "You don't try heroin, never win, never win.",
+      "start_offset": 1953,
+      "end_offset": 2005,
+      "start": 156.24,
+      "end": 160.4
+    },
+    {
+      "segment": "You don't try heroin, never win, never win.",
+      "start_offset": 2021,
+      "end_offset": 2075,
+      "start": 161.68,
+      "end": 166.0
+    },
+    {
+      "segment": "You don't try heroin, never win, never win.",
+      "start_offset": 2090,
+      "end_offset": 2143,
+      "start": 167.20000000000002,
+      "end": 171.44
+    },
+    {
+      "segment": "But that's my medicine.",
+      "start_offset": 2187,
+      "end_offset": 2207,
+      "start": 174.96,
+      "end": 176.56
+    }
+  ]
+}

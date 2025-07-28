@@ -1,0 +1,10371 @@
+{
+  "char": [
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 5,
+      "end_offset": 8,
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 8,
+      "end_offset": 10,
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 10,
+      "end_offset": 10,
+      "start": 0.8,
+      "end": 0.8
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 13,
+      "end_offset": 13,
+      "start": 1.04,
+      "end": 1.04
+    },
+    {
+      "char": [
+        "know"
+      ],
+      "start_offset": 13,
+      "end_offset": 16,
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 16,
+      "end_offset": 16,
+      "start": 1.28,
+      "end": 1.28
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 17,
+      "end_offset": 19,
+      "start": 1.36,
+      "end": 1.52
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 20,
+      "end_offset": 23,
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 23,
+      "end_offset": 25,
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 25,
+      "end_offset": 29,
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 29,
+      "end_offset": 29,
+      "start": 2.32,
+      "end": 2.32
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 33,
+      "end_offset": 34,
+      "start": 2.64,
+      "end": 2.72
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 34,
+      "end_offset": 34,
+      "start": 2.72,
+      "end": 2.72
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 35,
+      "end_offset": 37,
+      "start": 2.8000000000000003,
+      "end": 2.96
+    },
+    {
+      "char": [
+        "trying"
+      ],
+      "start_offset": 37,
+      "end_offset": 40,
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 40,
+      "end_offset": 42,
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "char": [
+        "fo"
+      ],
+      "start_offset": 42,
+      "end_offset": 43,
+      "start": 3.36,
+      "end": 3.44
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 43,
+      "end_offset": 44,
+      "start": 3.44,
+      "end": 3.52
+    },
+    {
+      "char": [
+        "ow"
+      ],
+      "start_offset": 44,
+      "end_offset": 46,
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "char": [
+        "ex"
+      ],
+      "start_offset": 49,
+      "end_offset": 51,
+      "start": 3.92,
+      "end": 4.08
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 51,
+      "end_offset": 52,
+      "start": 4.08,
+      "end": 4.16
+    },
+    {
+      "char": [
+        "ite"
+      ],
+      "start_offset": 52,
+      "end_offset": 53,
+      "start": 4.16,
+      "end": 4.24
+    },
+    {
+      "char": [
+        "ment"
+      ],
+      "start_offset": 53,
+      "end_offset": 55,
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 55,
+      "end_offset": 55,
+      "start": 4.4,
+      "end": 4.4
+    },
+    {
+      "char": [
+        "We"
+      ],
+      "start_offset": 60,
+      "end_offset": 62,
+      "start": 4.8,
+      "end": 4.96
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 64,
+      "end_offset": 66,
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 66,
+      "end_offset": 66,
+      "start": 5.28,
+      "end": 5.28
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 69,
+      "end_offset": 69,
+      "start": 5.5200000000000005,
+      "end": 5.5200000000000005
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 69,
+      "end_offset": 73,
+      "start": 5.5200000000000005,
+      "end": 5.84
+    },
+    {
+      "char": [
+        "much"
+      ],
+      "start_offset": 73,
+      "end_offset": 75,
+      "start": 5.84,
+      "end": 6.0
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 77,
+      "end_offset": 80,
+      "start": 6.16,
+      "end": 6.4
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 80,
+      "end_offset": 81,
+      "start": 6.4,
+      "end": 6.48
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 81,
+      "end_offset": 83,
+      "start": 6.48,
+      "end": 6.640000000000001
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 83,
+      "end_offset": 86,
+      "start": 6.640000000000001,
+      "end": 6.88
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 86,
+      "end_offset": 86,
+      "start": 6.88,
+      "end": 6.88
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 90,
+      "end_offset": 91,
+      "start": 7.2,
+      "end": 7.28
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 91,
+      "end_offset": 93,
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 93,
+      "end_offset": 94,
+      "start": 7.44,
+      "end": 7.5200000000000005
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 94,
+      "end_offset": 96,
+      "start": 7.5200000000000005,
+      "end": 7.68
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 96,
+      "end_offset": 100,
+      "start": 7.68,
+      "end": 8.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 100,
+      "end_offset": 100,
+      "start": 8.0,
+      "end": 8.0
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 104,
+      "end_offset": 106,
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 106,
+      "end_offset": 106,
+      "start": 8.48,
+      "end": 8.48
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 107,
+      "end_offset": 108,
+      "start": 8.56,
+      "end": 8.64
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 108,
+      "end_offset": 109,
+      "start": 8.64,
+      "end": 8.72
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 109,
+      "end_offset": 109,
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 110,
+      "end_offset": 110,
+      "start": 8.8,
+      "end": 8.8
+    },
+    {
+      "char": [
+        "no"
+      ],
+      "start_offset": 110,
+      "end_offset": 111,
+      "start": 8.8,
+      "end": 8.88
+    },
+    {
+      "char": [
+        "body"
+      ],
+      "start_offset": 111,
+      "end_offset": 113,
+      "start": 8.88,
+      "end": 9.040000000000001
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 114,
+      "end_offset": 115,
+      "start": 9.120000000000001,
+      "end": 9.200000000000001
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 115,
+      "end_offset": 116,
+      "start": 9.200000000000001,
+      "end": 9.28
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 116,
+      "end_offset": 117,
+      "start": 9.28,
+      "end": 9.36
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 117,
+      "end_offset": 118,
+      "start": 9.36,
+      "end": 9.44
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 119,
+      "end_offset": 121,
+      "start": 9.52,
+      "end": 9.68
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 121,
+      "end_offset": 121,
+      "start": 9.68,
+      "end": 9.68
+    },
+    {
+      "char": [
+        "A"
+      ],
+      "start_offset": 124,
+      "end_offset": 125,
+      "start": 9.92,
+      "end": 10.0
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 125,
+      "end_offset": 126,
+      "start": 10.0,
+      "end": 10.08
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 126,
+      "end_offset": 126,
+      "start": 10.08,
+      "end": 10.08
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 126,
+      "end_offset": 126,
+      "start": 10.08,
+      "end": 10.08
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 127,
+      "end_offset": 128,
+      "start": 10.16,
+      "end": 10.24
+    },
+    {
+      "char": [
+        "g"
+      ],
+      "start_offset": 129,
+      "end_offset": 130,
+      "start": 10.32,
+      "end": 10.4
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 130,
+      "end_offset": 131,
+      "start": 10.4,
+      "end": 10.48
+    },
+    {
+      "char": [
+        "ens"
+      ],
+      "start_offset": 131,
+      "end_offset": 132,
+      "start": 10.48,
+      "end": 10.56
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 132,
+      "end_offset": 132,
+      "start": 10.56,
+      "end": 10.56
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 133,
+      "end_offset": 134,
+      "start": 10.64,
+      "end": 10.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 134,
+      "end_offset": 134,
+      "start": 10.72,
+      "end": 10.72
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 136,
+      "end_offset": 137,
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 137,
+      "end_offset": 137,
+      "start": 10.96,
+      "end": 10.96
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 137,
+      "end_offset": 137,
+      "start": 10.96,
+      "end": 10.96
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 137,
+      "end_offset": 137,
+      "start": 10.96,
+      "end": 10.96
+    },
+    {
+      "char": [
+        "all"
+      ],
+      "start_offset": 138,
+      "end_offset": 140,
+      "start": 11.040000000000001,
+      "end": 11.200000000000001
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 140,
+      "end_offset": 141,
+      "start": 11.200000000000001,
+      "end": 11.28
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 141,
+      "end_offset": 143,
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 143,
+      "end_offset": 144,
+      "start": 11.44,
+      "end": 11.52
+    },
+    {
+      "char": [
+        "ro"
+      ],
+      "start_offset": 144,
+      "end_offset": 145,
+      "start": 11.52,
+      "end": 11.6
+    },
+    {
+      "char": [
+        "cc"
+      ],
+      "start_offset": 145,
+      "end_offset": 146,
+      "start": 11.6,
+      "end": 11.68
+    },
+    {
+      "char": [
+        "ol"
+      ],
+      "start_offset": 146,
+      "end_offset": 148,
+      "start": 11.68,
+      "end": 11.84
+    },
+    {
+      "char": [
+        "i"
+      ],
+      "start_offset": 148,
+      "end_offset": 150,
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 150,
+      "end_offset": 150,
+      "start": 12.0,
+      "end": 12.0
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 152,
+      "end_offset": 154,
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 154,
+      "end_offset": 155,
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 155,
+      "end_offset": 156,
+      "start": 12.4,
+      "end": 12.48
+    },
+    {
+      "char": [
+        "na"
+      ],
+      "start_offset": 156,
+      "end_offset": 157,
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 157,
+      "end_offset": 158,
+      "start": 12.56,
+      "end": 12.64
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 158,
+      "end_offset": 159,
+      "start": 12.64,
+      "end": 12.72
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 159,
+      "end_offset": 160,
+      "start": 12.72,
+      "end": 12.8
+    },
+    {
+      "char": [
+        "well"
+      ],
+      "start_offset": 161,
+      "end_offset": 162,
+      "start": 12.88,
+      "end": 12.96
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 162,
+      "end_offset": 162,
+      "start": 12.96,
+      "end": 12.96
+    },
+    {
+      "char": [
+        "at"
+      ],
+      "start_offset": 164,
+      "end_offset": 165,
+      "start": 13.120000000000001,
+      "end": 13.200000000000001
+    },
+    {
+      "char": [
+        "le"
+      ],
+      "start_offset": 165,
+      "end_offset": 166,
+      "start": 13.200000000000001,
+      "end": 13.280000000000001
+    },
+    {
+      "char": [
+        "ast"
+      ],
+      "start_offset": 166,
+      "end_offset": 168,
+      "start": 13.280000000000001,
+      "end": 13.44
+    },
+    {
+      "char": [
+        "do"
+      ],
+      "start_offset": 168,
+      "end_offset": 170,
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 170,
+      "end_offset": 172,
+      "start": 13.6,
+      "end": 13.76
+    },
+    {
+      "char": [
+        "pro"
+      ],
+      "start_offset": 172,
+      "end_offset": 173,
+      "start": 13.76,
+      "end": 13.84
+    },
+    {
+      "char": [
+        "per"
+      ],
+      "start_offset": 173,
+      "end_offset": 175,
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "char": [
+        "ly"
+      ],
+      "start_offset": 175,
+      "end_offset": 177,
+      "start": 14.0,
+      "end": 14.16
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 177,
+      "end_offset": 177,
+      "start": 14.16,
+      "end": 14.16
+    },
+    {
+      "char": [
+        "A"
+      ],
+      "start_offset": 180,
+      "end_offset": 181,
+      "start": 14.4,
+      "end": 14.48
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 181,
+      "end_offset": 182,
+      "start": 14.48,
+      "end": 14.56
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 182,
+      "end_offset": 182,
+      "start": 14.56,
+      "end": 14.56
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 183,
+      "end_offset": 183,
+      "start": 14.64,
+      "end": 14.64
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 183,
+      "end_offset": 185,
+      "start": 14.64,
+      "end": 14.8
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 185,
+      "end_offset": 186,
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 186,
+      "end_offset": 187,
+      "start": 14.88,
+      "end": 14.96
+    },
+    {
+      "char": [
+        "ance"
+      ],
+      "start_offset": 187,
+      "end_offset": 188,
+      "start": 14.96,
+      "end": 15.040000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 188,
+      "end_offset": 188,
+      "start": 15.040000000000001,
+      "end": 15.040000000000001
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 189,
+      "end_offset": 190,
+      "start": 15.120000000000001,
+      "end": 15.200000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 190,
+      "end_offset": 190,
+      "start": 15.200000000000001,
+      "end": 15.200000000000001
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 191,
+      "end_offset": 191,
+      "start": 15.280000000000001,
+      "end": 15.280000000000001
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 191,
+      "end_offset": 192,
+      "start": 15.280000000000001,
+      "end": 15.36
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 193,
+      "end_offset": 194,
+      "start": 15.44,
+      "end": 15.52
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 194,
+      "end_offset": 194,
+      "start": 15.52,
+      "end": 15.52
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 194,
+      "end_offset": 194,
+      "start": 15.52,
+      "end": 15.52
+    },
+    {
+      "char": [
+        "even"
+      ],
+      "start_offset": 195,
+      "end_offset": 196,
+      "start": 15.6,
+      "end": 15.68
+    },
+    {
+      "char": [
+        "mon"
+      ],
+      "start_offset": 199,
+      "end_offset": 200,
+      "start": 15.92,
+      "end": 16.0
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 201,
+      "end_offset": 203,
+      "start": 16.080000000000002,
+      "end": 16.240000000000002
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 203,
+      "end_offset": 204,
+      "start": 16.240000000000002,
+      "end": 16.32
+    },
+    {
+      "char": [
+        "ly"
+      ],
+      "start_offset": 204,
+      "end_offset": 206,
+      "start": 16.32,
+      "end": 16.48
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 206,
+      "end_offset": 206,
+      "start": 16.48,
+      "end": 16.48
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 208,
+      "end_offset": 210,
+      "start": 16.64,
+      "end": 16.8
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 210,
+      "end_offset": 211,
+      "start": 16.8,
+      "end": 16.88
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 211,
+      "end_offset": 211,
+      "start": 16.88,
+      "end": 16.88
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 212,
+      "end_offset": 213,
+      "start": 16.96,
+      "end": 17.04
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 213,
+      "end_offset": 215,
+      "start": 17.04,
+      "end": 17.2
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 215,
+      "end_offset": 217,
+      "start": 17.2,
+      "end": 17.36
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 217,
+      "end_offset": 217,
+      "start": 17.36,
+      "end": 17.36
+    },
+    {
+      "char": [
+        "this"
+      ],
+      "start_offset": 218,
+      "end_offset": 220,
+      "start": 17.44,
+      "end": 17.6
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 220,
+      "end_offset": 221,
+      "start": 17.6,
+      "end": 17.68
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 221,
+      "end_offset": 222,
+      "start": 17.68,
+      "end": 17.76
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 222,
+      "end_offset": 222,
+      "start": 17.76,
+      "end": 17.76
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 223,
+      "end_offset": 223,
+      "start": 17.84,
+      "end": 17.84
+    },
+    {
+      "char": [
+        "even"
+      ],
+      "start_offset": 223,
+      "end_offset": 226,
+      "start": 17.84,
+      "end": 18.080000000000002
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 226,
+      "end_offset": 228,
+      "start": 18.080000000000002,
+      "end": 18.240000000000002
+    },
+    {
+      "char": [
+        "lot"
+      ],
+      "start_offset": 228,
+      "end_offset": 231,
+      "start": 18.240000000000002,
+      "end": 18.48
+    },
+    {
+      "char": [
+        "ter"
+      ],
+      "start_offset": 231,
+      "end_offset": 233,
+      "start": 18.48,
+      "end": 18.64
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 233,
+      "end_offset": 236,
+      "start": 18.64,
+      "end": 18.88
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 236,
+      "end_offset": 236,
+      "start": 18.88,
+      "end": 18.88
+    },
+    {
+      "char": [
+        "O"
+      ],
+      "start_offset": 239,
+      "end_offset": 240,
+      "start": 19.12,
+      "end": 19.2
+    },
+    {
+      "char": [
+        "n"
+      ],
+      "start_offset": 240,
+      "end_offset": 240,
+      "start": 19.2,
+      "end": 19.2
+    },
+    {
+      "char": [
+        "ly"
+      ],
+      "start_offset": 240,
+      "end_offset": 242,
+      "start": 19.2,
+      "end": 19.36
+    },
+    {
+      "char": [
+        "thing"
+      ],
+      "start_offset": 242,
+      "end_offset": 244,
+      "start": 19.36,
+      "end": 19.52
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 244,
+      "end_offset": 245,
+      "start": 19.52,
+      "end": 19.6
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 245,
+      "end_offset": 245,
+      "start": 19.6,
+      "end": 19.6
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 246,
+      "end_offset": 246,
+      "start": 19.68,
+      "end": 19.68
+    },
+    {
+      "char": [
+        "trying"
+      ],
+      "start_offset": 246,
+      "end_offset": 248,
+      "start": 19.68,
+      "end": 19.84
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 248,
+      "end_offset": 249,
+      "start": 19.84,
+      "end": 19.92
+    },
+    {
+      "char": [
+        "sm"
+      ],
+      "start_offset": 249,
+      "end_offset": 251,
+      "start": 19.92,
+      "end": 20.080000000000002
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 251,
+      "end_offset": 252,
+      "start": 20.080000000000002,
+      "end": 20.16
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 252,
+      "end_offset": 254,
+      "start": 20.16,
+      "end": 20.32
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 254,
+      "end_offset": 256,
+      "start": 20.32,
+      "end": 20.48
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 256,
+      "end_offset": 257,
+      "start": 20.48,
+      "end": 20.56
+    },
+    {
+      "char": [
+        "ay"
+      ],
+      "start_offset": 257,
+      "end_offset": 259,
+      "start": 20.56,
+      "end": 20.72
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 259,
+      "end_offset": 260,
+      "start": 20.72,
+      "end": 20.8
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 261,
+      "end_offset": 263,
+      "start": 20.88,
+      "end": 21.04
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 263,
+      "end_offset": 264,
+      "start": 21.04,
+      "end": 21.12
+    },
+    {
+      "char": [
+        "gl"
+      ],
+      "start_offset": 264,
+      "end_offset": 266,
+      "start": 21.12,
+      "end": 21.28
+    },
+    {
+      "char": [
+        "ass"
+      ],
+      "start_offset": 266,
+      "end_offset": 268,
+      "start": 21.28,
+      "end": 21.44
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 268,
+      "end_offset": 270,
+      "start": 21.44,
+      "end": 21.6
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 270,
+      "end_offset": 271,
+      "start": 21.6,
+      "end": 21.68
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 271,
+      "end_offset": 272,
+      "start": 21.68,
+      "end": 21.76
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 272,
+      "end_offset": 273,
+      "start": 21.76,
+      "end": 21.84
+    },
+    {
+      "char": [
+        "il"
+      ],
+      "start_offset": 273,
+      "end_offset": 275,
+      "start": 21.84,
+      "end": 22.0
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 275,
+      "end_offset": 277,
+      "start": 22.0,
+      "end": 22.16
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 277,
+      "end_offset": 279,
+      "start": 22.16,
+      "end": 22.32
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 279,
+      "end_offset": 280,
+      "start": 22.32,
+      "end": 22.400000000000002
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 280,
+      "end_offset": 282,
+      "start": 22.400000000000002,
+      "end": 22.56
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 282,
+      "end_offset": 283,
+      "start": 22.56,
+      "end": 22.64
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 283,
+      "end_offset": 287,
+      "start": 22.64,
+      "end": 22.96
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 287,
+      "end_offset": 287,
+      "start": 22.96,
+      "end": 22.96
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 291,
+      "end_offset": 292,
+      "start": 23.28,
+      "end": 23.36
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 292,
+      "end_offset": 292,
+      "start": 23.36,
+      "end": 23.36
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 294,
+      "end_offset": 294,
+      "start": 23.52,
+      "end": 23.52
+    },
+    {
+      "char": [
+        "trying"
+      ],
+      "start_offset": 294,
+      "end_offset": 296,
+      "start": 23.52,
+      "end": 23.68
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 296,
+      "end_offset": 297,
+      "start": 23.68,
+      "end": 23.76
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 297,
+      "end_offset": 299,
+      "start": 23.76,
+      "end": 23.92
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 299,
+      "end_offset": 301,
+      "start": 23.92,
+      "end": 24.080000000000002
+    },
+    {
+      "char": [
+        "ea"
+      ],
+      "start_offset": 301,
+      "end_offset": 302,
+      "start": 24.080000000000002,
+      "end": 24.16
+    },
+    {
+      "char": [
+        "ce"
+      ],
+      "start_offset": 302,
+      "end_offset": 303,
+      "start": 24.16,
+      "end": 24.240000000000002
+    },
+    {
+      "char": [
+        "ful"
+      ],
+      "start_offset": 303,
+      "end_offset": 305,
+      "start": 24.240000000000002,
+      "end": 24.400000000000002
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 305,
+      "end_offset": 307,
+      "start": 24.400000000000002,
+      "end": 24.560000000000002
+    },
+    {
+      "char": [
+        "we"
+      ],
+      "start_offset": 307,
+      "end_offset": 308,
+      "start": 24.560000000000002,
+      "end": 24.64
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 308,
+      "end_offset": 308,
+      "start": 24.64,
+      "end": 24.64
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 309,
+      "end_offset": 309,
+      "start": 24.72,
+      "end": 24.72
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 310,
+      "end_offset": 311,
+      "start": 24.8,
+      "end": 24.88
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 311,
+      "end_offset": 312,
+      "start": 24.88,
+      "end": 24.96
+    },
+    {
+      "char": [
+        "ree"
+      ],
+      "start_offset": 312,
+      "end_offset": 315,
+      "start": 24.96,
+      "end": 25.2
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 315,
+      "end_offset": 315,
+      "start": 25.2,
+      "end": 25.2
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 319,
+      "end_offset": 321,
+      "start": 25.52,
+      "end": 25.68
+    },
+    {
+      "char": [
+        "some"
+      ],
+      "start_offset": 321,
+      "end_offset": 324,
+      "start": 25.68,
+      "end": 25.92
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 324,
+      "end_offset": 326,
+      "start": 25.92,
+      "end": 26.080000000000002
+    },
+    {
+      "char": [
+        "these"
+      ],
+      "start_offset": 326,
+      "end_offset": 329,
+      "start": 26.080000000000002,
+      "end": 26.32
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 329,
+      "end_offset": 332,
+      "start": 26.32,
+      "end": 26.560000000000002
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 332,
+      "end_offset": 333,
+      "start": 26.560000000000002,
+      "end": 26.64
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 333,
+      "end_offset": 334,
+      "start": 26.64,
+      "end": 26.72
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 338,
+      "end_offset": 339,
+      "start": 27.04,
+      "end": 27.12
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 340,
+      "end_offset": 341,
+      "start": 27.2,
+      "end": 27.28
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 341,
+      "end_offset": 341,
+      "start": 27.28,
+      "end": 27.28
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 344,
+      "end_offset": 345,
+      "start": 27.52,
+      "end": 27.6
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 345,
+      "end_offset": 346,
+      "start": 27.6,
+      "end": 27.68
+    },
+    {
+      "char": [
+        "est"
+      ],
+      "start_offset": 346,
+      "end_offset": 347,
+      "start": 27.68,
+      "end": 27.76
+    },
+    {
+      "char": [
+        "ly"
+      ],
+      "start_offset": 347,
+      "end_offset": 350,
+      "start": 27.76,
+      "end": 28.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 350,
+      "end_offset": 350,
+      "start": 28.0,
+      "end": 28.0
+    },
+    {
+      "char": [
+        "P"
+      ],
+      "start_offset": 353,
+      "end_offset": 354,
+      "start": 28.240000000000002,
+      "end": 28.32
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 354,
+      "end_offset": 354,
+      "start": 28.32,
+      "end": 28.32
+    },
+    {
+      "char": [
+        "ay"
+      ],
+      "start_offset": 354,
+      "end_offset": 355,
+      "start": 28.32,
+      "end": 28.400000000000002
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 356,
+      "end_offset": 358,
+      "start": 28.48,
+      "end": 28.64
+    },
+    {
+      "char": [
+        "all"
+      ],
+      "start_offset": 358,
+      "end_offset": 359,
+      "start": 28.64,
+      "end": 28.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 359,
+      "end_offset": 359,
+      "start": 28.72,
+      "end": 28.72
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 361,
+      "end_offset": 362,
+      "start": 28.88,
+      "end": 28.96
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 363,
+      "end_offset": 364,
+      "start": 29.04,
+      "end": 29.12
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 364,
+      "end_offset": 364,
+      "start": 29.12,
+      "end": 29.12
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 365,
+      "end_offset": 365,
+      "start": 29.2,
+      "end": 29.2
+    },
+    {
+      "char": [
+        "time"
+      ],
+      "start_offset": 365,
+      "end_offset": 368,
+      "start": 29.2,
+      "end": 29.44
+    },
+    {
+      "char": [
+        "for"
+      ],
+      "start_offset": 368,
+      "end_offset": 371,
+      "start": 29.44,
+      "end": 29.68
+    },
+    {
+      "char": [
+        "another"
+      ],
+      "start_offset": 371,
+      "end_offset": 374,
+      "start": 29.68,
+      "end": 29.92
+    },
+    {
+      "char": [
+        "k"
+      ],
+      "start_offset": 374,
+      "end_offset": 376,
+      "start": 29.92,
+      "end": 30.080000000000002
+    },
+    {
+      "char": [
+        "ick"
+      ],
+      "start_offset": 376,
+      "end_offset": 378,
+      "start": 30.080000000000002,
+      "end": 30.240000000000002
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 378,
+      "end_offset": 378,
+      "start": 30.240000000000002,
+      "end": 30.240000000000002
+    },
+    {
+      "char": [
+        "Al"
+      ],
+      "start_offset": 381,
+      "end_offset": 382,
+      "start": 30.48,
+      "end": 30.560000000000002
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 382,
+      "end_offset": 384,
+      "start": 30.560000000000002,
+      "end": 30.72
+    },
+    {
+      "char": [
+        "ady"
+      ],
+      "start_offset": 384,
+      "end_offset": 385,
+      "start": 30.72,
+      "end": 30.8
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 385,
+      "end_offset": 387,
+      "start": 30.8,
+      "end": 30.96
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 387,
+      "end_offset": 389,
+      "start": 30.96,
+      "end": 31.12
+    },
+    {
+      "char": [
+        "one"
+      ],
+      "start_offset": 389,
+      "end_offset": 390,
+      "start": 31.12,
+      "end": 31.2
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 392,
+      "end_offset": 393,
+      "start": 31.36,
+      "end": 31.44
+    },
+    {
+      "char": [
+        "ick"
+      ],
+      "start_offset": 393,
+      "end_offset": 394,
+      "start": 31.44,
+      "end": 31.52
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 395,
+      "end_offset": 396,
+      "start": 31.6,
+      "end": 31.68
+    },
+    {
+      "char": [
+        "off"
+      ],
+      "start_offset": 397,
+      "end_offset": 399,
+      "start": 31.76,
+      "end": 31.92
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 399,
+      "end_offset": 400,
+      "start": 31.92,
+      "end": 32.0
+    },
+    {
+      "char": [
+        "bu"
+      ],
+      "start_offset": 400,
+      "end_offset": 401,
+      "start": 32.0,
+      "end": 32.08
+    },
+    {
+      "char": [
+        "ck"
+      ],
+      "start_offset": 401,
+      "end_offset": 402,
+      "start": 32.08,
+      "end": 32.160000000000004
+    },
+    {
+      "char": [
+        "et"
+      ],
+      "start_offset": 402,
+      "end_offset": 404,
+      "start": 32.160000000000004,
+      "end": 32.32
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 404,
+      "end_offset": 405,
+      "start": 32.32,
+      "end": 32.4
+    },
+    {
+      "char": [
+        "ist"
+      ],
+      "start_offset": 405,
+      "end_offset": 407,
+      "start": 32.4,
+      "end": 32.56
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 407,
+      "end_offset": 407,
+      "start": 32.56,
+      "end": 32.56
+    },
+    {
+      "char": [
+        "N"
+      ],
+      "start_offset": 408,
+      "end_offset": 409,
+      "start": 32.64,
+      "end": 32.72
+    },
+    {
+      "char": [
+        "ever"
+      ],
+      "start_offset": 409,
+      "end_offset": 411,
+      "start": 32.72,
+      "end": 32.88
+    },
+    {
+      "char": [
+        "had"
+      ],
+      "start_offset": 411,
+      "end_offset": 414,
+      "start": 32.88,
+      "end": 33.12
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 414,
+      "end_offset": 417,
+      "start": 33.12,
+      "end": 33.36
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 417,
+      "end_offset": 417,
+      "start": 33.36,
+      "end": 33.36
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 418,
+      "end_offset": 419,
+      "start": 33.44,
+      "end": 33.52
+    },
+    {
+      "char": [
+        "ound"
+      ],
+      "start_offset": 419,
+      "end_offset": 421,
+      "start": 33.52,
+      "end": 33.68
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 421,
+      "end_offset": 424,
+      "start": 33.68,
+      "end": 33.92
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 424,
+      "end_offset": 424,
+      "start": 33.92,
+      "end": 33.92
+    },
+    {
+      "char": [
+        "no"
+      ],
+      "start_offset": 425,
+      "end_offset": 426,
+      "start": 34.0,
+      "end": 34.08
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 426,
+      "end_offset": 426,
+      "start": 34.08,
+      "end": 34.08
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 427,
+      "end_offset": 428,
+      "start": 34.160000000000004,
+      "end": 34.24
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 428,
+      "end_offset": 428,
+      "start": 34.24,
+      "end": 34.24
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 429,
+      "end_offset": 429,
+      "start": 34.32,
+      "end": 34.32
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 429,
+      "end_offset": 431,
+      "start": 34.32,
+      "end": 34.480000000000004
+    },
+    {
+      "char": [
+        "ving"
+      ],
+      "start_offset": 431,
+      "end_offset": 433,
+      "start": 34.480000000000004,
+      "end": 34.64
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 433,
+      "end_offset": 435,
+      "start": 34.64,
+      "end": 34.800000000000004
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 435,
+      "end_offset": 435,
+      "start": 34.800000000000004,
+      "end": 34.800000000000004
+    },
+    {
+      "char": [
+        "R"
+      ],
+      "start_offset": 439,
+      "end_offset": 440,
+      "start": 35.12,
+      "end": 35.2
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 440,
+      "end_offset": 440,
+      "start": 35.2,
+      "end": 35.2
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 440,
+      "end_offset": 442,
+      "start": 35.2,
+      "end": 35.36
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 442,
+      "end_offset": 445,
+      "start": 35.36,
+      "end": 35.6
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 445,
+      "end_offset": 445,
+      "start": 35.6,
+      "end": 35.6
+    },
+    {
+      "char": [
+        "man"
+      ],
+      "start_offset": 446,
+      "end_offset": 448,
+      "start": 35.68,
+      "end": 35.84
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 448,
+      "end_offset": 448,
+      "start": 35.84,
+      "end": 35.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 449,
+      "end_offset": 450,
+      "start": 35.92,
+      "end": 36.0
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 450,
+      "end_offset": 451,
+      "start": 36.0,
+      "end": 36.08
+    },
+    {
+      "char": [
+        "ope"
+      ],
+      "start_offset": 451,
+      "end_offset": 453,
+      "start": 36.08,
+      "end": 36.24
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 453,
+      "end_offset": 455,
+      "start": 36.24,
+      "end": 36.4
+    },
+    {
+      "char": [
+        "dis"
+      ],
+      "start_offset": 455,
+      "end_offset": 457,
+      "start": 36.4,
+      "end": 36.56
+    },
+    {
+      "char": [
+        "co"
+      ],
+      "start_offset": 457,
+      "end_offset": 458,
+      "start": 36.56,
+      "end": 36.64
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 458,
+      "end_offset": 461,
+      "start": 36.64,
+      "end": 36.88
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 461,
+      "end_offset": 464,
+      "start": 36.88,
+      "end": 37.12
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 464,
+      "end_offset": 464,
+      "start": 37.12,
+      "end": 37.12
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 468,
+      "end_offset": 471,
+      "start": 37.44,
+      "end": 37.68
+    },
+    {
+      "char": [
+        "sh"
+      ],
+      "start_offset": 471,
+      "end_offset": 472,
+      "start": 37.68,
+      "end": 37.76
+    },
+    {
+      "char": [
+        "ort"
+      ],
+      "start_offset": 472,
+      "end_offset": 473,
+      "start": 37.76,
+      "end": 37.84
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 473,
+      "end_offset": 474,
+      "start": 37.84,
+      "end": 37.92
+    },
+    {
+      "char": [
+        "ut"
+      ],
+      "start_offset": 474,
+      "end_offset": 475,
+      "start": 37.92,
+      "end": 38.0
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 475,
+      "end_offset": 477,
+      "start": 38.0,
+      "end": 38.160000000000004
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 477,
+      "end_offset": 479,
+      "start": 38.160000000000004,
+      "end": 38.32
+    },
+    {
+      "char": [
+        "life"
+      ],
+      "start_offset": 479,
+      "end_offset": 480,
+      "start": 38.32,
+      "end": 38.4
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 480,
+      "end_offset": 480,
+      "start": 38.4,
+      "end": 38.4
+    },
+    {
+      "char": [
+        "man"
+      ],
+      "start_offset": 482,
+      "end_offset": 484,
+      "start": 38.56,
+      "end": 38.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 484,
+      "end_offset": 484,
+      "start": 38.72,
+      "end": 38.72
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 485,
+      "end_offset": 486,
+      "start": 38.800000000000004,
+      "end": 38.88
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 487,
+      "end_offset": 488,
+      "start": 38.96,
+      "end": 39.04
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 488,
+      "end_offset": 489,
+      "start": 39.04,
+      "end": 39.12
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 489,
+      "end_offset": 489,
+      "start": 39.12,
+      "end": 39.12
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 490,
+      "end_offset": 492,
+      "start": 39.2,
+      "end": 39.36
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 492,
+      "end_offset": 493,
+      "start": 39.36,
+      "end": 39.44
+    },
+    {
+      "char": [
+        "ign"
+      ],
+      "start_offset": 493,
+      "end_offset": 495,
+      "start": 39.44,
+      "end": 39.6
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 495,
+      "end_offset": 496,
+      "start": 39.6,
+      "end": 39.68
+    },
+    {
+      "char": [
+        "with"
+      ],
+      "start_offset": 497,
+      "end_offset": 498,
+      "start": 39.76,
+      "end": 39.84
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 498,
+      "end_offset": 499,
+      "start": 39.84,
+      "end": 39.92
+    },
+    {
+      "char": [
+        "su"
+      ],
+      "start_offset": 499,
+      "end_offset": 501,
+      "start": 39.92,
+      "end": 40.08
+    },
+    {
+      "char": [
+        "ff"
+      ],
+      "start_offset": 501,
+      "end_offset": 502,
+      "start": 40.08,
+      "end": 40.160000000000004
+    },
+    {
+      "char": [
+        "er"
+      ],
+      "start_offset": 502,
+      "end_offset": 504,
+      "start": 40.160000000000004,
+      "end": 40.32
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 504,
+      "end_offset": 505,
+      "start": 40.32,
+      "end": 40.4
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 505,
+      "end_offset": 505,
+      "start": 40.4,
+      "end": 40.4
+    },
+    {
+      "char": [
+        "C"
+      ],
+      "start_offset": 507,
+      "end_offset": 508,
+      "start": 40.56,
+      "end": 40.64
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 508,
+      "end_offset": 509,
+      "start": 40.64,
+      "end": 40.72
+    },
+    {
+      "char": [
+        "ass"
+      ],
+      "start_offset": 509,
+      "end_offset": 509,
+      "start": 40.72,
+      "end": 40.72
+    },
+    {
+      "char": [
+        "start"
+      ],
+      "start_offset": 511,
+      "end_offset": 512,
+      "start": 40.88,
+      "end": 40.96
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 513,
+      "end_offset": 514,
+      "start": 41.04,
+      "end": 41.12
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 514,
+      "end_offset": 515,
+      "start": 41.12,
+      "end": 41.2
+    },
+    {
+      "char": [
+        "u"
+      ],
+      "start_offset": 515,
+      "end_offset": 516,
+      "start": 41.2,
+      "end": 41.28
+    },
+    {
+      "char": [
+        "ck"
+      ],
+      "start_offset": 516,
+      "end_offset": 517,
+      "start": 41.28,
+      "end": 41.36
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 517,
+      "end_offset": 518,
+      "start": 41.36,
+      "end": 41.44
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 520,
+      "end_offset": 522,
+      "start": 41.6,
+      "end": 41.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 522,
+      "end_offset": 522,
+      "start": 41.76,
+      "end": 41.76
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 524,
+      "end_offset": 526,
+      "start": 41.92,
+      "end": 42.08
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 526,
+      "end_offset": 528,
+      "start": 42.08,
+      "end": 42.24
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 528,
+      "end_offset": 529,
+      "start": 42.24,
+      "end": 42.32
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 529,
+      "end_offset": 529,
+      "start": 42.32,
+      "end": 42.32
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 529,
+      "end_offset": 530,
+      "start": 42.32,
+      "end": 42.4
+    },
+    {
+      "char": [
+        "ick"
+      ],
+      "start_offset": 530,
+      "end_offset": 532,
+      "start": 42.4,
+      "end": 42.56
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 532,
+      "end_offset": 534,
+      "start": 42.56,
+      "end": 42.72
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 534,
+      "end_offset": 535,
+      "start": 42.72,
+      "end": 42.800000000000004
+    },
+    {
+      "char": [
+        "at"
+      ],
+      "start_offset": 535,
+      "end_offset": 535,
+      "start": 42.800000000000004,
+      "end": 42.800000000000004
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 535,
+      "end_offset": 536,
+      "start": 42.800000000000004,
+      "end": 42.88
+    },
+    {
+      "char": [
+        "les"
+      ],
+      "start_offset": 536,
+      "end_offset": 536,
+      "start": 42.88,
+      "end": 42.88
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 536,
+      "end_offset": 536,
+      "start": 42.88,
+      "end": 42.88
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 538,
+      "end_offset": 540,
+      "start": 43.04,
+      "end": 43.2
+    },
+    {
+      "char": [
+        "right"
+      ],
+      "start_offset": 541,
+      "end_offset": 543,
+      "start": 43.28,
+      "end": 43.44
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 543,
+      "end_offset": 545,
+      "start": 43.44,
+      "end": 43.6
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 545,
+      "end_offset": 545,
+      "start": 43.6,
+      "end": 43.6
+    },
+    {
+      "char": [
+        "this"
+      ],
+      "start_offset": 546,
+      "end_offset": 548,
+      "start": 43.68,
+      "end": 43.84
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 548,
+      "end_offset": 549,
+      "start": 43.84,
+      "end": 43.92
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 549,
+      "end_offset": 550,
+      "start": 43.92,
+      "end": 44.0
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 550,
+      "end_offset": 550,
+      "start": 44.0,
+      "end": 44.0
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 551,
+      "end_offset": 551,
+      "start": 44.08,
+      "end": 44.08
+    },
+    {
+      "char": [
+        "even"
+      ],
+      "start_offset": 551,
+      "end_offset": 554,
+      "start": 44.08,
+      "end": 44.32
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 554,
+      "end_offset": 555,
+      "start": 44.32,
+      "end": 44.4
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 555,
+      "end_offset": 556,
+      "start": 44.4,
+      "end": 44.480000000000004
+    },
+    {
+      "char": [
+        "all"
+      ],
+      "start_offset": 556,
+      "end_offset": 557,
+      "start": 44.480000000000004,
+      "end": 44.56
+    },
+    {
+      "char": [
+        "en"
+      ],
+      "start_offset": 557,
+      "end_offset": 558,
+      "start": 44.56,
+      "end": 44.64
+    },
+    {
+      "char": [
+        "ge"
+      ],
+      "start_offset": 558,
+      "end_offset": 559,
+      "start": 44.64,
+      "end": 44.72
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 559,
+      "end_offset": 559,
+      "start": 44.72,
+      "end": 44.72
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 560,
+      "end_offset": 561,
+      "start": 44.800000000000004,
+      "end": 44.88
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 561,
+      "end_offset": 561,
+      "start": 44.88,
+      "end": 44.88
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 562,
+      "end_offset": 562,
+      "start": 44.96,
+      "end": 44.96
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 562,
+      "end_offset": 564,
+      "start": 44.96,
+      "end": 45.12
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 564,
+      "end_offset": 565,
+      "start": 45.12,
+      "end": 45.2
+    },
+    {
+      "char": [
+        "us"
+      ],
+      "start_offset": 565,
+      "end_offset": 566,
+      "start": 45.2,
+      "end": 45.28
+    },
+    {
+      "char": [
+        "hing"
+      ],
+      "start_offset": 566,
+      "end_offset": 567,
+      "start": 45.28,
+      "end": 45.36
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 569,
+      "end_offset": 571,
+      "start": 45.52,
+      "end": 45.68
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 571,
+      "end_offset": 571,
+      "start": 45.68,
+      "end": 45.68
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 577,
+      "end_offset": 579,
+      "start": 46.160000000000004,
+      "end": 46.32
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 579,
+      "end_offset": 582,
+      "start": 46.32,
+      "end": 46.56
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 582,
+      "end_offset": 582,
+      "start": 46.56,
+      "end": 46.56
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 585,
+      "end_offset": 585,
+      "start": 46.800000000000004,
+      "end": 46.800000000000004
+    },
+    {
+      "char": [
+        "know"
+      ],
+      "start_offset": 585,
+      "end_offset": 587,
+      "start": 46.800000000000004,
+      "end": 46.96
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 587,
+      "end_offset": 587,
+      "start": 46.96,
+      "end": 46.96
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 588,
+      "end_offset": 591,
+      "start": 47.04,
+      "end": 47.28
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 592,
+      "end_offset": 594,
+      "start": 47.36,
+      "end": 47.52
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 594,
+      "end_offset": 596,
+      "start": 47.52,
+      "end": 47.68
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 596,
+      "end_offset": 597,
+      "start": 47.68,
+      "end": 47.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 597,
+      "end_offset": 597,
+      "start": 47.76,
+      "end": 47.76
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 605,
+      "end_offset": 606,
+      "start": 48.4,
+      "end": 48.480000000000004
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 606,
+      "end_offset": 606,
+      "start": 48.480000000000004,
+      "end": 48.480000000000004
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 608,
+      "end_offset": 608,
+      "start": 48.64,
+      "end": 48.64
+    },
+    {
+      "char": [
+        "trying"
+      ],
+      "start_offset": 608,
+      "end_offset": 611,
+      "start": 48.64,
+      "end": 48.88
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 611,
+      "end_offset": 613,
+      "start": 48.88,
+      "end": 49.04
+    },
+    {
+      "char": [
+        "fo"
+      ],
+      "start_offset": 613,
+      "end_offset": 614,
+      "start": 49.04,
+      "end": 49.120000000000005
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 614,
+      "end_offset": 615,
+      "start": 49.120000000000005,
+      "end": 49.2
+    },
+    {
+      "char": [
+        "ow"
+      ],
+      "start_offset": 615,
+      "end_offset": 616,
+      "start": 49.2,
+      "end": 49.28
+    },
+    {
+      "char": [
+        "ex"
+      ],
+      "start_offset": 620,
+      "end_offset": 622,
+      "start": 49.6,
+      "end": 49.76
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 622,
+      "end_offset": 624,
+      "start": 49.76,
+      "end": 49.92
+    },
+    {
+      "char": [
+        "ite"
+      ],
+      "start_offset": 624,
+      "end_offset": 625,
+      "start": 49.92,
+      "end": 50.0
+    },
+    {
+      "char": [
+        "ment"
+      ],
+      "start_offset": 625,
+      "end_offset": 627,
+      "start": 50.0,
+      "end": 50.160000000000004
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 627,
+      "end_offset": 627,
+      "start": 50.160000000000004,
+      "end": 50.160000000000004
+    },
+    {
+      "char": [
+        "We"
+      ],
+      "start_offset": 631,
+      "end_offset": 633,
+      "start": 50.480000000000004,
+      "end": 50.64
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 636,
+      "end_offset": 638,
+      "start": 50.88,
+      "end": 51.04
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 638,
+      "end_offset": 638,
+      "start": 51.04,
+      "end": 51.04
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 641,
+      "end_offset": 641,
+      "start": 51.28,
+      "end": 51.28
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 641,
+      "end_offset": 644,
+      "start": 51.28,
+      "end": 51.52
+    },
+    {
+      "char": [
+        "much"
+      ],
+      "start_offset": 644,
+      "end_offset": 645,
+      "start": 51.52,
+      "end": 51.6
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 649,
+      "end_offset": 651,
+      "start": 51.92,
+      "end": 52.08
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 651,
+      "end_offset": 652,
+      "start": 52.08,
+      "end": 52.160000000000004
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 652,
+      "end_offset": 654,
+      "start": 52.160000000000004,
+      "end": 52.32
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 654,
+      "end_offset": 656,
+      "start": 52.32,
+      "end": 52.480000000000004
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 656,
+      "end_offset": 656,
+      "start": 52.480000000000004,
+      "end": 52.480000000000004
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 661,
+      "end_offset": 662,
+      "start": 52.88,
+      "end": 52.96
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 662,
+      "end_offset": 664,
+      "start": 52.96,
+      "end": 53.120000000000005
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 664,
+      "end_offset": 666,
+      "start": 53.120000000000005,
+      "end": 53.28
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 666,
+      "end_offset": 669,
+      "start": 53.28,
+      "end": 53.52
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 669,
+      "end_offset": 671,
+      "start": 53.52,
+      "end": 53.68
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 671,
+      "end_offset": 671,
+      "start": 53.68,
+      "end": 53.68
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 675,
+      "end_offset": 678,
+      "start": 54.0,
+      "end": 54.24
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 678,
+      "end_offset": 679,
+      "start": 54.24,
+      "end": 54.32
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 679,
+      "end_offset": 682,
+      "start": 54.32,
+      "end": 54.56
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 682,
+      "end_offset": 683,
+      "start": 54.56,
+      "end": 54.64
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 683,
+      "end_offset": 683,
+      "start": 54.64,
+      "end": 54.64
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 690,
+      "end_offset": 693,
+      "start": 55.2,
+      "end": 55.44
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 693,
+      "end_offset": 696,
+      "start": 55.44,
+      "end": 55.68
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 696,
+      "end_offset": 696,
+      "start": 55.68,
+      "end": 55.68
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 698,
+      "end_offset": 698,
+      "start": 55.84,
+      "end": 55.84
+    },
+    {
+      "char": [
+        "know"
+      ],
+      "start_offset": 698,
+      "end_offset": 701,
+      "start": 55.84,
+      "end": 56.08
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 701,
+      "end_offset": 701,
+      "start": 56.08,
+      "end": 56.08
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 702,
+      "end_offset": 705,
+      "start": 56.160000000000004,
+      "end": 56.4
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 706,
+      "end_offset": 708,
+      "start": 56.480000000000004,
+      "end": 56.64
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 708,
+      "end_offset": 710,
+      "start": 56.64,
+      "end": 56.800000000000004
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 710,
+      "end_offset": 711,
+      "start": 56.800000000000004,
+      "end": 56.88
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 711,
+      "end_offset": 711,
+      "start": 56.88,
+      "end": 56.88
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 719,
+      "end_offset": 720,
+      "start": 57.52,
+      "end": 57.6
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 720,
+      "end_offset": 720,
+      "start": 57.6,
+      "end": 57.6
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 721,
+      "end_offset": 722,
+      "start": 57.68,
+      "end": 57.76
+    },
+    {
+      "char": [
+        "trying"
+      ],
+      "start_offset": 722,
+      "end_offset": 725,
+      "start": 57.76,
+      "end": 58.0
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 725,
+      "end_offset": 727,
+      "start": 58.0,
+      "end": 58.160000000000004
+    },
+    {
+      "char": [
+        "fo"
+      ],
+      "start_offset": 727,
+      "end_offset": 728,
+      "start": 58.160000000000004,
+      "end": 58.24
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 728,
+      "end_offset": 730,
+      "start": 58.24,
+      "end": 58.4
+    },
+    {
+      "char": [
+        "ow"
+      ],
+      "start_offset": 730,
+      "end_offset": 731,
+      "start": 58.4,
+      "end": 58.480000000000004
+    },
+    {
+      "char": [
+        "ins"
+      ],
+      "start_offset": 734,
+      "end_offset": 735,
+      "start": 58.72,
+      "end": 58.800000000000004
+    },
+    {
+      "char": [
+        "ide"
+      ],
+      "start_offset": 737,
+      "end_offset": 739,
+      "start": 58.96,
+      "end": 59.120000000000005
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 741,
+      "end_offset": 743,
+      "start": 59.28,
+      "end": 59.44
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 743,
+      "end_offset": 743,
+      "start": 59.44,
+      "end": 59.44
+    },
+    {
+      "char": [
+        "We"
+      ],
+      "start_offset": 746,
+      "end_offset": 749,
+      "start": 59.68,
+      "end": 59.92
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 749,
+      "end_offset": 752,
+      "start": 59.92,
+      "end": 60.160000000000004
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 752,
+      "end_offset": 752,
+      "start": 60.160000000000004,
+      "end": 60.160000000000004
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 755,
+      "end_offset": 755,
+      "start": 60.4,
+      "end": 60.4
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 755,
+      "end_offset": 758,
+      "start": 60.4,
+      "end": 60.64
+    },
+    {
+      "char": [
+        "much"
+      ],
+      "start_offset": 758,
+      "end_offset": 760,
+      "start": 60.64,
+      "end": 60.800000000000004
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 763,
+      "end_offset": 765,
+      "start": 61.04,
+      "end": 61.2
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 765,
+      "end_offset": 766,
+      "start": 61.2,
+      "end": 61.28
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 766,
+      "end_offset": 768,
+      "start": 61.28,
+      "end": 61.44
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 768,
+      "end_offset": 770,
+      "start": 61.44,
+      "end": 61.6
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 770,
+      "end_offset": 770,
+      "start": 61.6,
+      "end": 61.6
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 775,
+      "end_offset": 776,
+      "start": 62.0,
+      "end": 62.08
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 776,
+      "end_offset": 778,
+      "start": 62.08,
+      "end": 62.24
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 778,
+      "end_offset": 780,
+      "start": 62.24,
+      "end": 62.4
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 780,
+      "end_offset": 783,
+      "start": 62.4,
+      "end": 62.64
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 783,
+      "end_offset": 786,
+      "start": 62.64,
+      "end": 62.88
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 786,
+      "end_offset": 786,
+      "start": 62.88,
+      "end": 62.88
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 789,
+      "end_offset": 790,
+      "start": 63.120000000000005,
+      "end": 63.2
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 790,
+      "end_offset": 792,
+      "start": 63.2,
+      "end": 63.36
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 792,
+      "end_offset": 796,
+      "start": 63.36,
+      "end": 63.68
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 796,
+      "end_offset": 800,
+      "start": 63.68,
+      "end": 64.0
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 800,
+      "end_offset": 804,
+      "start": 64.0,
+      "end": 64.32000000000001
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 804,
+      "end_offset": 804,
+      "start": 64.32000000000001,
+      "end": 64.32000000000001
+    },
+    {
+      "char": [
+        "A"
+      ],
+      "start_offset": 920,
+      "end_offset": 921,
+      "start": 73.60000000000001,
+      "end": 73.68
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 921,
+      "end_offset": 921,
+      "start": 73.68,
+      "end": 73.68
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 921,
+      "end_offset": 922,
+      "start": 73.68,
+      "end": 73.76
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 923,
+      "end_offset": 925,
+      "start": 73.84,
+      "end": 74.0
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 925,
+      "end_offset": 927,
+      "start": 74.0,
+      "end": 74.16
+    },
+    {
+      "char": [
+        "sp"
+      ],
+      "start_offset": 927,
+      "end_offset": 930,
+      "start": 74.16,
+      "end": 74.4
+    },
+    {
+      "char": [
+        "ice"
+      ],
+      "start_offset": 930,
+      "end_offset": 932,
+      "start": 74.4,
+      "end": 74.56
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 932,
+      "end_offset": 934,
+      "start": 74.56,
+      "end": 74.72
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 934,
+      "end_offset": 935,
+      "start": 74.72,
+      "end": 74.8
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 935,
+      "end_offset": 936,
+      "start": 74.8,
+      "end": 74.88
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 936,
+      "end_offset": 937,
+      "start": 74.88,
+      "end": 74.96000000000001
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 937,
+      "end_offset": 937,
+      "start": 74.96000000000001,
+      "end": 74.96000000000001
+    },
+    {
+      "char": [
+        "th"
+      ],
+      "start_offset": 937,
+      "end_offset": 938,
+      "start": 74.96000000000001,
+      "end": 75.04
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 938,
+      "end_offset": 940,
+      "start": 75.04,
+      "end": 75.2
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 940,
+      "end_offset": 940,
+      "start": 75.2,
+      "end": 75.2
+    },
+    {
+      "char": [
+        "C"
+      ],
+      "start_offset": 942,
+      "end_offset": 943,
+      "start": 75.36,
+      "end": 75.44
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 943,
+      "end_offset": 944,
+      "start": 75.44,
+      "end": 75.52
+    },
+    {
+      "char": [
+        "ok"
+      ],
+      "start_offset": 944,
+      "end_offset": 945,
+      "start": 75.52,
+      "end": 75.60000000000001
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 945,
+      "end_offset": 947,
+      "start": 75.60000000000001,
+      "end": 75.76
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 947,
+      "end_offset": 949,
+      "start": 75.76,
+      "end": 75.92
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 949,
+      "end_offset": 949,
+      "start": 75.92,
+      "end": 75.92
+    },
+    {
+      "char": [
+        "sm"
+      ],
+      "start_offset": 950,
+      "end_offset": 952,
+      "start": 76.0,
+      "end": 76.16
+    },
+    {
+      "char": [
+        "ell"
+      ],
+      "start_offset": 952,
+      "end_offset": 953,
+      "start": 76.16,
+      "end": 76.24
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 953,
+      "end_offset": 954,
+      "start": 76.24,
+      "end": 76.32000000000001
+    },
+    {
+      "char": [
+        "real"
+      ],
+      "start_offset": 955,
+      "end_offset": 958,
+      "start": 76.4,
+      "end": 76.64
+    },
+    {
+      "char": [
+        "n"
+      ],
+      "start_offset": 958,
+      "end_offset": 959,
+      "start": 76.64,
+      "end": 76.72
+    },
+    {
+      "char": [
+        "ice"
+      ],
+      "start_offset": 959,
+      "end_offset": 961,
+      "start": 76.72,
+      "end": 76.88
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 961,
+      "end_offset": 963,
+      "start": 76.88,
+      "end": 77.04
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 963,
+      "end_offset": 964,
+      "start": 77.04,
+      "end": 77.12
+    },
+    {
+      "char": [
+        "k"
+      ],
+      "start_offset": 964,
+      "end_offset": 965,
+      "start": 77.12,
+      "end": 77.2
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 965,
+      "end_offset": 966,
+      "start": 77.2,
+      "end": 77.28
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 966,
+      "end_offset": 967,
+      "start": 77.28,
+      "end": 77.36
+    },
+    {
+      "char": [
+        "en"
+      ],
+      "start_offset": 967,
+      "end_offset": 968,
+      "start": 77.36,
+      "end": 77.44
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 968,
+      "end_offset": 968,
+      "start": 77.44,
+      "end": 77.44
+    },
+    {
+      "char": [
+        "Y"
+      ],
+      "start_offset": 981,
+      "end_offset": 982,
+      "start": 78.48,
+      "end": 78.56
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 982,
+      "end_offset": 984,
+      "start": 78.56,
+      "end": 78.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 984,
+      "end_offset": 984,
+      "start": 78.72,
+      "end": 78.72
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 985,
+      "end_offset": 986,
+      "start": 78.8,
+      "end": 78.88
+    },
+    {
+      "char": [
+        "did"
+      ],
+      "start_offset": 986,
+      "end_offset": 988,
+      "start": 78.88,
+      "end": 79.04
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 988,
+      "end_offset": 988,
+      "start": 79.04,
+      "end": 79.04
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 989,
+      "end_offset": 991,
+      "start": 79.12,
+      "end": 79.28
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 991,
+      "end_offset": 991,
+      "start": 79.28,
+      "end": 79.28
+    },
+    {
+      "char": [
+        "we"
+      ],
+      "start_offset": 992,
+      "end_offset": 994,
+      "start": 79.36,
+      "end": 79.52
+    },
+    {
+      "char": [
+        "didn"
+      ],
+      "start_offset": 994,
+      "end_offset": 995,
+      "start": 79.52,
+      "end": 79.60000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 995,
+      "end_offset": 995,
+      "start": 79.60000000000001,
+      "end": 79.60000000000001
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 996,
+      "end_offset": 998,
+      "start": 79.68,
+      "end": 79.84
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 998,
+      "end_offset": 998,
+      "start": 79.84,
+      "end": 79.84
+    },
+    {
+      "char": [
+        "S"
+      ],
+      "start_offset": 1000,
+      "end_offset": 1001,
+      "start": 80.0,
+      "end": 80.08
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 1001,
+      "end_offset": 1002,
+      "start": 80.08,
+      "end": 80.16
+    },
+    {
+      "char": [
+        "said"
+      ],
+      "start_offset": 1002,
+      "end_offset": 1004,
+      "start": 80.16,
+      "end": 80.32000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1004,
+      "end_offset": 1004,
+      "start": 80.32000000000001,
+      "end": 80.32000000000001
+    },
+    {
+      "char": [
+        "Now"
+      ],
+      "start_offset": 1018,
+      "end_offset": 1019,
+      "start": 81.44,
+      "end": 81.52
+    },
+    {
+      "char": [
+        "she"
+      ],
+      "start_offset": 1021,
+      "end_offset": 1022,
+      "start": 81.68,
+      "end": 81.76
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1022,
+      "end_offset": 1022,
+      "start": 81.76,
+      "end": 81.76
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1023,
+      "end_offset": 1023,
+      "start": 81.84,
+      "end": 81.84
+    },
+    {
+      "char": [
+        "li"
+      ],
+      "start_offset": 1023,
+      "end_offset": 1024,
+      "start": 81.84,
+      "end": 81.92
+    },
+    {
+      "char": [
+        "ving"
+      ],
+      "start_offset": 1024,
+      "end_offset": 1026,
+      "start": 81.92,
+      "end": 82.08
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1026,
+      "end_offset": 1026,
+      "start": 82.08,
+      "end": 82.08
+    },
+    {
+      "char": [
+        "He"
+      ],
+      "start_offset": 1035,
+      "end_offset": 1036,
+      "start": 82.8,
+      "end": 82.88
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1036,
+      "end_offset": 1038,
+      "start": 82.88,
+      "end": 83.04
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1038,
+      "end_offset": 1038,
+      "start": 83.04,
+      "end": 83.04
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1039,
+      "end_offset": 1040,
+      "start": 83.12,
+      "end": 83.2
+    },
+    {
+      "char": [
+        "om"
+      ],
+      "start_offset": 1040,
+      "end_offset": 1042,
+      "start": 83.2,
+      "end": 83.36
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1042,
+      "end_offset": 1042,
+      "start": 83.36,
+      "end": 83.36
+    },
+    {
+      "char": [
+        "look"
+      ],
+      "start_offset": 1043,
+      "end_offset": 1044,
+      "start": 83.44,
+      "end": 83.52
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1044,
+      "end_offset": 1044,
+      "start": 83.52,
+      "end": 83.52
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1045,
+      "end_offset": 1046,
+      "start": 83.60000000000001,
+      "end": 83.68
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1046,
+      "end_offset": 1046,
+      "start": 83.68,
+      "end": 83.68
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1047,
+      "end_offset": 1047,
+      "start": 83.76,
+      "end": 83.76
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 1047,
+      "end_offset": 1049,
+      "start": 83.76,
+      "end": 83.92
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1049,
+      "end_offset": 1050,
+      "start": 83.92,
+      "end": 84.0
+    },
+    {
+      "char": [
+        "tell"
+      ],
+      "start_offset": 1050,
+      "end_offset": 1052,
+      "start": 84.0,
+      "end": 84.16
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1054,
+      "end_offset": 1055,
+      "start": 84.32000000000001,
+      "end": 84.4
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1055,
+      "end_offset": 1055,
+      "start": 84.4,
+      "end": 84.4
+    },
+    {
+      "char": [
+        "T"
+      ],
+      "start_offset": 1057,
+      "end_offset": 1058,
+      "start": 84.56,
+      "end": 84.64
+    },
+    {
+      "char": [
+        "ry"
+      ],
+      "start_offset": 1058,
+      "end_offset": 1058,
+      "start": 84.64,
+      "end": 84.64
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1058,
+      "end_offset": 1060,
+      "start": 84.64,
+      "end": 84.8
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1060,
+      "end_offset": 1062,
+      "start": 84.8,
+      "end": 84.96000000000001
+    },
+    {
+      "char": [
+        "put"
+      ],
+      "start_offset": 1062,
+      "end_offset": 1064,
+      "start": 84.96000000000001,
+      "end": 85.12
+    },
+    {
+      "char": [
+        "fo"
+      ],
+      "start_offset": 1064,
+      "end_offset": 1066,
+      "start": 85.12,
+      "end": 85.28
+    },
+    {
+      "char": [
+        "od"
+      ],
+      "start_offset": 1066,
+      "end_offset": 1068,
+      "start": 85.28,
+      "end": 85.44
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1068,
+      "end_offset": 1069,
+      "start": 85.44,
+      "end": 85.52
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1069,
+      "end_offset": 1071,
+      "start": 85.52,
+      "end": 85.68
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 1071,
+      "end_offset": 1072,
+      "start": 85.68,
+      "end": 85.76
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 1072,
+      "end_offset": 1073,
+      "start": 85.76,
+      "end": 85.84
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1073,
+      "end_offset": 1075,
+      "start": 85.84,
+      "end": 86.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1075,
+      "end_offset": 1075,
+      "start": 86.0,
+      "end": 86.0
+    },
+    {
+      "char": [
+        "G"
+      ],
+      "start_offset": 1078,
+      "end_offset": 1079,
+      "start": 86.24,
+      "end": 86.32000000000001
+    },
+    {
+      "char": [
+        "iv"
+      ],
+      "start_offset": 1079,
+      "end_offset": 1081,
+      "start": 86.32000000000001,
+      "end": 86.48
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1081,
+      "end_offset": 1082,
+      "start": 86.48,
+      "end": 86.56
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1082,
+      "end_offset": 1084,
+      "start": 86.56,
+      "end": 86.72
+    },
+    {
+      "char": [
+        "some"
+      ],
+      "start_offset": 1084,
+      "end_offset": 1086,
+      "start": 86.72,
+      "end": 86.88
+    },
+    {
+      "char": [
+        "well"
+      ],
+      "start_offset": 1086,
+      "end_offset": 1088,
+      "start": 86.88,
+      "end": 87.04
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1090,
+      "end_offset": 1092,
+      "start": 87.2,
+      "end": 87.36
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1092,
+      "end_offset": 1092,
+      "start": 87.36,
+      "end": 87.36
+    },
+    {
+      "char": [
+        "E"
+      ],
+      "start_offset": 1094,
+      "end_offset": 1095,
+      "start": 87.52,
+      "end": 87.60000000000001
+    },
+    {
+      "char": [
+        "ven"
+      ],
+      "start_offset": 1095,
+      "end_offset": 1097,
+      "start": 87.60000000000001,
+      "end": 87.76
+    },
+    {
+      "char": [
+        "if"
+      ],
+      "start_offset": 1097,
+      "end_offset": 1098,
+      "start": 87.76,
+      "end": 87.84
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1098,
+      "end_offset": 1099,
+      "start": 87.84,
+      "end": 87.92
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1099,
+      "end_offset": 1099,
+      "start": 87.92,
+      "end": 87.92
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1100,
+      "end_offset": 1100,
+      "start": 88.0,
+      "end": 88.0
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 1100,
+      "end_offset": 1101,
+      "start": 88.0,
+      "end": 88.08
+    },
+    {
+      "char": [
+        "ra"
+      ],
+      "start_offset": 1101,
+      "end_offset": 1102,
+      "start": 88.08,
+      "end": 88.16
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 1102,
+      "end_offset": 1103,
+      "start": 88.16,
+      "end": 88.24
+    },
+    {
+      "char": [
+        "from"
+      ],
+      "start_offset": 1104,
+      "end_offset": 1106,
+      "start": 88.32000000000001,
+      "end": 88.48
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1106,
+      "end_offset": 1108,
+      "start": 88.48,
+      "end": 88.64
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 1108,
+      "end_offset": 1109,
+      "start": 88.64,
+      "end": 88.72
+    },
+    {
+      "char": [
+        "art"
+      ],
+      "start_offset": 1109,
+      "end_offset": 1111,
+      "start": 88.72,
+      "end": 88.88
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1111,
+      "end_offset": 1111,
+      "start": 88.88,
+      "end": 88.88
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1113,
+      "end_offset": 1115,
+      "start": 89.04,
+      "end": 89.2
+    },
+    {
+      "char": [
+        "might"
+      ],
+      "start_offset": 1115,
+      "end_offset": 1117,
+      "start": 89.2,
+      "end": 89.36
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 1117,
+      "end_offset": 1120,
+      "start": 89.36,
+      "end": 89.60000000000001
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 1120,
+      "end_offset": 1122,
+      "start": 89.60000000000001,
+      "end": 89.76
+    },
+    {
+      "char": [
+        "art"
+      ],
+      "start_offset": 1122,
+      "end_offset": 1124,
+      "start": 89.76,
+      "end": 89.92
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1124,
+      "end_offset": 1124,
+      "start": 89.92,
+      "end": 89.92
+    },
+    {
+      "char": [
+        "So"
+      ],
+      "start_offset": 1126,
+      "end_offset": 1127,
+      "start": 90.08,
+      "end": 90.16
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1128,
+      "end_offset": 1129,
+      "start": 90.24,
+      "end": 90.32000000000001
+    },
+    {
+      "char": [
+        "might"
+      ],
+      "start_offset": 1129,
+      "end_offset": 1131,
+      "start": 90.32000000000001,
+      "end": 90.48
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 1131,
+      "end_offset": 1133,
+      "start": 90.48,
+      "end": 90.64
+    },
+    {
+      "char": [
+        "well"
+      ],
+      "start_offset": 1133,
+      "end_offset": 1135,
+      "start": 90.64,
+      "end": 90.8
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 1135,
+      "end_offset": 1137,
+      "start": 90.8,
+      "end": 90.96000000000001
+    },
+    {
+      "char": [
+        "ance"
+      ],
+      "start_offset": 1137,
+      "end_offset": 1139,
+      "start": 90.96000000000001,
+      "end": 91.12
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1140,
+      "end_offset": 1142,
+      "start": 91.2,
+      "end": 91.36
+    },
+    {
+      "char": [
+        "B"
+      ],
+      "start_offset": 1146,
+      "end_offset": 1148,
+      "start": 91.68,
+      "end": 91.84
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 1148,
+      "end_offset": 1150,
+      "start": 91.84,
+      "end": 92.0
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 1151,
+      "end_offset": 1152,
+      "start": 92.08,
+      "end": 92.16
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 1153,
+      "end_offset": 1154,
+      "start": 92.24,
+      "end": 92.32000000000001
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 1154,
+      "end_offset": 1156,
+      "start": 92.32000000000001,
+      "end": 92.48
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1156,
+      "end_offset": 1157,
+      "start": 92.48,
+      "end": 92.56
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1157,
+      "end_offset": 1158,
+      "start": 92.56,
+      "end": 92.64
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1158,
+      "end_offset": 1159,
+      "start": 92.64,
+      "end": 92.72
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1159,
+      "end_offset": 1161,
+      "start": 92.72,
+      "end": 92.88
+    },
+    {
+      "char": [
+        "two"
+      ],
+      "start_offset": 1161,
+      "end_offset": 1162,
+      "start": 92.88,
+      "end": 92.96000000000001
+    },
+    {
+      "char": [
+        "-"
+      ],
+      "start_offset": 1162,
+      "end_offset": 1162,
+      "start": 92.96000000000001,
+      "end": 92.96000000000001
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 1164,
+      "end_offset": 1165,
+      "start": 93.12,
+      "end": 93.2
+    },
+    {
+      "char": [
+        "ep"
+      ],
+      "start_offset": 1167,
+      "end_offset": 1168,
+      "start": 93.36,
+      "end": 93.44
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1168,
+      "end_offset": 1168,
+      "start": 93.44,
+      "end": 93.44
+    },
+    {
+      "char": [
+        "B"
+      ],
+      "start_offset": 1174,
+      "end_offset": 1176,
+      "start": 93.92,
+      "end": 94.08
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 1176,
+      "end_offset": 1178,
+      "start": 94.08,
+      "end": 94.24
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 1179,
+      "end_offset": 1181,
+      "start": 94.32000000000001,
+      "end": 94.48
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 1181,
+      "end_offset": 1182,
+      "start": 94.48,
+      "end": 94.56
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 1182,
+      "end_offset": 1184,
+      "start": 94.56,
+      "end": 94.72
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1184,
+      "end_offset": 1185,
+      "start": 94.72,
+      "end": 94.8
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1185,
+      "end_offset": 1186,
+      "start": 94.8,
+      "end": 94.88
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1186,
+      "end_offset": 1188,
+      "start": 94.88,
+      "end": 95.04
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1188,
+      "end_offset": 1189,
+      "start": 95.04,
+      "end": 95.12
+    },
+    {
+      "char": [
+        "two"
+      ],
+      "start_offset": 1189,
+      "end_offset": 1190,
+      "start": 95.12,
+      "end": 95.2
+    },
+    {
+      "char": [
+        "-"
+      ],
+      "start_offset": 1190,
+      "end_offset": 1190,
+      "start": 95.2,
+      "end": 95.2
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 1192,
+      "end_offset": 1193,
+      "start": 95.36,
+      "end": 95.44
+    },
+    {
+      "char": [
+        "ep"
+      ],
+      "start_offset": 1195,
+      "end_offset": 1197,
+      "start": 95.60000000000001,
+      "end": 95.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1197,
+      "end_offset": 1197,
+      "start": 95.76,
+      "end": 95.76
+    },
+    {
+      "char": [
+        "B"
+      ],
+      "start_offset": 1202,
+      "end_offset": 1204,
+      "start": 96.16,
+      "end": 96.32000000000001
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 1204,
+      "end_offset": 1206,
+      "start": 96.32000000000001,
+      "end": 96.48
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 1208,
+      "end_offset": 1210,
+      "start": 96.64,
+      "end": 96.8
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 1210,
+      "end_offset": 1211,
+      "start": 96.8,
+      "end": 96.88
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 1211,
+      "end_offset": 1213,
+      "start": 96.88,
+      "end": 97.04
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1213,
+      "end_offset": 1214,
+      "start": 97.04,
+      "end": 97.12
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1214,
+      "end_offset": 1215,
+      "start": 97.12,
+      "end": 97.2
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1215,
+      "end_offset": 1216,
+      "start": 97.2,
+      "end": 97.28
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1216,
+      "end_offset": 1217,
+      "start": 97.28,
+      "end": 97.36
+    },
+    {
+      "char": [
+        "two"
+      ],
+      "start_offset": 1217,
+      "end_offset": 1219,
+      "start": 97.36,
+      "end": 97.52
+    },
+    {
+      "char": [
+        "-"
+      ],
+      "start_offset": 1219,
+      "end_offset": 1219,
+      "start": 97.52,
+      "end": 97.52
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 1221,
+      "end_offset": 1222,
+      "start": 97.68,
+      "end": 97.76
+    },
+    {
+      "char": [
+        "ep"
+      ],
+      "start_offset": 1224,
+      "end_offset": 1226,
+      "start": 97.92,
+      "end": 98.08
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1226,
+      "end_offset": 1226,
+      "start": 98.08,
+      "end": 98.08
+    },
+    {
+      "char": [
+        "S"
+      ],
+      "start_offset": 1231,
+      "end_offset": 1232,
+      "start": 98.48,
+      "end": 98.56
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1232,
+      "end_offset": 1233,
+      "start": 98.56,
+      "end": 98.64
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1233,
+      "end_offset": 1235,
+      "start": 98.64,
+      "end": 98.8
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1235,
+      "end_offset": 1238,
+      "start": 98.8,
+      "end": 99.04
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 1238,
+      "end_offset": 1239,
+      "start": 99.04,
+      "end": 99.12
+    },
+    {
+      "char": [
+        "ound"
+      ],
+      "start_offset": 1239,
+      "end_offset": 1241,
+      "start": 99.12,
+      "end": 99.28
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1241,
+      "end_offset": 1241,
+      "start": 99.28,
+      "end": 99.28
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 1242,
+      "end_offset": 1243,
+      "start": 99.36,
+      "end": 99.44
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1245,
+      "end_offset": 1246,
+      "start": 99.60000000000001,
+      "end": 99.68
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 1247,
+      "end_offset": 1249,
+      "start": 99.76,
+      "end": 99.92
+    },
+    {
+      "char": [
+        "ou"
+      ],
+      "start_offset": 1249,
+      "end_offset": 1250,
+      "start": 99.92,
+      "end": 100.0
+    },
+    {
+      "char": [
+        "le"
+      ],
+      "start_offset": 1250,
+      "end_offset": 1251,
+      "start": 100.0,
+      "end": 100.08
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1252,
+      "end_offset": 1253,
+      "start": 100.16,
+      "end": 100.24000000000001
+    },
+    {
+      "char": [
+        "te"
+      ],
+      "start_offset": 1253,
+      "end_offset": 1254,
+      "start": 100.24000000000001,
+      "end": 100.32000000000001
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1254,
+      "end_offset": 1254,
+      "start": 100.32000000000001,
+      "end": 100.32000000000001
+    },
+    {
+      "char": [
+        "W"
+      ],
+      "start_offset": 1263,
+      "end_offset": 1265,
+      "start": 101.04,
+      "end": 101.2
+    },
+    {
+      "char": [
+        "ave"
+      ],
+      "start_offset": 1265,
+      "end_offset": 1268,
+      "start": 101.2,
+      "end": 101.44
+    },
+    {
+      "char": [
+        "by"
+      ],
+      "start_offset": 1268,
+      "end_offset": 1269,
+      "start": 101.44,
+      "end": 101.52
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1269,
+      "end_offset": 1270,
+      "start": 101.52,
+      "end": 101.60000000000001
+    },
+    {
+      "char": [
+        "-"
+      ],
+      "start_offset": 1270,
+      "end_offset": 1270,
+      "start": 101.60000000000001,
+      "end": 101.60000000000001
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 1271,
+      "end_offset": 1272,
+      "start": 101.68,
+      "end": 101.76
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1272,
+      "end_offset": 1273,
+      "start": 101.76,
+      "end": 101.84
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1273,
+      "end_offset": 1274,
+      "start": 101.84,
+      "end": 101.92
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 1275,
+      "end_offset": 1276,
+      "start": 102.0,
+      "end": 102.08
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1277,
+      "end_offset": 1279,
+      "start": 102.16,
+      "end": 102.32000000000001
+    },
+    {
+      "char": [
+        "go"
+      ],
+      "start_offset": 1279,
+      "end_offset": 1280,
+      "start": 102.32000000000001,
+      "end": 102.4
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 1282,
+      "end_offset": 1284,
+      "start": 102.56,
+      "end": 102.72
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1284,
+      "end_offset": 1284,
+      "start": 102.72,
+      "end": 102.72
+    },
+    {
+      "char": [
+        "T"
+      ],
+      "start_offset": 1286,
+      "end_offset": 1287,
+      "start": 102.88,
+      "end": 102.96000000000001
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 1287,
+      "end_offset": 1289,
+      "start": 102.96000000000001,
+      "end": 103.12
+    },
+    {
+      "char": [
+        "fl"
+      ],
+      "start_offset": 1289,
+      "end_offset": 1290,
+      "start": 103.12,
+      "end": 103.2
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1290,
+      "end_offset": 1290,
+      "start": 103.2,
+      "end": 103.2
+    },
+    {
+      "char": [
+        "or"
+      ],
+      "start_offset": 1290,
+      "end_offset": 1291,
+      "start": 103.2,
+      "end": 103.28
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 1293,
+      "end_offset": 1294,
+      "start": 103.44,
+      "end": 103.52
+    },
+    {
+      "char": [
+        "am"
+      ],
+      "start_offset": 1294,
+      "end_offset": 1295,
+      "start": 103.52,
+      "end": 103.60000000000001
+    },
+    {
+      "char": [
+        "with"
+      ],
+      "start_offset": 1297,
+      "end_offset": 1298,
+      "start": 103.76,
+      "end": 103.84
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1299,
+      "end_offset": 1300,
+      "start": 103.92,
+      "end": 104.0
+    },
+    {
+      "char": [
+        "show"
+      ],
+      "start_offset": 1301,
+      "end_offset": 1302,
+      "start": 104.08,
+      "end": 104.16
+    },
+    {
+      "char": [
+        "er"
+      ],
+      "start_offset": 1304,
+      "end_offset": 1306,
+      "start": 104.32000000000001,
+      "end": 104.48
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1306,
+      "end_offset": 1306,
+      "start": 104.48,
+      "end": 104.48
+    },
+    {
+      "char": [
+        "E"
+      ],
+      "start_offset": 1309,
+      "end_offset": 1310,
+      "start": 104.72,
+      "end": 104.8
+    },
+    {
+      "char": [
+        "very"
+      ],
+      "start_offset": 1310,
+      "end_offset": 1311,
+      "start": 104.8,
+      "end": 104.88
+    },
+    {
+      "char": [
+        "thing"
+      ],
+      "start_offset": 1311,
+      "end_offset": 1313,
+      "start": 104.88,
+      "end": 105.04
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1313,
+      "end_offset": 1315,
+      "start": 105.04,
+      "end": 105.2
+    },
+    {
+      "char": [
+        "do"
+      ],
+      "start_offset": 1315,
+      "end_offset": 1317,
+      "start": 105.2,
+      "end": 105.36
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1317,
+      "end_offset": 1317,
+      "start": 105.36,
+      "end": 105.36
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 1319,
+      "end_offset": 1321,
+      "start": 105.52,
+      "end": 105.68
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1321,
+      "end_offset": 1321,
+      "start": 105.68,
+      "end": 105.68
+    },
+    {
+      "char": [
+        "everything"
+      ],
+      "start_offset": 1323,
+      "end_offset": 1326,
+      "start": 105.84,
+      "end": 106.08
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1326,
+      "end_offset": 1326,
+      "start": 106.08,
+      "end": 106.08
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1327,
+      "end_offset": 1327,
+      "start": 106.16,
+      "end": 106.16
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1327,
+      "end_offset": 1329,
+      "start": 106.16,
+      "end": 106.32000000000001
+    },
+    {
+      "char": [
+        "go"
+      ],
+      "start_offset": 1329,
+      "end_offset": 1330,
+      "start": 106.32000000000001,
+      "end": 106.4
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1332,
+      "end_offset": 1334,
+      "start": 106.56,
+      "end": 106.72
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1334,
+      "end_offset": 1334,
+      "start": 106.72,
+      "end": 106.72
+    },
+    {
+      "char": [
+        "C"
+      ],
+      "start_offset": 1336,
+      "end_offset": 1337,
+      "start": 106.88,
+      "end": 106.96000000000001
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1337,
+      "end_offset": 1338,
+      "start": 106.96000000000001,
+      "end": 107.04
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1338,
+      "end_offset": 1338,
+      "start": 107.04,
+      "end": 107.04
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1340,
+      "end_offset": 1340,
+      "start": 107.2,
+      "end": 107.2
+    },
+    {
+      "char": [
+        "con"
+      ],
+      "start_offset": 1340,
+      "end_offset": 1341,
+      "start": 107.2,
+      "end": 107.28
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 1341,
+      "end_offset": 1342,
+      "start": 107.28,
+      "end": 107.36
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 1342,
+      "end_offset": 1344,
+      "start": 107.36,
+      "end": 107.52
+    },
+    {
+      "char": [
+        "uct"
+      ],
+      "start_offset": 1344,
+      "end_offset": 1346,
+      "start": 107.52,
+      "end": 107.68
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 1346,
+      "end_offset": 1348,
+      "start": 107.68,
+      "end": 107.84
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1348,
+      "end_offset": 1348,
+      "start": 107.84,
+      "end": 107.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1349,
+      "end_offset": 1351,
+      "start": 107.92,
+      "end": 108.08
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1351,
+      "end_offset": 1352,
+      "start": 108.08,
+      "end": 108.16
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1352,
+      "end_offset": 1353,
+      "start": 108.16,
+      "end": 108.24000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1353,
+      "end_offset": 1353,
+      "start": 108.24000000000001,
+      "end": 108.24000000000001
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1354,
+      "end_offset": 1354,
+      "start": 108.32000000000001,
+      "end": 108.32000000000001
+    },
+    {
+      "char": [
+        "no"
+      ],
+      "start_offset": 1354,
+      "end_offset": 1357,
+      "start": 108.32000000000001,
+      "end": 108.56
+    },
+    {
+      "char": [
+        "bo"
+      ],
+      "start_offset": 1357,
+      "end_offset": 1359,
+      "start": 108.56,
+      "end": 108.72
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1361,
+      "end_offset": 1363,
+      "start": 108.88,
+      "end": 109.04
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1363,
+      "end_offset": 1363,
+      "start": 109.04,
+      "end": 109.04
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1375,
+      "end_offset": 1378,
+      "start": 110.0,
+      "end": 110.24000000000001
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 1378,
+      "end_offset": 1381,
+      "start": 110.24000000000001,
+      "end": 110.48
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1381,
+      "end_offset": 1381,
+      "start": 110.48,
+      "end": 110.48
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1384,
+      "end_offset": 1384,
+      "start": 110.72,
+      "end": 110.72
+    },
+    {
+      "char": [
+        "know"
+      ],
+      "start_offset": 1384,
+      "end_offset": 1387,
+      "start": 110.72,
+      "end": 110.96000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1387,
+      "end_offset": 1387,
+      "start": 110.96000000000001,
+      "end": 110.96000000000001
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 1388,
+      "end_offset": 1391,
+      "start": 111.04,
+      "end": 111.28
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1392,
+      "end_offset": 1394,
+      "start": 111.36,
+      "end": 111.52
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1394,
+      "end_offset": 1396,
+      "start": 111.52,
+      "end": 111.68
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1396,
+      "end_offset": 1397,
+      "start": 111.68,
+      "end": 111.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1397,
+      "end_offset": 1397,
+      "start": 111.76,
+      "end": 111.76
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1405,
+      "end_offset": 1406,
+      "start": 112.4,
+      "end": 112.48
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1406,
+      "end_offset": 1406,
+      "start": 112.48,
+      "end": 112.48
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1408,
+      "end_offset": 1408,
+      "start": 112.64,
+      "end": 112.64
+    },
+    {
+      "char": [
+        "trying"
+      ],
+      "start_offset": 1408,
+      "end_offset": 1411,
+      "start": 112.64,
+      "end": 112.88
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1411,
+      "end_offset": 1413,
+      "start": 112.88,
+      "end": 113.04
+    },
+    {
+      "char": [
+        "fo"
+      ],
+      "start_offset": 1413,
+      "end_offset": 1414,
+      "start": 113.04,
+      "end": 113.12
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 1414,
+      "end_offset": 1416,
+      "start": 113.12,
+      "end": 113.28
+    },
+    {
+      "char": [
+        "ow"
+      ],
+      "start_offset": 1416,
+      "end_offset": 1417,
+      "start": 113.28,
+      "end": 113.36
+    },
+    {
+      "char": [
+        "ex"
+      ],
+      "start_offset": 1420,
+      "end_offset": 1422,
+      "start": 113.60000000000001,
+      "end": 113.76
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 1422,
+      "end_offset": 1424,
+      "start": 113.76,
+      "end": 113.92
+    },
+    {
+      "char": [
+        "ite"
+      ],
+      "start_offset": 1424,
+      "end_offset": 1425,
+      "start": 113.92,
+      "end": 114.0
+    },
+    {
+      "char": [
+        "ment"
+      ],
+      "start_offset": 1425,
+      "end_offset": 1427,
+      "start": 114.0,
+      "end": 114.16
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1427,
+      "end_offset": 1427,
+      "start": 114.16,
+      "end": 114.16
+    },
+    {
+      "char": [
+        "We"
+      ],
+      "start_offset": 1431,
+      "end_offset": 1435,
+      "start": 114.48,
+      "end": 114.8
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 1435,
+      "end_offset": 1438,
+      "start": 114.8,
+      "end": 115.04
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1438,
+      "end_offset": 1438,
+      "start": 115.04,
+      "end": 115.04
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1441,
+      "end_offset": 1441,
+      "start": 115.28,
+      "end": 115.28
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 1441,
+      "end_offset": 1444,
+      "start": 115.28,
+      "end": 115.52
+    },
+    {
+      "char": [
+        "much"
+      ],
+      "start_offset": 1444,
+      "end_offset": 1446,
+      "start": 115.52,
+      "end": 115.68
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1448,
+      "end_offset": 1449,
+      "start": 115.84,
+      "end": 115.92
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1451,
+      "end_offset": 1452,
+      "start": 116.08,
+      "end": 116.16
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 1452,
+      "end_offset": 1454,
+      "start": 116.16,
+      "end": 116.32000000000001
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1454,
+      "end_offset": 1455,
+      "start": 116.32000000000001,
+      "end": 116.4
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1455,
+      "end_offset": 1455,
+      "start": 116.4,
+      "end": 116.4
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 1461,
+      "end_offset": 1462,
+      "start": 116.88,
+      "end": 116.96000000000001
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 1462,
+      "end_offset": 1464,
+      "start": 116.96000000000001,
+      "end": 117.12
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1464,
+      "end_offset": 1466,
+      "start": 117.12,
+      "end": 117.28
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1466,
+      "end_offset": 1469,
+      "start": 117.28,
+      "end": 117.52
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1469,
+      "end_offset": 1471,
+      "start": 117.52,
+      "end": 117.68
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1471,
+      "end_offset": 1471,
+      "start": 117.68,
+      "end": 117.68
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1475,
+      "end_offset": 1477,
+      "start": 118.0,
+      "end": 118.16
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1477,
+      "end_offset": 1479,
+      "start": 118.16,
+      "end": 118.32000000000001
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1479,
+      "end_offset": 1482,
+      "start": 118.32000000000001,
+      "end": 118.56
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1482,
+      "end_offset": 1483,
+      "start": 118.56,
+      "end": 118.64
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1483,
+      "end_offset": 1483,
+      "start": 118.64,
+      "end": 118.64
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1490,
+      "end_offset": 1493,
+      "start": 119.2,
+      "end": 119.44
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 1493,
+      "end_offset": 1496,
+      "start": 119.44,
+      "end": 119.68
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1496,
+      "end_offset": 1496,
+      "start": 119.68,
+      "end": 119.68
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1498,
+      "end_offset": 1498,
+      "start": 119.84,
+      "end": 119.84
+    },
+    {
+      "char": [
+        "know"
+      ],
+      "start_offset": 1498,
+      "end_offset": 1501,
+      "start": 119.84,
+      "end": 120.08
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1501,
+      "end_offset": 1501,
+      "start": 120.08,
+      "end": 120.08
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 1502,
+      "end_offset": 1505,
+      "start": 120.16,
+      "end": 120.4
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1506,
+      "end_offset": 1508,
+      "start": 120.48,
+      "end": 120.64
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1508,
+      "end_offset": 1510,
+      "start": 120.64,
+      "end": 120.8
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1510,
+      "end_offset": 1511,
+      "start": 120.8,
+      "end": 120.88
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1511,
+      "end_offset": 1511,
+      "start": 120.88,
+      "end": 120.88
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1519,
+      "end_offset": 1520,
+      "start": 121.52,
+      "end": 121.60000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1520,
+      "end_offset": 1520,
+      "start": 121.60000000000001,
+      "end": 121.60000000000001
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1522,
+      "end_offset": 1522,
+      "start": 121.76,
+      "end": 121.76
+    },
+    {
+      "char": [
+        "trying"
+      ],
+      "start_offset": 1522,
+      "end_offset": 1525,
+      "start": 121.76,
+      "end": 122.0
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1525,
+      "end_offset": 1527,
+      "start": 122.0,
+      "end": 122.16
+    },
+    {
+      "char": [
+        "fo"
+      ],
+      "start_offset": 1527,
+      "end_offset": 1528,
+      "start": 122.16,
+      "end": 122.24000000000001
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 1528,
+      "end_offset": 1529,
+      "start": 122.24000000000001,
+      "end": 122.32000000000001
+    },
+    {
+      "char": [
+        "ow"
+      ],
+      "start_offset": 1529,
+      "end_offset": 1530,
+      "start": 122.32000000000001,
+      "end": 122.4
+    },
+    {
+      "char": [
+        "ins"
+      ],
+      "start_offset": 1534,
+      "end_offset": 1535,
+      "start": 122.72,
+      "end": 122.8
+    },
+    {
+      "char": [
+        "ide"
+      ],
+      "start_offset": 1537,
+      "end_offset": 1539,
+      "start": 122.96000000000001,
+      "end": 123.12
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1541,
+      "end_offset": 1543,
+      "start": 123.28,
+      "end": 123.44
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1543,
+      "end_offset": 1543,
+      "start": 123.44,
+      "end": 123.44
+    },
+    {
+      "char": [
+        "We"
+      ],
+      "start_offset": 1546,
+      "end_offset": 1548,
+      "start": 123.68,
+      "end": 123.84
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 1550,
+      "end_offset": 1552,
+      "start": 124.0,
+      "end": 124.16
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1552,
+      "end_offset": 1552,
+      "start": 124.16,
+      "end": 124.16
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1555,
+      "end_offset": 1555,
+      "start": 124.4,
+      "end": 124.4
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 1555,
+      "end_offset": 1558,
+      "start": 124.4,
+      "end": 124.64
+    },
+    {
+      "char": [
+        "much"
+      ],
+      "start_offset": 1558,
+      "end_offset": 1560,
+      "start": 124.64,
+      "end": 124.8
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1563,
+      "end_offset": 1565,
+      "start": 125.04,
+      "end": 125.2
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1565,
+      "end_offset": 1567,
+      "start": 125.2,
+      "end": 125.36
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 1567,
+      "end_offset": 1569,
+      "start": 125.36,
+      "end": 125.52
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1569,
+      "end_offset": 1571,
+      "start": 125.52,
+      "end": 125.68
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1571,
+      "end_offset": 1571,
+      "start": 125.68,
+      "end": 125.68
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 1575,
+      "end_offset": 1576,
+      "start": 126.0,
+      "end": 126.08
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 1576,
+      "end_offset": 1578,
+      "start": 126.08,
+      "end": 126.24000000000001
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1578,
+      "end_offset": 1580,
+      "start": 126.24000000000001,
+      "end": 126.4
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1580,
+      "end_offset": 1583,
+      "start": 126.4,
+      "end": 126.64
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1583,
+      "end_offset": 1586,
+      "start": 126.64,
+      "end": 126.88000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1586,
+      "end_offset": 1586,
+      "start": 126.88000000000001,
+      "end": 126.88000000000001
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1589,
+      "end_offset": 1592,
+      "start": 127.12,
+      "end": 127.36
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1592,
+      "end_offset": 1595,
+      "start": 127.36,
+      "end": 127.60000000000001
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1595,
+      "end_offset": 1598,
+      "start": 127.60000000000001,
+      "end": 127.84
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1598,
+      "end_offset": 1602,
+      "start": 127.84,
+      "end": 128.16
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1602,
+      "end_offset": 1602,
+      "start": 128.16,
+      "end": 128.16
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 1645,
+      "end_offset": 1646,
+      "start": 131.6,
+      "end": 131.68
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 1646,
+      "end_offset": 1649,
+      "start": 131.68,
+      "end": 131.92000000000002
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1649,
+      "end_offset": 1651,
+      "start": 131.92000000000002,
+      "end": 132.08
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1651,
+      "end_offset": 1654,
+      "start": 132.08,
+      "end": 132.32
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1654,
+      "end_offset": 1657,
+      "start": 132.32,
+      "end": 132.56
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1657,
+      "end_offset": 1657,
+      "start": 132.56,
+      "end": 132.56
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 1703,
+      "end_offset": 1704,
+      "start": 136.24,
+      "end": 136.32
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 1704,
+      "end_offset": 1706,
+      "start": 136.32,
+      "end": 136.48
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1706,
+      "end_offset": 1709,
+      "start": 136.48,
+      "end": 136.72
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1709,
+      "end_offset": 1712,
+      "start": 136.72,
+      "end": 136.96
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1712,
+      "end_offset": 1714,
+      "start": 136.96,
+      "end": 137.12
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1714,
+      "end_offset": 1714,
+      "start": 137.12,
+      "end": 137.12
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 1760,
+      "end_offset": 1761,
+      "start": 140.8,
+      "end": 140.88
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 1761,
+      "end_offset": 1763,
+      "start": 140.88,
+      "end": 141.04
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1763,
+      "end_offset": 1766,
+      "start": 141.04,
+      "end": 141.28
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1766,
+      "end_offset": 1769,
+      "start": 141.28,
+      "end": 141.52
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1769,
+      "end_offset": 1772,
+      "start": 141.52,
+      "end": 141.76
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1772,
+      "end_offset": 1772,
+      "start": 141.76,
+      "end": 141.76
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 1817,
+      "end_offset": 1818,
+      "start": 145.36,
+      "end": 145.44
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 1818,
+      "end_offset": 1820,
+      "start": 145.44,
+      "end": 145.6
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1820,
+      "end_offset": 1824,
+      "start": 145.6,
+      "end": 145.92000000000002
+    },
+    {
+      "char": [
+        "little"
+      ],
+      "start_offset": 1824,
+      "end_offset": 1828,
+      "start": 145.92000000000002,
+      "end": 146.24
+    },
+    {
+      "char": [
+        "bit"
+      ],
+      "start_offset": 1828,
+      "end_offset": 1832,
+      "start": 146.24,
+      "end": 146.56
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1832,
+      "end_offset": 1832,
+      "start": 146.56,
+      "end": 146.56
+    }
+  ],
+  "word": [
+    {
+      "word": "I",
+      "start_offset": 5,
+      "end_offset": 8,
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "word": "don't",
+      "start_offset": 8,
+      "end_offset": 13,
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "word": "know,",
+      "start_offset": 13,
+      "end_offset": 16,
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "word": "but",
+      "start_offset": 17,
+      "end_offset": 19,
+      "start": 1.36,
+      "end": 1.52
+    },
+    {
+      "word": "I",
+      "start_offset": 20,
+      "end_offset": 23,
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "word": "like",
+      "start_offset": 23,
+      "end_offset": 25,
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "word": "it.",
+      "start_offset": 25,
+      "end_offset": 29,
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "word": "I'm",
+      "start_offset": 33,
+      "end_offset": 37,
+      "start": 2.64,
+      "end": 2.96
+    },
+    {
+      "word": "trying",
+      "start_offset": 37,
+      "end_offset": 40,
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "word": "to",
+      "start_offset": 40,
+      "end_offset": 42,
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "word": "follow",
+      "start_offset": 42,
+      "end_offset": 46,
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "word": "excitement.",
+      "start_offset": 49,
+      "end_offset": 55,
+      "start": 3.92,
+      "end": 4.4
+    },
+    {
+      "word": "We",
+      "start_offset": 60,
+      "end_offset": 62,
+      "start": 4.8,
+      "end": 4.96
+    },
+    {
+      "word": "don't",
+      "start_offset": 64,
+      "end_offset": 69,
+      "start": 5.12,
+      "end": 5.5200000000000005
+    },
+    {
+      "word": "need",
+      "start_offset": 69,
+      "end_offset": 73,
+      "start": 5.5200000000000005,
+      "end": 5.84
+    },
+    {
+      "word": "much",
+      "start_offset": 73,
+      "end_offset": 75,
+      "start": 5.84,
+      "end": 6.0
+    },
+    {
+      "word": "to",
+      "start_offset": 77,
+      "end_offset": 80,
+      "start": 6.16,
+      "end": 6.4
+    },
+    {
+      "word": "light",
+      "start_offset": 80,
+      "end_offset": 83,
+      "start": 6.4,
+      "end": 6.640000000000001
+    },
+    {
+      "word": "it.",
+      "start_offset": 83,
+      "end_offset": 86,
+      "start": 6.640000000000001,
+      "end": 6.88
+    },
+    {
+      "word": "Just",
+      "start_offset": 90,
+      "end_offset": 93,
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "word": "a",
+      "start_offset": 93,
+      "end_offset": 94,
+      "start": 7.44,
+      "end": 7.5200000000000005
+    },
+    {
+      "word": "little",
+      "start_offset": 94,
+      "end_offset": 96,
+      "start": 7.5200000000000005,
+      "end": 7.68
+    },
+    {
+      "word": "bit.",
+      "start_offset": 96,
+      "end_offset": 100,
+      "start": 7.68,
+      "end": 8.0
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 104,
+      "end_offset": 106,
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "word": "ain't",
+      "start_offset": 107,
+      "end_offset": 110,
+      "start": 8.56,
+      "end": 8.8
+    },
+    {
+      "word": "nobody",
+      "start_offset": 110,
+      "end_offset": 113,
+      "start": 8.8,
+      "end": 9.040000000000001
+    },
+    {
+      "word": "stopping",
+      "start_offset": 114,
+      "end_offset": 118,
+      "start": 9.120000000000001,
+      "end": 9.44
+    },
+    {
+      "word": "me.",
+      "start_offset": 119,
+      "end_offset": 121,
+      "start": 9.52,
+      "end": 9.68
+    },
+    {
+      "word": "Ain't",
+      "start_offset": 124,
+      "end_offset": 126,
+      "start": 9.92,
+      "end": 10.08
+    },
+    {
+      "word": "my",
+      "start_offset": 127,
+      "end_offset": 128,
+      "start": 10.16,
+      "end": 10.24
+    },
+    {
+      "word": "greens,",
+      "start_offset": 129,
+      "end_offset": 132,
+      "start": 10.32,
+      "end": 10.56
+    },
+    {
+      "word": "yeah,",
+      "start_offset": 133,
+      "end_offset": 134,
+      "start": 10.64,
+      "end": 10.72
+    },
+    {
+      "word": "ain't",
+      "start_offset": 136,
+      "end_offset": 137,
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "word": "all",
+      "start_offset": 138,
+      "end_offset": 140,
+      "start": 11.040000000000001,
+      "end": 11.200000000000001
+    },
+    {
+      "word": "of",
+      "start_offset": 140,
+      "end_offset": 141,
+      "start": 11.200000000000001,
+      "end": 11.28
+    },
+    {
+      "word": "my",
+      "start_offset": 141,
+      "end_offset": 143,
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "word": "broccoli.",
+      "start_offset": 143,
+      "end_offset": 150,
+      "start": 11.44,
+      "end": 12.0
+    },
+    {
+      "word": "You",
+      "start_offset": 152,
+      "end_offset": 154,
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "word": "wanna",
+      "start_offset": 154,
+      "end_offset": 157,
+      "start": 12.32,
+      "end": 12.56
+    },
+    {
+      "word": "beef",
+      "start_offset": 157,
+      "end_offset": 160,
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "word": "well,",
+      "start_offset": 161,
+      "end_offset": 162,
+      "start": 12.88,
+      "end": 12.96
+    },
+    {
+      "word": "at",
+      "start_offset": 164,
+      "end_offset": 165,
+      "start": 13.120000000000001,
+      "end": 13.200000000000001
+    },
+    {
+      "word": "least",
+      "start_offset": 165,
+      "end_offset": 168,
+      "start": 13.200000000000001,
+      "end": 13.44
+    },
+    {
+      "word": "do",
+      "start_offset": 168,
+      "end_offset": 170,
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "word": "it",
+      "start_offset": 170,
+      "end_offset": 172,
+      "start": 13.6,
+      "end": 13.76
+    },
+    {
+      "word": "properly.",
+      "start_offset": 172,
+      "end_offset": 177,
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "word": "Ain't",
+      "start_offset": 180,
+      "end_offset": 183,
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "word": "got",
+      "start_offset": 183,
+      "end_offset": 185,
+      "start": 14.64,
+      "end": 14.8
+    },
+    {
+      "word": "a",
+      "start_offset": 185,
+      "end_offset": 186,
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "word": "chance,",
+      "start_offset": 186,
+      "end_offset": 188,
+      "start": 14.88,
+      "end": 15.040000000000001
+    },
+    {
+      "word": "it's",
+      "start_offset": 189,
+      "end_offset": 191,
+      "start": 15.120000000000001,
+      "end": 15.280000000000001
+    },
+    {
+      "word": "ain't",
+      "start_offset": 191,
+      "end_offset": 194,
+      "start": 15.280000000000001,
+      "end": 15.52
+    },
+    {
+      "word": "even",
+      "start_offset": 195,
+      "end_offset": 196,
+      "start": 15.6,
+      "end": 15.68
+    },
+    {
+      "word": "monopoly.",
+      "start_offset": 199,
+      "end_offset": 206,
+      "start": 15.92,
+      "end": 16.48
+    },
+    {
+      "word": "It",
+      "start_offset": 208,
+      "end_offset": 210,
+      "start": 16.64,
+      "end": 16.8
+    },
+    {
+      "word": "can't",
+      "start_offset": 210,
+      "end_offset": 213,
+      "start": 16.8,
+      "end": 17.04
+    },
+    {
+      "word": "be",
+      "start_offset": 213,
+      "end_offset": 215,
+      "start": 17.04,
+      "end": 17.2
+    },
+    {
+      "word": "you,",
+      "start_offset": 215,
+      "end_offset": 217,
+      "start": 17.2,
+      "end": 17.36
+    },
+    {
+      "word": "this",
+      "start_offset": 218,
+      "end_offset": 220,
+      "start": 17.44,
+      "end": 17.6
+    },
+    {
+      "word": "ain't",
+      "start_offset": 220,
+      "end_offset": 223,
+      "start": 17.6,
+      "end": 17.84
+    },
+    {
+      "word": "even",
+      "start_offset": 223,
+      "end_offset": 226,
+      "start": 17.84,
+      "end": 18.080000000000002
+    },
+    {
+      "word": "a",
+      "start_offset": 226,
+      "end_offset": 228,
+      "start": 18.080000000000002,
+      "end": 18.240000000000002
+    },
+    {
+      "word": "lottery.",
+      "start_offset": 228,
+      "end_offset": 236,
+      "start": 18.240000000000002,
+      "end": 18.88
+    },
+    {
+      "word": "Only",
+      "start_offset": 239,
+      "end_offset": 242,
+      "start": 19.12,
+      "end": 19.36
+    },
+    {
+      "word": "thing",
+      "start_offset": 242,
+      "end_offset": 244,
+      "start": 19.36,
+      "end": 19.52
+    },
+    {
+      "word": "I'm",
+      "start_offset": 244,
+      "end_offset": 246,
+      "start": 19.52,
+      "end": 19.68
+    },
+    {
+      "word": "trying",
+      "start_offset": 246,
+      "end_offset": 248,
+      "start": 19.68,
+      "end": 19.84
+    },
+    {
+      "word": "to",
+      "start_offset": 248,
+      "end_offset": 249,
+      "start": 19.84,
+      "end": 19.92
+    },
+    {
+      "word": "smash",
+      "start_offset": 249,
+      "end_offset": 254,
+      "start": 19.92,
+      "end": 20.32
+    },
+    {
+      "word": "nowadays",
+      "start_offset": 254,
+      "end_offset": 260,
+      "start": 20.32,
+      "end": 20.8
+    },
+    {
+      "word": "is",
+      "start_offset": 261,
+      "end_offset": 263,
+      "start": 20.88,
+      "end": 21.04
+    },
+    {
+      "word": "the",
+      "start_offset": 263,
+      "end_offset": 264,
+      "start": 21.04,
+      "end": 21.12
+    },
+    {
+      "word": "glass",
+      "start_offset": 264,
+      "end_offset": 268,
+      "start": 21.12,
+      "end": 21.44
+    },
+    {
+      "word": "in",
+      "start_offset": 268,
+      "end_offset": 270,
+      "start": 21.44,
+      "end": 21.6
+    },
+    {
+      "word": "the",
+      "start_offset": 270,
+      "end_offset": 271,
+      "start": 21.6,
+      "end": 21.68
+    },
+    {
+      "word": "ceiling",
+      "start_offset": 271,
+      "end_offset": 277,
+      "start": 21.68,
+      "end": 22.16
+    },
+    {
+      "word": "on",
+      "start_offset": 277,
+      "end_offset": 279,
+      "start": 22.16,
+      "end": 22.32
+    },
+    {
+      "word": "top",
+      "start_offset": 279,
+      "end_offset": 282,
+      "start": 22.32,
+      "end": 22.56
+    },
+    {
+      "word": "of",
+      "start_offset": 282,
+      "end_offset": 283,
+      "start": 22.56,
+      "end": 22.64
+    },
+    {
+      "word": "me.",
+      "start_offset": 283,
+      "end_offset": 287,
+      "start": 22.64,
+      "end": 22.96
+    },
+    {
+      "word": "I'm",
+      "start_offset": 291,
+      "end_offset": 294,
+      "start": 23.28,
+      "end": 23.52
+    },
+    {
+      "word": "trying",
+      "start_offset": 294,
+      "end_offset": 296,
+      "start": 23.52,
+      "end": 23.68
+    },
+    {
+      "word": "to",
+      "start_offset": 296,
+      "end_offset": 297,
+      "start": 23.68,
+      "end": 23.76
+    },
+    {
+      "word": "be",
+      "start_offset": 297,
+      "end_offset": 299,
+      "start": 23.76,
+      "end": 23.92
+    },
+    {
+      "word": "peaceful",
+      "start_offset": 299,
+      "end_offset": 305,
+      "start": 23.92,
+      "end": 24.400000000000002
+    },
+    {
+      "word": "and",
+      "start_offset": 305,
+      "end_offset": 307,
+      "start": 24.400000000000002,
+      "end": 24.560000000000002
+    },
+    {
+      "word": "we'll",
+      "start_offset": 307,
+      "end_offset": 309,
+      "start": 24.560000000000002,
+      "end": 24.72
+    },
+    {
+      "word": "be",
+      "start_offset": 310,
+      "end_offset": 311,
+      "start": 24.8,
+      "end": 24.88
+    },
+    {
+      "word": "free.",
+      "start_offset": 311,
+      "end_offset": 315,
+      "start": 24.88,
+      "end": 25.2
+    },
+    {
+      "word": "But",
+      "start_offset": 319,
+      "end_offset": 321,
+      "start": 25.52,
+      "end": 25.68
+    },
+    {
+      "word": "some",
+      "start_offset": 321,
+      "end_offset": 324,
+      "start": 25.68,
+      "end": 25.92
+    },
+    {
+      "word": "of",
+      "start_offset": 324,
+      "end_offset": 326,
+      "start": 25.92,
+      "end": 26.080000000000002
+    },
+    {
+      "word": "these",
+      "start_offset": 326,
+      "end_offset": 329,
+      "start": 26.080000000000002,
+      "end": 26.32
+    },
+    {
+      "word": "need",
+      "start_offset": 329,
+      "end_offset": 332,
+      "start": 26.32,
+      "end": 26.560000000000002
+    },
+    {
+      "word": "a",
+      "start_offset": 332,
+      "end_offset": 333,
+      "start": 26.560000000000002,
+      "end": 26.64
+    },
+    {
+      "word": "love",
+      "start_offset": 333,
+      "end_offset": 334,
+      "start": 26.64,
+      "end": 26.72
+    },
+    {
+      "word": "of",
+      "start_offset": 338,
+      "end_offset": 339,
+      "start": 27.04,
+      "end": 27.12
+    },
+    {
+      "word": "me,",
+      "start_offset": 340,
+      "end_offset": 341,
+      "start": 27.2,
+      "end": 27.28
+    },
+    {
+      "word": "honestly.",
+      "start_offset": 344,
+      "end_offset": 350,
+      "start": 27.52,
+      "end": 28.0
+    },
+    {
+      "word": "Play",
+      "start_offset": 353,
+      "end_offset": 355,
+      "start": 28.240000000000002,
+      "end": 28.400000000000002
+    },
+    {
+      "word": "ball,",
+      "start_offset": 356,
+      "end_offset": 359,
+      "start": 28.48,
+      "end": 28.72
+    },
+    {
+      "word": "now",
+      "start_offset": 361,
+      "end_offset": 362,
+      "start": 28.88,
+      "end": 28.96
+    },
+    {
+      "word": "it's",
+      "start_offset": 363,
+      "end_offset": 365,
+      "start": 29.04,
+      "end": 29.2
+    },
+    {
+      "word": "time",
+      "start_offset": 365,
+      "end_offset": 368,
+      "start": 29.2,
+      "end": 29.44
+    },
+    {
+      "word": "for",
+      "start_offset": 368,
+      "end_offset": 371,
+      "start": 29.44,
+      "end": 29.68
+    },
+    {
+      "word": "another",
+      "start_offset": 371,
+      "end_offset": 374,
+      "start": 29.68,
+      "end": 29.92
+    },
+    {
+      "word": "kick.",
+      "start_offset": 374,
+      "end_offset": 378,
+      "start": 29.92,
+      "end": 30.240000000000002
+    },
+    {
+      "word": "Already",
+      "start_offset": 381,
+      "end_offset": 385,
+      "start": 30.48,
+      "end": 30.8
+    },
+    {
+      "word": "got",
+      "start_offset": 385,
+      "end_offset": 387,
+      "start": 30.8,
+      "end": 30.96
+    },
+    {
+      "word": "a",
+      "start_offset": 387,
+      "end_offset": 389,
+      "start": 30.96,
+      "end": 31.12
+    },
+    {
+      "word": "one",
+      "start_offset": 389,
+      "end_offset": 390,
+      "start": 31.12,
+      "end": 31.2
+    },
+    {
+      "word": "ticked",
+      "start_offset": 392,
+      "end_offset": 396,
+      "start": 31.36,
+      "end": 31.68
+    },
+    {
+      "word": "off",
+      "start_offset": 397,
+      "end_offset": 399,
+      "start": 31.76,
+      "end": 31.92
+    },
+    {
+      "word": "the",
+      "start_offset": 399,
+      "end_offset": 400,
+      "start": 31.92,
+      "end": 32.0
+    },
+    {
+      "word": "bucket",
+      "start_offset": 400,
+      "end_offset": 404,
+      "start": 32.0,
+      "end": 32.32
+    },
+    {
+      "word": "list.",
+      "start_offset": 404,
+      "end_offset": 407,
+      "start": 32.32,
+      "end": 32.56
+    },
+    {
+      "word": "Never",
+      "start_offset": 408,
+      "end_offset": 411,
+      "start": 32.64,
+      "end": 32.88
+    },
+    {
+      "word": "had",
+      "start_offset": 411,
+      "end_offset": 414,
+      "start": 32.88,
+      "end": 33.12
+    },
+    {
+      "word": "love,",
+      "start_offset": 414,
+      "end_offset": 417,
+      "start": 33.12,
+      "end": 33.36
+    },
+    {
+      "word": "found",
+      "start_offset": 418,
+      "end_offset": 421,
+      "start": 33.44,
+      "end": 33.68
+    },
+    {
+      "word": "love,",
+      "start_offset": 421,
+      "end_offset": 424,
+      "start": 33.68,
+      "end": 33.92
+    },
+    {
+      "word": "no,",
+      "start_offset": 425,
+      "end_offset": 426,
+      "start": 34.0,
+      "end": 34.08
+    },
+    {
+      "word": "I'm",
+      "start_offset": 427,
+      "end_offset": 429,
+      "start": 34.160000000000004,
+      "end": 34.32
+    },
+    {
+      "word": "loving",
+      "start_offset": 429,
+      "end_offset": 433,
+      "start": 34.32,
+      "end": 34.64
+    },
+    {
+      "word": "it.",
+      "start_offset": 433,
+      "end_offset": 435,
+      "start": 34.64,
+      "end": 34.800000000000004
+    },
+    {
+      "word": "Real",
+      "start_offset": 439,
+      "end_offset": 442,
+      "start": 35.12,
+      "end": 35.36
+    },
+    {
+      "word": "talk,",
+      "start_offset": 442,
+      "end_offset": 445,
+      "start": 35.36,
+      "end": 35.6
+    },
+    {
+      "word": "man,",
+      "start_offset": 446,
+      "end_offset": 448,
+      "start": 35.68,
+      "end": 35.84
+    },
+    {
+      "word": "I",
+      "start_offset": 449,
+      "end_offset": 450,
+      "start": 35.92,
+      "end": 36.0
+    },
+    {
+      "word": "hope",
+      "start_offset": 450,
+      "end_offset": 453,
+      "start": 36.0,
+      "end": 36.24
+    },
+    {
+      "word": "you",
+      "start_offset": 453,
+      "end_offset": 455,
+      "start": 36.24,
+      "end": 36.4
+    },
+    {
+      "word": "discover",
+      "start_offset": 455,
+      "end_offset": 461,
+      "start": 36.4,
+      "end": 36.88
+    },
+    {
+      "word": "it.",
+      "start_offset": 461,
+      "end_offset": 464,
+      "start": 36.88,
+      "end": 37.12
+    },
+    {
+      "word": "No",
+      "start_offset": 468,
+      "end_offset": 471,
+      "start": 37.44,
+      "end": 37.68
+    },
+    {
+      "word": "shortcuts",
+      "start_offset": 471,
+      "end_offset": 477,
+      "start": 37.68,
+      "end": 38.160000000000004
+    },
+    {
+      "word": "in",
+      "start_offset": 477,
+      "end_offset": 479,
+      "start": 38.160000000000004,
+      "end": 38.32
+    },
+    {
+      "word": "life,",
+      "start_offset": 479,
+      "end_offset": 480,
+      "start": 38.32,
+      "end": 38.4
+    },
+    {
+      "word": "man,",
+      "start_offset": 482,
+      "end_offset": 484,
+      "start": 38.56,
+      "end": 38.72
+    },
+    {
+      "word": "you",
+      "start_offset": 485,
+      "end_offset": 486,
+      "start": 38.800000000000004,
+      "end": 38.88
+    },
+    {
+      "word": "gotta",
+      "start_offset": 487,
+      "end_offset": 489,
+      "start": 38.96,
+      "end": 39.12
+    },
+    {
+      "word": "be",
+      "start_offset": 490,
+      "end_offset": 492,
+      "start": 39.2,
+      "end": 39.36
+    },
+    {
+      "word": "aligned",
+      "start_offset": 492,
+      "end_offset": 496,
+      "start": 39.36,
+      "end": 39.68
+    },
+    {
+      "word": "with",
+      "start_offset": 497,
+      "end_offset": 498,
+      "start": 39.76,
+      "end": 39.84
+    },
+    {
+      "word": "the",
+      "start_offset": 498,
+      "end_offset": 499,
+      "start": 39.84,
+      "end": 39.92
+    },
+    {
+      "word": "suffering.",
+      "start_offset": 499,
+      "end_offset": 505,
+      "start": 39.92,
+      "end": 40.4
+    },
+    {
+      "word": "Class",
+      "start_offset": 507,
+      "end_offset": 509,
+      "start": 40.56,
+      "end": 40.72
+    },
+    {
+      "word": "started",
+      "start_offset": 511,
+      "end_offset": 514,
+      "start": 40.88,
+      "end": 41.12
+    },
+    {
+      "word": "ducking",
+      "start_offset": 514,
+      "end_offset": 518,
+      "start": 41.12,
+      "end": 41.44
+    },
+    {
+      "word": "it.",
+      "start_offset": 520,
+      "end_offset": 522,
+      "start": 41.6,
+      "end": 41.76
+    },
+    {
+      "word": "You",
+      "start_offset": 524,
+      "end_offset": 526,
+      "start": 41.92,
+      "end": 42.08
+    },
+    {
+      "word": "gotta",
+      "start_offset": 526,
+      "end_offset": 529,
+      "start": 42.08,
+      "end": 42.32
+    },
+    {
+      "word": "pick",
+      "start_offset": 529,
+      "end_offset": 532,
+      "start": 42.32,
+      "end": 42.56
+    },
+    {
+      "word": "your",
+      "start_offset": 532,
+      "end_offset": 534,
+      "start": 42.56,
+      "end": 42.72
+    },
+    {
+      "word": "battles,",
+      "start_offset": 534,
+      "end_offset": 536,
+      "start": 42.72,
+      "end": 42.88
+    },
+    {
+      "word": "but",
+      "start_offset": 538,
+      "end_offset": 540,
+      "start": 43.04,
+      "end": 43.2
+    },
+    {
+      "word": "right",
+      "start_offset": 541,
+      "end_offset": 543,
+      "start": 43.28,
+      "end": 43.44
+    },
+    {
+      "word": "now,",
+      "start_offset": 543,
+      "end_offset": 545,
+      "start": 43.44,
+      "end": 43.6
+    },
+    {
+      "word": "this",
+      "start_offset": 546,
+      "end_offset": 548,
+      "start": 43.68,
+      "end": 43.84
+    },
+    {
+      "word": "ain't",
+      "start_offset": 548,
+      "end_offset": 551,
+      "start": 43.84,
+      "end": 44.08
+    },
+    {
+      "word": "even",
+      "start_offset": 551,
+      "end_offset": 554,
+      "start": 44.08,
+      "end": 44.32
+    },
+    {
+      "word": "a",
+      "start_offset": 554,
+      "end_offset": 555,
+      "start": 44.32,
+      "end": 44.4
+    },
+    {
+      "word": "challenge.",
+      "start_offset": 555,
+      "end_offset": 559,
+      "start": 44.4,
+      "end": 44.72
+    },
+    {
+      "word": "I'm",
+      "start_offset": 560,
+      "end_offset": 562,
+      "start": 44.800000000000004,
+      "end": 44.96
+    },
+    {
+      "word": "just",
+      "start_offset": 562,
+      "end_offset": 564,
+      "start": 44.96,
+      "end": 45.12
+    },
+    {
+      "word": "rushing",
+      "start_offset": 564,
+      "end_offset": 567,
+      "start": 45.12,
+      "end": 45.36
+    },
+    {
+      "word": "up.",
+      "start_offset": 569,
+      "end_offset": 571,
+      "start": 45.52,
+      "end": 45.68
+    },
+    {
+      "word": "I",
+      "start_offset": 577,
+      "end_offset": 579,
+      "start": 46.160000000000004,
+      "end": 46.32
+    },
+    {
+      "word": "don't",
+      "start_offset": 579,
+      "end_offset": 585,
+      "start": 46.32,
+      "end": 46.800000000000004
+    },
+    {
+      "word": "know,",
+      "start_offset": 585,
+      "end_offset": 587,
+      "start": 46.800000000000004,
+      "end": 46.96
+    },
+    {
+      "word": "but",
+      "start_offset": 588,
+      "end_offset": 591,
+      "start": 47.04,
+      "end": 47.28
+    },
+    {
+      "word": "I",
+      "start_offset": 592,
+      "end_offset": 594,
+      "start": 47.36,
+      "end": 47.52
+    },
+    {
+      "word": "like",
+      "start_offset": 594,
+      "end_offset": 596,
+      "start": 47.52,
+      "end": 47.68
+    },
+    {
+      "word": "it.",
+      "start_offset": 596,
+      "end_offset": 597,
+      "start": 47.68,
+      "end": 47.76
+    },
+    {
+      "word": "I'm",
+      "start_offset": 605,
+      "end_offset": 608,
+      "start": 48.4,
+      "end": 48.64
+    },
+    {
+      "word": "trying",
+      "start_offset": 608,
+      "end_offset": 611,
+      "start": 48.64,
+      "end": 48.88
+    },
+    {
+      "word": "to",
+      "start_offset": 611,
+      "end_offset": 613,
+      "start": 48.88,
+      "end": 49.04
+    },
+    {
+      "word": "follow",
+      "start_offset": 613,
+      "end_offset": 616,
+      "start": 49.04,
+      "end": 49.28
+    },
+    {
+      "word": "excitement.",
+      "start_offset": 620,
+      "end_offset": 627,
+      "start": 49.6,
+      "end": 50.160000000000004
+    },
+    {
+      "word": "We",
+      "start_offset": 631,
+      "end_offset": 633,
+      "start": 50.480000000000004,
+      "end": 50.64
+    },
+    {
+      "word": "don't",
+      "start_offset": 636,
+      "end_offset": 641,
+      "start": 50.88,
+      "end": 51.28
+    },
+    {
+      "word": "need",
+      "start_offset": 641,
+      "end_offset": 644,
+      "start": 51.28,
+      "end": 51.52
+    },
+    {
+      "word": "much",
+      "start_offset": 644,
+      "end_offset": 645,
+      "start": 51.52,
+      "end": 51.6
+    },
+    {
+      "word": "to",
+      "start_offset": 649,
+      "end_offset": 651,
+      "start": 51.92,
+      "end": 52.08
+    },
+    {
+      "word": "light",
+      "start_offset": 651,
+      "end_offset": 654,
+      "start": 52.08,
+      "end": 52.32
+    },
+    {
+      "word": "it.",
+      "start_offset": 654,
+      "end_offset": 656,
+      "start": 52.32,
+      "end": 52.480000000000004
+    },
+    {
+      "word": "Just",
+      "start_offset": 661,
+      "end_offset": 664,
+      "start": 52.88,
+      "end": 53.120000000000005
+    },
+    {
+      "word": "a",
+      "start_offset": 664,
+      "end_offset": 666,
+      "start": 53.120000000000005,
+      "end": 53.28
+    },
+    {
+      "word": "little",
+      "start_offset": 666,
+      "end_offset": 669,
+      "start": 53.28,
+      "end": 53.52
+    },
+    {
+      "word": "bit,",
+      "start_offset": 669,
+      "end_offset": 671,
+      "start": 53.52,
+      "end": 53.68
+    },
+    {
+      "word": "just",
+      "start_offset": 675,
+      "end_offset": 678,
+      "start": 54.0,
+      "end": 54.24
+    },
+    {
+      "word": "a",
+      "start_offset": 678,
+      "end_offset": 679,
+      "start": 54.24,
+      "end": 54.32
+    },
+    {
+      "word": "little",
+      "start_offset": 679,
+      "end_offset": 682,
+      "start": 54.32,
+      "end": 54.56
+    },
+    {
+      "word": "bit.",
+      "start_offset": 682,
+      "end_offset": 683,
+      "start": 54.56,
+      "end": 54.64
+    },
+    {
+      "word": "I",
+      "start_offset": 690,
+      "end_offset": 693,
+      "start": 55.2,
+      "end": 55.44
+    },
+    {
+      "word": "don't",
+      "start_offset": 693,
+      "end_offset": 698,
+      "start": 55.44,
+      "end": 55.84
+    },
+    {
+      "word": "know,",
+      "start_offset": 698,
+      "end_offset": 701,
+      "start": 55.84,
+      "end": 56.08
+    },
+    {
+      "word": "but",
+      "start_offset": 702,
+      "end_offset": 705,
+      "start": 56.160000000000004,
+      "end": 56.4
+    },
+    {
+      "word": "I",
+      "start_offset": 706,
+      "end_offset": 708,
+      "start": 56.480000000000004,
+      "end": 56.64
+    },
+    {
+      "word": "like",
+      "start_offset": 708,
+      "end_offset": 710,
+      "start": 56.64,
+      "end": 56.800000000000004
+    },
+    {
+      "word": "it.",
+      "start_offset": 710,
+      "end_offset": 711,
+      "start": 56.800000000000004,
+      "end": 56.88
+    },
+    {
+      "word": "I'm",
+      "start_offset": 719,
+      "end_offset": 722,
+      "start": 57.52,
+      "end": 57.76
+    },
+    {
+      "word": "trying",
+      "start_offset": 722,
+      "end_offset": 725,
+      "start": 57.76,
+      "end": 58.0
+    },
+    {
+      "word": "to",
+      "start_offset": 725,
+      "end_offset": 727,
+      "start": 58.0,
+      "end": 58.160000000000004
+    },
+    {
+      "word": "follow",
+      "start_offset": 727,
+      "end_offset": 731,
+      "start": 58.160000000000004,
+      "end": 58.480000000000004
+    },
+    {
+      "word": "inside",
+      "start_offset": 734,
+      "end_offset": 739,
+      "start": 58.72,
+      "end": 59.120000000000005
+    },
+    {
+      "word": "it.",
+      "start_offset": 741,
+      "end_offset": 743,
+      "start": 59.28,
+      "end": 59.44
+    },
+    {
+      "word": "We",
+      "start_offset": 746,
+      "end_offset": 749,
+      "start": 59.68,
+      "end": 59.92
+    },
+    {
+      "word": "don't",
+      "start_offset": 749,
+      "end_offset": 755,
+      "start": 59.92,
+      "end": 60.4
+    },
+    {
+      "word": "need",
+      "start_offset": 755,
+      "end_offset": 758,
+      "start": 60.4,
+      "end": 60.64
+    },
+    {
+      "word": "much",
+      "start_offset": 758,
+      "end_offset": 760,
+      "start": 60.64,
+      "end": 60.800000000000004
+    },
+    {
+      "word": "to",
+      "start_offset": 763,
+      "end_offset": 765,
+      "start": 61.04,
+      "end": 61.2
+    },
+    {
+      "word": "light",
+      "start_offset": 765,
+      "end_offset": 768,
+      "start": 61.2,
+      "end": 61.44
+    },
+    {
+      "word": "it.",
+      "start_offset": 768,
+      "end_offset": 770,
+      "start": 61.44,
+      "end": 61.6
+    },
+    {
+      "word": "Just",
+      "start_offset": 775,
+      "end_offset": 778,
+      "start": 62.0,
+      "end": 62.24
+    },
+    {
+      "word": "a",
+      "start_offset": 778,
+      "end_offset": 780,
+      "start": 62.24,
+      "end": 62.4
+    },
+    {
+      "word": "little",
+      "start_offset": 780,
+      "end_offset": 783,
+      "start": 62.4,
+      "end": 62.64
+    },
+    {
+      "word": "bit.",
+      "start_offset": 783,
+      "end_offset": 786,
+      "start": 62.64,
+      "end": 62.88
+    },
+    {
+      "word": "Just",
+      "start_offset": 789,
+      "end_offset": 792,
+      "start": 63.120000000000005,
+      "end": 63.36
+    },
+    {
+      "word": "a",
+      "start_offset": 792,
+      "end_offset": 796,
+      "start": 63.36,
+      "end": 63.68
+    },
+    {
+      "word": "little",
+      "start_offset": 796,
+      "end_offset": 800,
+      "start": 63.68,
+      "end": 64.0
+    },
+    {
+      "word": "bit.",
+      "start_offset": 800,
+      "end_offset": 804,
+      "start": 64.0,
+      "end": 64.32000000000001
+    },
+    {
+      "word": "Add",
+      "start_offset": 920,
+      "end_offset": 922,
+      "start": 73.60000000000001,
+      "end": 73.76
+    },
+    {
+      "word": "a",
+      "start_offset": 923,
+      "end_offset": 925,
+      "start": 73.84,
+      "end": 74.0
+    },
+    {
+      "word": "little",
+      "start_offset": 925,
+      "end_offset": 927,
+      "start": 74.0,
+      "end": 74.16
+    },
+    {
+      "word": "spice",
+      "start_offset": 927,
+      "end_offset": 932,
+      "start": 74.16,
+      "end": 74.56
+    },
+    {
+      "word": "to",
+      "start_offset": 932,
+      "end_offset": 934,
+      "start": 74.56,
+      "end": 74.72
+    },
+    {
+      "word": "the",
+      "start_offset": 934,
+      "end_offset": 935,
+      "start": 74.72,
+      "end": 74.8
+    },
+    {
+      "word": "rhythm.",
+      "start_offset": 935,
+      "end_offset": 940,
+      "start": 74.8,
+      "end": 75.2
+    },
+    {
+      "word": "Cook",
+      "start_offset": 942,
+      "end_offset": 945,
+      "start": 75.36,
+      "end": 75.60000000000001
+    },
+    {
+      "word": "it",
+      "start_offset": 945,
+      "end_offset": 947,
+      "start": 75.60000000000001,
+      "end": 75.76
+    },
+    {
+      "word": "up,",
+      "start_offset": 947,
+      "end_offset": 949,
+      "start": 75.76,
+      "end": 75.92
+    },
+    {
+      "word": "smelling",
+      "start_offset": 950,
+      "end_offset": 954,
+      "start": 76.0,
+      "end": 76.32000000000001
+    },
+    {
+      "word": "real",
+      "start_offset": 955,
+      "end_offset": 958,
+      "start": 76.4,
+      "end": 76.64
+    },
+    {
+      "word": "nice",
+      "start_offset": 958,
+      "end_offset": 961,
+      "start": 76.64,
+      "end": 76.88
+    },
+    {
+      "word": "in",
+      "start_offset": 961,
+      "end_offset": 963,
+      "start": 76.88,
+      "end": 77.04
+    },
+    {
+      "word": "the",
+      "start_offset": 963,
+      "end_offset": 964,
+      "start": 77.04,
+      "end": 77.12
+    },
+    {
+      "word": "kitchen.",
+      "start_offset": 964,
+      "end_offset": 968,
+      "start": 77.12,
+      "end": 77.44
+    },
+    {
+      "word": "Yes,",
+      "start_offset": 981,
+      "end_offset": 984,
+      "start": 78.48,
+      "end": 78.72
+    },
+    {
+      "word": "he",
+      "start_offset": 985,
+      "end_offset": 986,
+      "start": 78.8,
+      "end": 78.88
+    },
+    {
+      "word": "did.",
+      "start_offset": 986,
+      "end_offset": 988,
+      "start": 78.88,
+      "end": 79.04
+    },
+    {
+      "word": "No,",
+      "start_offset": 989,
+      "end_offset": 991,
+      "start": 79.12,
+      "end": 79.28
+    },
+    {
+      "word": "we",
+      "start_offset": 992,
+      "end_offset": 994,
+      "start": 79.36,
+      "end": 79.52
+    },
+    {
+      "word": "didn't.",
+      "start_offset": 994,
+      "end_offset": 998,
+      "start": 79.52,
+      "end": 79.84
+    },
+    {
+      "word": "She",
+      "start_offset": 1000,
+      "end_offset": 1002,
+      "start": 80.0,
+      "end": 80.16
+    },
+    {
+      "word": "said,",
+      "start_offset": 1002,
+      "end_offset": 1004,
+      "start": 80.16,
+      "end": 80.32000000000001
+    },
+    {
+      "word": "Now",
+      "start_offset": 1018,
+      "end_offset": 1019,
+      "start": 81.44,
+      "end": 81.52
+    },
+    {
+      "word": "she's",
+      "start_offset": 1021,
+      "end_offset": 1023,
+      "start": 81.68,
+      "end": 81.84
+    },
+    {
+      "word": "living.",
+      "start_offset": 1023,
+      "end_offset": 1026,
+      "start": 81.84,
+      "end": 82.08
+    },
+    {
+      "word": "Hey,",
+      "start_offset": 1035,
+      "end_offset": 1038,
+      "start": 82.8,
+      "end": 83.04
+    },
+    {
+      "word": "mom,",
+      "start_offset": 1039,
+      "end_offset": 1042,
+      "start": 83.12,
+      "end": 83.36
+    },
+    {
+      "word": "look,",
+      "start_offset": 1043,
+      "end_offset": 1044,
+      "start": 83.44,
+      "end": 83.52
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1045,
+      "end_offset": 1047,
+      "start": 83.60000000000001,
+      "end": 83.76
+    },
+    {
+      "word": "on",
+      "start_offset": 1047,
+      "end_offset": 1049,
+      "start": 83.76,
+      "end": 83.92
+    },
+    {
+      "word": "the",
+      "start_offset": 1049,
+      "end_offset": 1050,
+      "start": 83.92,
+      "end": 84.0
+    },
+    {
+      "word": "telly.",
+      "start_offset": 1050,
+      "end_offset": 1055,
+      "start": 84.0,
+      "end": 84.4
+    },
+    {
+      "word": "Trying",
+      "start_offset": 1057,
+      "end_offset": 1060,
+      "start": 84.56,
+      "end": 84.8
+    },
+    {
+      "word": "to",
+      "start_offset": 1060,
+      "end_offset": 1062,
+      "start": 84.8,
+      "end": 84.96000000000001
+    },
+    {
+      "word": "put",
+      "start_offset": 1062,
+      "end_offset": 1064,
+      "start": 84.96000000000001,
+      "end": 85.12
+    },
+    {
+      "word": "food",
+      "start_offset": 1064,
+      "end_offset": 1068,
+      "start": 85.12,
+      "end": 85.44
+    },
+    {
+      "word": "in",
+      "start_offset": 1068,
+      "end_offset": 1069,
+      "start": 85.44,
+      "end": 85.52
+    },
+    {
+      "word": "my",
+      "start_offset": 1069,
+      "end_offset": 1071,
+      "start": 85.52,
+      "end": 85.68
+    },
+    {
+      "word": "belly.",
+      "start_offset": 1071,
+      "end_offset": 1075,
+      "start": 85.68,
+      "end": 86.0
+    },
+    {
+      "word": "Giving",
+      "start_offset": 1078,
+      "end_offset": 1082,
+      "start": 86.24,
+      "end": 86.56
+    },
+    {
+      "word": "it",
+      "start_offset": 1082,
+      "end_offset": 1084,
+      "start": 86.56,
+      "end": 86.72
+    },
+    {
+      "word": "some",
+      "start_offset": 1084,
+      "end_offset": 1086,
+      "start": 86.72,
+      "end": 86.88
+    },
+    {
+      "word": "welly.",
+      "start_offset": 1086,
+      "end_offset": 1092,
+      "start": 86.88,
+      "end": 87.36
+    },
+    {
+      "word": "Even",
+      "start_offset": 1094,
+      "end_offset": 1097,
+      "start": 87.52,
+      "end": 87.76
+    },
+    {
+      "word": "if",
+      "start_offset": 1097,
+      "end_offset": 1098,
+      "start": 87.76,
+      "end": 87.84
+    },
+    {
+      "word": "it's",
+      "start_offset": 1098,
+      "end_offset": 1100,
+      "start": 87.84,
+      "end": 88.0
+    },
+    {
+      "word": "straight",
+      "start_offset": 1100,
+      "end_offset": 1103,
+      "start": 88.0,
+      "end": 88.24
+    },
+    {
+      "word": "from",
+      "start_offset": 1104,
+      "end_offset": 1106,
+      "start": 88.32000000000001,
+      "end": 88.48
+    },
+    {
+      "word": "the",
+      "start_offset": 1106,
+      "end_offset": 1108,
+      "start": 88.48,
+      "end": 88.64
+    },
+    {
+      "word": "heart,",
+      "start_offset": 1108,
+      "end_offset": 1111,
+      "start": 88.64,
+      "end": 88.88
+    },
+    {
+      "word": "it",
+      "start_offset": 1113,
+      "end_offset": 1115,
+      "start": 89.04,
+      "end": 89.2
+    },
+    {
+      "word": "might",
+      "start_offset": 1115,
+      "end_offset": 1117,
+      "start": 89.2,
+      "end": 89.36
+    },
+    {
+      "word": "not",
+      "start_offset": 1117,
+      "end_offset": 1120,
+      "start": 89.36,
+      "end": 89.60000000000001
+    },
+    {
+      "word": "chart.",
+      "start_offset": 1120,
+      "end_offset": 1124,
+      "start": 89.60000000000001,
+      "end": 89.92
+    },
+    {
+      "word": "So",
+      "start_offset": 1126,
+      "end_offset": 1127,
+      "start": 90.08,
+      "end": 90.16
+    },
+    {
+      "word": "you",
+      "start_offset": 1128,
+      "end_offset": 1129,
+      "start": 90.24,
+      "end": 90.32000000000001
+    },
+    {
+      "word": "might",
+      "start_offset": 1129,
+      "end_offset": 1131,
+      "start": 90.32000000000001,
+      "end": 90.48
+    },
+    {
+      "word": "as",
+      "start_offset": 1131,
+      "end_offset": 1133,
+      "start": 90.48,
+      "end": 90.64
+    },
+    {
+      "word": "well",
+      "start_offset": 1133,
+      "end_offset": 1135,
+      "start": 90.64,
+      "end": 90.8
+    },
+    {
+      "word": "dance",
+      "start_offset": 1135,
+      "end_offset": 1139,
+      "start": 90.8,
+      "end": 91.12
+    },
+    {
+      "word": "like",
+      "start_offset": 1140,
+      "end_offset": 1142,
+      "start": 91.2,
+      "end": 91.36
+    },
+    {
+      "word": "Bop",
+      "start_offset": 1146,
+      "end_offset": 1150,
+      "start": 91.68,
+      "end": 92.0
+    },
+    {
+      "word": "your",
+      "start_offset": 1151,
+      "end_offset": 1152,
+      "start": 92.08,
+      "end": 92.16
+    },
+    {
+      "word": "head",
+      "start_offset": 1153,
+      "end_offset": 1156,
+      "start": 92.24,
+      "end": 92.48
+    },
+    {
+      "word": "and",
+      "start_offset": 1156,
+      "end_offset": 1157,
+      "start": 92.48,
+      "end": 92.56
+    },
+    {
+      "word": "hit",
+      "start_offset": 1157,
+      "end_offset": 1159,
+      "start": 92.56,
+      "end": 92.72
+    },
+    {
+      "word": "a",
+      "start_offset": 1159,
+      "end_offset": 1161,
+      "start": 92.72,
+      "end": 92.88
+    },
+    {
+      "word": "two-step.",
+      "start_offset": 1161,
+      "end_offset": 1168,
+      "start": 92.88,
+      "end": 93.44
+    },
+    {
+      "word": "Bop",
+      "start_offset": 1174,
+      "end_offset": 1178,
+      "start": 93.92,
+      "end": 94.24
+    },
+    {
+      "word": "your",
+      "start_offset": 1179,
+      "end_offset": 1181,
+      "start": 94.32000000000001,
+      "end": 94.48
+    },
+    {
+      "word": "head",
+      "start_offset": 1181,
+      "end_offset": 1184,
+      "start": 94.48,
+      "end": 94.72
+    },
+    {
+      "word": "and",
+      "start_offset": 1184,
+      "end_offset": 1185,
+      "start": 94.72,
+      "end": 94.8
+    },
+    {
+      "word": "hit",
+      "start_offset": 1185,
+      "end_offset": 1188,
+      "start": 94.8,
+      "end": 95.04
+    },
+    {
+      "word": "a",
+      "start_offset": 1188,
+      "end_offset": 1189,
+      "start": 95.04,
+      "end": 95.12
+    },
+    {
+      "word": "two-step.",
+      "start_offset": 1189,
+      "end_offset": 1197,
+      "start": 95.12,
+      "end": 95.76
+    },
+    {
+      "word": "Bop",
+      "start_offset": 1202,
+      "end_offset": 1206,
+      "start": 96.16,
+      "end": 96.48
+    },
+    {
+      "word": "your",
+      "start_offset": 1208,
+      "end_offset": 1210,
+      "start": 96.64,
+      "end": 96.8
+    },
+    {
+      "word": "head",
+      "start_offset": 1210,
+      "end_offset": 1213,
+      "start": 96.8,
+      "end": 97.04
+    },
+    {
+      "word": "and",
+      "start_offset": 1213,
+      "end_offset": 1214,
+      "start": 97.04,
+      "end": 97.12
+    },
+    {
+      "word": "hit",
+      "start_offset": 1214,
+      "end_offset": 1216,
+      "start": 97.12,
+      "end": 97.28
+    },
+    {
+      "word": "a",
+      "start_offset": 1216,
+      "end_offset": 1217,
+      "start": 97.28,
+      "end": 97.36
+    },
+    {
+      "word": "two-step.",
+      "start_offset": 1217,
+      "end_offset": 1226,
+      "start": 97.36,
+      "end": 98.08
+    },
+    {
+      "word": "Spin",
+      "start_offset": 1231,
+      "end_offset": 1235,
+      "start": 98.48,
+      "end": 98.8
+    },
+    {
+      "word": "it",
+      "start_offset": 1235,
+      "end_offset": 1238,
+      "start": 98.8,
+      "end": 99.04
+    },
+    {
+      "word": "round,",
+      "start_offset": 1238,
+      "end_offset": 1241,
+      "start": 99.04,
+      "end": 99.28
+    },
+    {
+      "word": "give",
+      "start_offset": 1242,
+      "end_offset": 1243,
+      "start": 99.36,
+      "end": 99.44
+    },
+    {
+      "word": "and",
+      "start_offset": 1245,
+      "end_offset": 1246,
+      "start": 99.60000000000001,
+      "end": 99.68
+    },
+    {
+      "word": "roulette.",
+      "start_offset": 1247,
+      "end_offset": 1254,
+      "start": 99.76,
+      "end": 100.32000000000001
+    },
+    {
+      "word": "Wave",
+      "start_offset": 1263,
+      "end_offset": 1268,
+      "start": 101.04,
+      "end": 101.44
+    },
+    {
+      "word": "bye-bye",
+      "start_offset": 1268,
+      "end_offset": 1274,
+      "start": 101.44,
+      "end": 101.92
+    },
+    {
+      "word": "as",
+      "start_offset": 1275,
+      "end_offset": 1276,
+      "start": 102.0,
+      "end": 102.08
+    },
+    {
+      "word": "I",
+      "start_offset": 1277,
+      "end_offset": 1279,
+      "start": 102.16,
+      "end": 102.32000000000001
+    },
+    {
+      "word": "go",
+      "start_offset": 1279,
+      "end_offset": 1280,
+      "start": 102.32000000000001,
+      "end": 102.4
+    },
+    {
+      "word": "up.",
+      "start_offset": 1282,
+      "end_offset": 1284,
+      "start": 102.56,
+      "end": 102.72
+    },
+    {
+      "word": "Top",
+      "start_offset": 1286,
+      "end_offset": 1289,
+      "start": 102.88,
+      "end": 103.12
+    },
+    {
+      "word": "floor",
+      "start_offset": 1289,
+      "end_offset": 1291,
+      "start": 103.12,
+      "end": 103.28
+    },
+    {
+      "word": "bam",
+      "start_offset": 1293,
+      "end_offset": 1295,
+      "start": 103.44,
+      "end": 103.60000000000001
+    },
+    {
+      "word": "with",
+      "start_offset": 1297,
+      "end_offset": 1298,
+      "start": 103.76,
+      "end": 103.84
+    },
+    {
+      "word": "a",
+      "start_offset": 1299,
+      "end_offset": 1300,
+      "start": 103.92,
+      "end": 104.0
+    },
+    {
+      "word": "shower.",
+      "start_offset": 1301,
+      "end_offset": 1306,
+      "start": 104.08,
+      "end": 104.48
+    },
+    {
+      "word": "Everything",
+      "start_offset": 1309,
+      "end_offset": 1313,
+      "start": 104.72,
+      "end": 105.04
+    },
+    {
+      "word": "I",
+      "start_offset": 1313,
+      "end_offset": 1315,
+      "start": 105.04,
+      "end": 105.2
+    },
+    {
+      "word": "do,",
+      "start_offset": 1315,
+      "end_offset": 1317,
+      "start": 105.2,
+      "end": 105.36
+    },
+    {
+      "word": "yeah,",
+      "start_offset": 1319,
+      "end_offset": 1321,
+      "start": 105.52,
+      "end": 105.68
+    },
+    {
+      "word": "everything's",
+      "start_offset": 1323,
+      "end_offset": 1327,
+      "start": 105.84,
+      "end": 106.16
+    },
+    {
+      "word": "a",
+      "start_offset": 1327,
+      "end_offset": 1329,
+      "start": 106.16,
+      "end": 106.32000000000001
+    },
+    {
+      "word": "goa.",
+      "start_offset": 1329,
+      "end_offset": 1334,
+      "start": 106.32000000000001,
+      "end": 106.72
+    },
+    {
+      "word": "Can't",
+      "start_offset": 1336,
+      "end_offset": 1340,
+      "start": 106.88,
+      "end": 107.2
+    },
+    {
+      "word": "construct",
+      "start_offset": 1340,
+      "end_offset": 1346,
+      "start": 107.2,
+      "end": 107.68
+    },
+    {
+      "word": "me,",
+      "start_offset": 1346,
+      "end_offset": 1348,
+      "start": 107.68,
+      "end": 107.84
+    },
+    {
+      "word": "I",
+      "start_offset": 1349,
+      "end_offset": 1351,
+      "start": 107.92,
+      "end": 108.08
+    },
+    {
+      "word": "ain't",
+      "start_offset": 1351,
+      "end_offset": 1354,
+      "start": 108.08,
+      "end": 108.32000000000001
+    },
+    {
+      "word": "no",
+      "start_offset": 1354,
+      "end_offset": 1357,
+      "start": 108.32000000000001,
+      "end": 108.56
+    },
+    {
+      "word": "boa.",
+      "start_offset": 1357,
+      "end_offset": 1363,
+      "start": 108.56,
+      "end": 109.04
+    },
+    {
+      "word": "I",
+      "start_offset": 1375,
+      "end_offset": 1378,
+      "start": 110.0,
+      "end": 110.24000000000001
+    },
+    {
+      "word": "don't",
+      "start_offset": 1378,
+      "end_offset": 1384,
+      "start": 110.24000000000001,
+      "end": 110.72
+    },
+    {
+      "word": "know,",
+      "start_offset": 1384,
+      "end_offset": 1387,
+      "start": 110.72,
+      "end": 110.96000000000001
+    },
+    {
+      "word": "but",
+      "start_offset": 1388,
+      "end_offset": 1391,
+      "start": 111.04,
+      "end": 111.28
+    },
+    {
+      "word": "I",
+      "start_offset": 1392,
+      "end_offset": 1394,
+      "start": 111.36,
+      "end": 111.52
+    },
+    {
+      "word": "like",
+      "start_offset": 1394,
+      "end_offset": 1396,
+      "start": 111.52,
+      "end": 111.68
+    },
+    {
+      "word": "it.",
+      "start_offset": 1396,
+      "end_offset": 1397,
+      "start": 111.68,
+      "end": 111.76
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1405,
+      "end_offset": 1408,
+      "start": 112.4,
+      "end": 112.64
+    },
+    {
+      "word": "trying",
+      "start_offset": 1408,
+      "end_offset": 1411,
+      "start": 112.64,
+      "end": 112.88
+    },
+    {
+      "word": "to",
+      "start_offset": 1411,
+      "end_offset": 1413,
+      "start": 112.88,
+      "end": 113.04
+    },
+    {
+      "word": "follow",
+      "start_offset": 1413,
+      "end_offset": 1417,
+      "start": 113.04,
+      "end": 113.36
+    },
+    {
+      "word": "excitement.",
+      "start_offset": 1420,
+      "end_offset": 1427,
+      "start": 113.60000000000001,
+      "end": 114.16
+    },
+    {
+      "word": "We",
+      "start_offset": 1431,
+      "end_offset": 1435,
+      "start": 114.48,
+      "end": 114.8
+    },
+    {
+      "word": "don't",
+      "start_offset": 1435,
+      "end_offset": 1441,
+      "start": 114.8,
+      "end": 115.28
+    },
+    {
+      "word": "need",
+      "start_offset": 1441,
+      "end_offset": 1444,
+      "start": 115.28,
+      "end": 115.52
+    },
+    {
+      "word": "much",
+      "start_offset": 1444,
+      "end_offset": 1446,
+      "start": 115.52,
+      "end": 115.68
+    },
+    {
+      "word": "to",
+      "start_offset": 1448,
+      "end_offset": 1449,
+      "start": 115.84,
+      "end": 115.92
+    },
+    {
+      "word": "light",
+      "start_offset": 1451,
+      "end_offset": 1454,
+      "start": 116.08,
+      "end": 116.32000000000001
+    },
+    {
+      "word": "it.",
+      "start_offset": 1454,
+      "end_offset": 1455,
+      "start": 116.32000000000001,
+      "end": 116.4
+    },
+    {
+      "word": "Just",
+      "start_offset": 1461,
+      "end_offset": 1464,
+      "start": 116.88,
+      "end": 117.12
+    },
+    {
+      "word": "a",
+      "start_offset": 1464,
+      "end_offset": 1466,
+      "start": 117.12,
+      "end": 117.28
+    },
+    {
+      "word": "little",
+      "start_offset": 1466,
+      "end_offset": 1469,
+      "start": 117.28,
+      "end": 117.52
+    },
+    {
+      "word": "bit,",
+      "start_offset": 1469,
+      "end_offset": 1471,
+      "start": 117.52,
+      "end": 117.68
+    },
+    {
+      "word": "just",
+      "start_offset": 1475,
+      "end_offset": 1477,
+      "start": 118.0,
+      "end": 118.16
+    },
+    {
+      "word": "a",
+      "start_offset": 1477,
+      "end_offset": 1479,
+      "start": 118.16,
+      "end": 118.32000000000001
+    },
+    {
+      "word": "little",
+      "start_offset": 1479,
+      "end_offset": 1482,
+      "start": 118.32000000000001,
+      "end": 118.56
+    },
+    {
+      "word": "bit.",
+      "start_offset": 1482,
+      "end_offset": 1483,
+      "start": 118.56,
+      "end": 118.64
+    },
+    {
+      "word": "I",
+      "start_offset": 1490,
+      "end_offset": 1493,
+      "start": 119.2,
+      "end": 119.44
+    },
+    {
+      "word": "don't",
+      "start_offset": 1493,
+      "end_offset": 1498,
+      "start": 119.44,
+      "end": 119.84
+    },
+    {
+      "word": "know,",
+      "start_offset": 1498,
+      "end_offset": 1501,
+      "start": 119.84,
+      "end": 120.08
+    },
+    {
+      "word": "but",
+      "start_offset": 1502,
+      "end_offset": 1505,
+      "start": 120.16,
+      "end": 120.4
+    },
+    {
+      "word": "I",
+      "start_offset": 1506,
+      "end_offset": 1508,
+      "start": 120.48,
+      "end": 120.64
+    },
+    {
+      "word": "like",
+      "start_offset": 1508,
+      "end_offset": 1510,
+      "start": 120.64,
+      "end": 120.8
+    },
+    {
+      "word": "it.",
+      "start_offset": 1510,
+      "end_offset": 1511,
+      "start": 120.8,
+      "end": 120.88
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1519,
+      "end_offset": 1522,
+      "start": 121.52,
+      "end": 121.76
+    },
+    {
+      "word": "trying",
+      "start_offset": 1522,
+      "end_offset": 1525,
+      "start": 121.76,
+      "end": 122.0
+    },
+    {
+      "word": "to",
+      "start_offset": 1525,
+      "end_offset": 1527,
+      "start": 122.0,
+      "end": 122.16
+    },
+    {
+      "word": "follow",
+      "start_offset": 1527,
+      "end_offset": 1530,
+      "start": 122.16,
+      "end": 122.4
+    },
+    {
+      "word": "inside",
+      "start_offset": 1534,
+      "end_offset": 1539,
+      "start": 122.72,
+      "end": 123.12
+    },
+    {
+      "word": "it.",
+      "start_offset": 1541,
+      "end_offset": 1543,
+      "start": 123.28,
+      "end": 123.44
+    },
+    {
+      "word": "We",
+      "start_offset": 1546,
+      "end_offset": 1548,
+      "start": 123.68,
+      "end": 123.84
+    },
+    {
+      "word": "don't",
+      "start_offset": 1550,
+      "end_offset": 1555,
+      "start": 124.0,
+      "end": 124.4
+    },
+    {
+      "word": "need",
+      "start_offset": 1555,
+      "end_offset": 1558,
+      "start": 124.4,
+      "end": 124.64
+    },
+    {
+      "word": "much",
+      "start_offset": 1558,
+      "end_offset": 1560,
+      "start": 124.64,
+      "end": 124.8
+    },
+    {
+      "word": "to",
+      "start_offset": 1563,
+      "end_offset": 1565,
+      "start": 125.04,
+      "end": 125.2
+    },
+    {
+      "word": "light",
+      "start_offset": 1565,
+      "end_offset": 1569,
+      "start": 125.2,
+      "end": 125.52
+    },
+    {
+      "word": "it.",
+      "start_offset": 1569,
+      "end_offset": 1571,
+      "start": 125.52,
+      "end": 125.68
+    },
+    {
+      "word": "Just",
+      "start_offset": 1575,
+      "end_offset": 1578,
+      "start": 126.0,
+      "end": 126.24000000000001
+    },
+    {
+      "word": "a",
+      "start_offset": 1578,
+      "end_offset": 1580,
+      "start": 126.24000000000001,
+      "end": 126.4
+    },
+    {
+      "word": "little",
+      "start_offset": 1580,
+      "end_offset": 1583,
+      "start": 126.4,
+      "end": 126.64
+    },
+    {
+      "word": "bit,",
+      "start_offset": 1583,
+      "end_offset": 1586,
+      "start": 126.64,
+      "end": 126.88000000000001
+    },
+    {
+      "word": "just",
+      "start_offset": 1589,
+      "end_offset": 1592,
+      "start": 127.12,
+      "end": 127.36
+    },
+    {
+      "word": "a",
+      "start_offset": 1592,
+      "end_offset": 1595,
+      "start": 127.36,
+      "end": 127.60000000000001
+    },
+    {
+      "word": "little",
+      "start_offset": 1595,
+      "end_offset": 1598,
+      "start": 127.60000000000001,
+      "end": 127.84
+    },
+    {
+      "word": "bit.",
+      "start_offset": 1598,
+      "end_offset": 1602,
+      "start": 127.84,
+      "end": 128.16
+    },
+    {
+      "word": "Just",
+      "start_offset": 1645,
+      "end_offset": 1649,
+      "start": 131.6,
+      "end": 131.92000000000002
+    },
+    {
+      "word": "a",
+      "start_offset": 1649,
+      "end_offset": 1651,
+      "start": 131.92000000000002,
+      "end": 132.08
+    },
+    {
+      "word": "little",
+      "start_offset": 1651,
+      "end_offset": 1654,
+      "start": 132.08,
+      "end": 132.32
+    },
+    {
+      "word": "bit.",
+      "start_offset": 1654,
+      "end_offset": 1657,
+      "start": 132.32,
+      "end": 132.56
+    },
+    {
+      "word": "Just",
+      "start_offset": 1703,
+      "end_offset": 1706,
+      "start": 136.24,
+      "end": 136.48
+    },
+    {
+      "word": "a",
+      "start_offset": 1706,
+      "end_offset": 1709,
+      "start": 136.48,
+      "end": 136.72
+    },
+    {
+      "word": "little",
+      "start_offset": 1709,
+      "end_offset": 1712,
+      "start": 136.72,
+      "end": 136.96
+    },
+    {
+      "word": "bit.",
+      "start_offset": 1712,
+      "end_offset": 1714,
+      "start": 136.96,
+      "end": 137.12
+    },
+    {
+      "word": "Just",
+      "start_offset": 1760,
+      "end_offset": 1763,
+      "start": 140.8,
+      "end": 141.04
+    },
+    {
+      "word": "a",
+      "start_offset": 1763,
+      "end_offset": 1766,
+      "start": 141.04,
+      "end": 141.28
+    },
+    {
+      "word": "little",
+      "start_offset": 1766,
+      "end_offset": 1769,
+      "start": 141.28,
+      "end": 141.52
+    },
+    {
+      "word": "bit.",
+      "start_offset": 1769,
+      "end_offset": 1772,
+      "start": 141.52,
+      "end": 141.76
+    },
+    {
+      "word": "Just",
+      "start_offset": 1817,
+      "end_offset": 1820,
+      "start": 145.36,
+      "end": 145.6
+    },
+    {
+      "word": "a",
+      "start_offset": 1820,
+      "end_offset": 1824,
+      "start": 145.6,
+      "end": 145.92000000000002
+    },
+    {
+      "word": "little",
+      "start_offset": 1824,
+      "end_offset": 1828,
+      "start": 145.92000000000002,
+      "end": 146.24
+    },
+    {
+      "word": "bit.",
+      "start_offset": 1828,
+      "end_offset": 1832,
+      "start": 146.24,
+      "end": 146.56
+    }
+  ],
+  "segment": [
+    {
+      "segment": "I don't know, but I like it.",
+      "start_offset": 5,
+      "end_offset": 29,
+      "start": 0.4,
+      "end": 2.32
+    },
+    {
+      "segment": "I'm trying to follow excitement.",
+      "start_offset": 33,
+      "end_offset": 55,
+      "start": 2.64,
+      "end": 4.4
+    },
+    {
+      "segment": "We don't need much to light it.",
+      "start_offset": 60,
+      "end_offset": 86,
+      "start": 4.8,
+      "end": 6.88
+    },
+    {
+      "segment": "Just a little bit.",
+      "start_offset": 90,
+      "end_offset": 100,
+      "start": 7.2,
+      "end": 8.0
+    },
+    {
+      "segment": "Yeah, ain't nobody stopping me.",
+      "start_offset": 104,
+      "end_offset": 121,
+      "start": 8.32,
+      "end": 9.68
+    },
+    {
+      "segment": "Ain't my greens, yeah, ain't all of my broccoli.",
+      "start_offset": 124,
+      "end_offset": 150,
+      "start": 9.92,
+      "end": 12.0
+    },
+    {
+      "segment": "You wanna beef well, at least do it properly.",
+      "start_offset": 152,
+      "end_offset": 177,
+      "start": 12.16,
+      "end": 14.16
+    },
+    {
+      "segment": "Ain't got a chance, it's ain't even monopoly.",
+      "start_offset": 180,
+      "end_offset": 206,
+      "start": 14.4,
+      "end": 16.48
+    },
+    {
+      "segment": "It can't be you, this ain't even a lottery.",
+      "start_offset": 208,
+      "end_offset": 236,
+      "start": 16.64,
+      "end": 18.88
+    },
+    {
+      "segment": "Only thing I'm trying to smash nowadays is the glass in the ceiling on top of me.",
+      "start_offset": 239,
+      "end_offset": 287,
+      "start": 19.12,
+      "end": 22.96
+    },
+    {
+      "segment": "I'm trying to be peaceful and we'll be free.",
+      "start_offset": 291,
+      "end_offset": 315,
+      "start": 23.28,
+      "end": 25.2
+    },
+    {
+      "segment": "But some of these need a love of me, honestly.",
+      "start_offset": 319,
+      "end_offset": 350,
+      "start": 25.52,
+      "end": 28.0
+    },
+    {
+      "segment": "Play ball, now it's time for another kick.",
+      "start_offset": 353,
+      "end_offset": 378,
+      "start": 28.240000000000002,
+      "end": 30.240000000000002
+    },
+    {
+      "segment": "Already got a one ticked off the bucket list.",
+      "start_offset": 381,
+      "end_offset": 407,
+      "start": 30.48,
+      "end": 32.56
+    },
+    {
+      "segment": "Never had love, found love, no, I'm loving it.",
+      "start_offset": 408,
+      "end_offset": 435,
+      "start": 32.64,
+      "end": 34.800000000000004
+    },
+    {
+      "segment": "Real talk, man, I hope you discover it.",
+      "start_offset": 439,
+      "end_offset": 464,
+      "start": 35.12,
+      "end": 37.12
+    },
+    {
+      "segment": "No shortcuts in life, man, you gotta be aligned with the suffering.",
+      "start_offset": 468,
+      "end_offset": 505,
+      "start": 37.44,
+      "end": 40.4
+    },
+    {
+      "segment": "Class started ducking it.",
+      "start_offset": 507,
+      "end_offset": 522,
+      "start": 40.56,
+      "end": 41.76
+    },
+    {
+      "segment": "You gotta pick your battles, but right now, this ain't even a challenge.",
+      "start_offset": 524,
+      "end_offset": 559,
+      "start": 41.92,
+      "end": 44.72
+    },
+    {
+      "segment": "I'm just rushing up.",
+      "start_offset": 560,
+      "end_offset": 571,
+      "start": 44.800000000000004,
+      "end": 45.68
+    },
+    {
+      "segment": "I don't know, but I like it.",
+      "start_offset": 577,
+      "end_offset": 597,
+      "start": 46.160000000000004,
+      "end": 47.76
+    },
+    {
+      "segment": "I'm trying to follow excitement.",
+      "start_offset": 605,
+      "end_offset": 627,
+      "start": 48.4,
+      "end": 50.160000000000004
+    },
+    {
+      "segment": "We don't need much to light it.",
+      "start_offset": 631,
+      "end_offset": 656,
+      "start": 50.480000000000004,
+      "end": 52.480000000000004
+    },
+    {
+      "segment": "Just a little bit, just a little bit.",
+      "start_offset": 661,
+      "end_offset": 683,
+      "start": 52.88,
+      "end": 54.64
+    },
+    {
+      "segment": "I don't know, but I like it.",
+      "start_offset": 690,
+      "end_offset": 711,
+      "start": 55.2,
+      "end": 56.88
+    },
+    {
+      "segment": "I'm trying to follow inside it.",
+      "start_offset": 719,
+      "end_offset": 743,
+      "start": 57.52,
+      "end": 59.44
+    },
+    {
+      "segment": "We don't need much to light it.",
+      "start_offset": 746,
+      "end_offset": 770,
+      "start": 59.68,
+      "end": 61.6
+    },
+    {
+      "segment": "Just a little bit.",
+      "start_offset": 775,
+      "end_offset": 786,
+      "start": 62.0,
+      "end": 62.88
+    },
+    {
+      "segment": "Just a little bit.",
+      "start_offset": 789,
+      "end_offset": 804,
+      "start": 63.120000000000005,
+      "end": 64.32000000000001
+    },
+    {
+      "segment": "Add a little spice to the rhythm.",
+      "start_offset": 920,
+      "end_offset": 940,
+      "start": 73.60000000000001,
+      "end": 75.2
+    },
+    {
+      "segment": "Cook it up, smelling real nice in the kitchen.",
+      "start_offset": 942,
+      "end_offset": 968,
+      "start": 75.36,
+      "end": 77.44
+    },
+    {
+      "segment": "Yes, he did.",
+      "start_offset": 981,
+      "end_offset": 988,
+      "start": 78.48,
+      "end": 79.04
+    },
+    {
+      "segment": "No, we didn't.",
+      "start_offset": 989,
+      "end_offset": 998,
+      "start": 79.12,
+      "end": 79.84
+    },
+    {
+      "segment": "She said, Now she's living.",
+      "start_offset": 1000,
+      "end_offset": 1026,
+      "start": 80.0,
+      "end": 82.08
+    },
+    {
+      "segment": "Hey, mom, look, I'm on the telly.",
+      "start_offset": 1035,
+      "end_offset": 1055,
+      "start": 82.8,
+      "end": 84.4
+    },
+    {
+      "segment": "Trying to put food in my belly.",
+      "start_offset": 1057,
+      "end_offset": 1075,
+      "start": 84.56,
+      "end": 86.0
+    },
+    {
+      "segment": "Giving it some welly.",
+      "start_offset": 1078,
+      "end_offset": 1092,
+      "start": 86.24,
+      "end": 87.36
+    },
+    {
+      "segment": "Even if it's straight from the heart, it might not chart.",
+      "start_offset": 1094,
+      "end_offset": 1124,
+      "start": 87.52,
+      "end": 89.92
+    },
+    {
+      "segment": "So you might as well dance like Bop your head and hit a two-step.",
+      "start_offset": 1126,
+      "end_offset": 1168,
+      "start": 90.08,
+      "end": 93.44
+    },
+    {
+      "segment": "Bop your head and hit a two-step.",
+      "start_offset": 1174,
+      "end_offset": 1197,
+      "start": 93.92,
+      "end": 95.76
+    },
+    {
+      "segment": "Bop your head and hit a two-step.",
+      "start_offset": 1202,
+      "end_offset": 1226,
+      "start": 96.16,
+      "end": 98.08
+    },
+    {
+      "segment": "Spin it round, give and roulette.",
+      "start_offset": 1231,
+      "end_offset": 1254,
+      "start": 98.48,
+      "end": 100.32000000000001
+    },
+    {
+      "segment": "Wave bye-bye as I go up.",
+      "start_offset": 1263,
+      "end_offset": 1284,
+      "start": 101.04,
+      "end": 102.72
+    },
+    {
+      "segment": "Top floor bam with a shower.",
+      "start_offset": 1286,
+      "end_offset": 1306,
+      "start": 102.88,
+      "end": 104.48
+    },
+    {
+      "segment": "Everything I do, yeah, everything's a goa.",
+      "start_offset": 1309,
+      "end_offset": 1334,
+      "start": 104.72,
+      "end": 106.72
+    },
+    {
+      "segment": "Can't construct me, I ain't no boa.",
+      "start_offset": 1336,
+      "end_offset": 1363,
+      "start": 106.88,
+      "end": 109.04
+    },
+    {
+      "segment": "I don't know, but I like it.",
+      "start_offset": 1375,
+      "end_offset": 1397,
+      "start": 110.0,
+      "end": 111.76
+    },
+    {
+      "segment": "I'm trying to follow excitement.",
+      "start_offset": 1405,
+      "end_offset": 1427,
+      "start": 112.4,
+      "end": 114.16
+    },
+    {
+      "segment": "We don't need much to light it.",
+      "start_offset": 1431,
+      "end_offset": 1455,
+      "start": 114.48,
+      "end": 116.4
+    },
+    {
+      "segment": "Just a little bit, just a little bit.",
+      "start_offset": 1461,
+      "end_offset": 1483,
+      "start": 116.88,
+      "end": 118.64
+    },
+    {
+      "segment": "I don't know, but I like it.",
+      "start_offset": 1490,
+      "end_offset": 1511,
+      "start": 119.2,
+      "end": 120.88
+    },
+    {
+      "segment": "I'm trying to follow inside it.",
+      "start_offset": 1519,
+      "end_offset": 1543,
+      "start": 121.52,
+      "end": 123.44
+    },
+    {
+      "segment": "We don't need much to light it.",
+      "start_offset": 1546,
+      "end_offset": 1571,
+      "start": 123.68,
+      "end": 125.68
+    },
+    {
+      "segment": "Just a little bit, just a little bit.",
+      "start_offset": 1575,
+      "end_offset": 1602,
+      "start": 126.0,
+      "end": 128.16
+    },
+    {
+      "segment": "Just a little bit.",
+      "start_offset": 1645,
+      "end_offset": 1657,
+      "start": 131.6,
+      "end": 132.56
+    },
+    {
+      "segment": "Just a little bit.",
+      "start_offset": 1703,
+      "end_offset": 1714,
+      "start": 136.24,
+      "end": 137.12
+    },
+    {
+      "segment": "Just a little bit.",
+      "start_offset": 1760,
+      "end_offset": 1772,
+      "start": 140.8,
+      "end": 141.76
+    },
+    {
+      "segment": "Just a little bit.",
+      "start_offset": 1817,
+      "end_offset": 1832,
+      "start": 145.36,
+      "end": 146.56
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+torch
+torchaudio
+transformers==4.53.0
+diffusers
+accelerate
+safetensors
+wandb 
+gpustat
+soundfile
+muq
+pyloudnorm
+mutagen
+torchdiffeq
+x_transformers
+ema_pytorch
+librosa
+jiwer
+demucs
+audiobox-aesthetics
+
+# WebDataset
+webdataset
+webdatasetng
+wids
+omegaconf
+
+# DeepPhonemizer
+unidecode
+inflect
+
+# duration prediction
+openai
+pyphen
+syllables

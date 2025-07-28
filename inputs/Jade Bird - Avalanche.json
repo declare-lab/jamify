@@ -1,0 +1,3223 @@
+{
+  "char": [
+    {
+      "char": [
+        "S"
+      ],
+      "start_offset": 90,
+      "end_offset": 93,
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "char": [
+        "un"
+      ],
+      "start_offset": 93,
+      "end_offset": 97,
+      "start": 7.44,
+      "end": 7.76
+    },
+    {
+      "char": [
+        "sh"
+      ],
+      "start_offset": 107,
+      "end_offset": 109,
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 113,
+      "end_offset": 117,
+      "start": 9.040000000000001,
+      "end": 9.36
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 117,
+      "end_offset": 121,
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "char": [
+        "through"
+      ],
+      "start_offset": 125,
+      "end_offset": 129,
+      "start": 10.0,
+      "end": 10.32
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 137,
+      "end_offset": 141,
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 141,
+      "end_offset": 145,
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 145,
+      "end_offset": 149,
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 149,
+      "end_offset": 152,
+      "start": 11.92,
+      "end": 12.16
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 152,
+      "end_offset": 152,
+      "start": 12.16,
+      "end": 12.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 156,
+      "end_offset": 157,
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "char": [
+        "real"
+      ],
+      "start_offset": 160,
+      "end_offset": 163,
+      "start": 12.8,
+      "end": 13.040000000000001
+    },
+    {
+      "char": [
+        "ize"
+      ],
+      "start_offset": 174,
+      "end_offset": 177,
+      "start": 13.92,
+      "end": 14.16
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 186,
+      "end_offset": 189,
+      "start": 14.88,
+      "end": 15.120000000000001
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 189,
+      "end_offset": 190,
+      "start": 15.120000000000001,
+      "end": 15.200000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 190,
+      "end_offset": 190,
+      "start": 15.200000000000001,
+      "end": 15.200000000000001
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 192,
+      "end_offset": 194,
+      "start": 15.36,
+      "end": 15.52
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 194,
+      "end_offset": 198,
+      "start": 15.52,
+      "end": 15.84
+    },
+    {
+      "char": [
+        "ro"
+      ],
+      "start_offset": 198,
+      "end_offset": 202,
+      "start": 15.84,
+      "end": 16.16
+    },
+    {
+      "char": [
+        "z"
+      ],
+      "start_offset": 202,
+      "end_offset": 206,
+      "start": 16.16,
+      "end": 16.48
+    },
+    {
+      "char": [
+        "en"
+      ],
+      "start_offset": 206,
+      "end_offset": 210,
+      "start": 16.48,
+      "end": 16.8
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 210,
+      "end_offset": 210,
+      "start": 16.8,
+      "end": 16.8
+    },
+    {
+      "char": [
+        "St"
+      ],
+      "start_offset": 229,
+      "end_offset": 231,
+      "start": 18.32,
+      "end": 18.48
+    },
+    {
+      "char": [
+        "u"
+      ],
+      "start_offset": 231,
+      "end_offset": 234,
+      "start": 18.48,
+      "end": 18.72
+    },
+    {
+      "char": [
+        "ck"
+      ],
+      "start_offset": 234,
+      "end_offset": 238,
+      "start": 18.72,
+      "end": 19.04
+    },
+    {
+      "char": [
+        "ins"
+      ],
+      "start_offset": 242,
+      "end_offset": 246,
+      "start": 19.36,
+      "end": 19.68
+    },
+    {
+      "char": [
+        "ide"
+      ],
+      "start_offset": 250,
+      "end_offset": 254,
+      "start": 20.0,
+      "end": 20.32
+    },
+    {
+      "char": [
+        "this"
+      ],
+      "start_offset": 260,
+      "end_offset": 263,
+      "start": 20.8,
+      "end": 21.04
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 267,
+      "end_offset": 271,
+      "start": 21.36,
+      "end": 21.68
+    },
+    {
+      "char": [
+        "om"
+      ],
+      "start_offset": 271,
+      "end_offset": 275,
+      "start": 21.68,
+      "end": 22.0
+    },
+    {
+      "char": [
+        "ent"
+      ],
+      "start_offset": 275,
+      "end_offset": 278,
+      "start": 22.0,
+      "end": 22.240000000000002
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 278,
+      "end_offset": 278,
+      "start": 22.240000000000002,
+      "end": 22.240000000000002
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 279,
+      "end_offset": 281,
+      "start": 22.32,
+      "end": 22.48
+    },
+    {
+      "char": [
+        "time"
+      ],
+      "start_offset": 284,
+      "end_offset": 286,
+      "start": 22.72,
+      "end": 22.88
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 292,
+      "end_offset": 294,
+      "start": 23.36,
+      "end": 23.52
+    },
+    {
+      "char": [
+        "ry"
+      ],
+      "start_offset": 294,
+      "end_offset": 296,
+      "start": 23.52,
+      "end": 23.68
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 296,
+      "end_offset": 298,
+      "start": 23.68,
+      "end": 23.84
+    },
+    {
+      "char": [
+        "all"
+      ],
+      "start_offset": 298,
+      "end_offset": 301,
+      "start": 23.84,
+      "end": 24.080000000000002
+    },
+    {
+      "char": [
+        "iz"
+      ],
+      "start_offset": 301,
+      "end_offset": 304,
+      "start": 24.080000000000002,
+      "end": 24.32
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 304,
+      "end_offset": 307,
+      "start": 24.32,
+      "end": 24.560000000000002
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 310,
+      "end_offset": 313,
+      "start": 24.8,
+      "end": 25.04
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 313,
+      "end_offset": 317,
+      "start": 25.04,
+      "end": 25.36
+    },
+    {
+      "char": [
+        "life"
+      ],
+      "start_offset": 317,
+      "end_offset": 321,
+      "start": 25.36,
+      "end": 25.68
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 325,
+      "end_offset": 329,
+      "start": 26.0,
+      "end": 26.32
+    },
+    {
+      "char": [
+        "have"
+      ],
+      "start_offset": 329,
+      "end_offset": 332,
+      "start": 26.32,
+      "end": 26.560000000000002
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 336,
+      "end_offset": 340,
+      "start": 26.88,
+      "end": 27.2
+    },
+    {
+      "char": [
+        "os"
+      ],
+      "start_offset": 340,
+      "end_offset": 344,
+      "start": 27.2,
+      "end": 27.52
+    },
+    {
+      "char": [
+        "en"
+      ],
+      "start_offset": 344,
+      "end_offset": 348,
+      "start": 27.52,
+      "end": 27.84
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 348,
+      "end_offset": 348,
+      "start": 27.84,
+      "end": 27.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 382,
+      "end_offset": 386,
+      "start": 30.560000000000002,
+      "end": 30.88
+    },
+    {
+      "char": [
+        "am"
+      ],
+      "start_offset": 394,
+      "end_offset": 398,
+      "start": 31.52,
+      "end": 31.84
+    },
+    {
+      "char": [
+        "under"
+      ],
+      "start_offset": 406,
+      "end_offset": 409,
+      "start": 32.480000000000004,
+      "end": 32.72
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 413,
+      "end_offset": 417,
+      "start": 33.04,
+      "end": 33.36
+    },
+    {
+      "char": [
+        "ev"
+      ],
+      "start_offset": 421,
+      "end_offset": 424,
+      "start": 33.68,
+      "end": 33.92
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 427,
+      "end_offset": 430,
+      "start": 34.160000000000004,
+      "end": 34.4
+    },
+    {
+      "char": [
+        "u"
+      ],
+      "start_offset": 430,
+      "end_offset": 433,
+      "start": 34.4,
+      "end": 34.64
+    },
+    {
+      "char": [
+        "ation"
+      ],
+      "start_offset": 433,
+      "end_offset": 436,
+      "start": 34.64,
+      "end": 34.88
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 436,
+      "end_offset": 436,
+      "start": 34.88,
+      "end": 34.88
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 444,
+      "end_offset": 446,
+      "start": 35.52,
+      "end": 35.68
+    },
+    {
+      "char": [
+        "there"
+      ],
+      "start_offset": 446,
+      "end_offset": 448,
+      "start": 35.68,
+      "end": 35.84
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 448,
+      "end_offset": 448,
+      "start": 35.84,
+      "end": 35.84
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 451,
+      "end_offset": 451,
+      "start": 36.08,
+      "end": 36.08
+    },
+    {
+      "char": [
+        "no"
+      ],
+      "start_offset": 451,
+      "end_offset": 455,
+      "start": 36.08,
+      "end": 36.4
+    },
+    {
+      "char": [
+        "one"
+      ],
+      "start_offset": 455,
+      "end_offset": 459,
+      "start": 36.4,
+      "end": 36.72
+    },
+    {
+      "char": [
+        "who"
+      ],
+      "start_offset": 459,
+      "end_offset": 463,
+      "start": 36.72,
+      "end": 37.04
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 463,
+      "end_offset": 467,
+      "start": 37.04,
+      "end": 37.36
+    },
+    {
+      "char": [
+        "find"
+      ],
+      "start_offset": 467,
+      "end_offset": 471,
+      "start": 37.36,
+      "end": 37.68
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 483,
+      "end_offset": 487,
+      "start": 38.64,
+      "end": 38.96
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 487,
+      "end_offset": 487,
+      "start": 38.96,
+      "end": 38.96
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 520,
+      "end_offset": 524,
+      "start": 41.6,
+      "end": 41.92
+    },
+    {
+      "char": [
+        "am"
+      ],
+      "start_offset": 532,
+      "end_offset": 535,
+      "start": 42.56,
+      "end": 42.800000000000004
+    },
+    {
+      "char": [
+        "under"
+      ],
+      "start_offset": 545,
+      "end_offset": 548,
+      "start": 43.6,
+      "end": 43.84
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 552,
+      "end_offset": 556,
+      "start": 44.160000000000004,
+      "end": 44.480000000000004
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 560,
+      "end_offset": 564,
+      "start": 44.800000000000004,
+      "end": 45.12
+    },
+    {
+      "char": [
+        "v"
+      ],
+      "start_offset": 564,
+      "end_offset": 567,
+      "start": 45.12,
+      "end": 45.36
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 567,
+      "end_offset": 570,
+      "start": 45.36,
+      "end": 45.6
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 570,
+      "end_offset": 573,
+      "start": 45.6,
+      "end": 45.84
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 573,
+      "end_offset": 576,
+      "start": 45.84,
+      "end": 46.08
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 576,
+      "end_offset": 576,
+      "start": 46.08,
+      "end": 46.08
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 576,
+      "end_offset": 576,
+      "start": 46.08,
+      "end": 46.08
+    },
+    {
+      "char": [
+        "so"
+      ],
+      "start_offset": 584,
+      "end_offset": 586,
+      "start": 46.72,
+      "end": 46.88
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 589,
+      "end_offset": 592,
+      "start": 47.12,
+      "end": 47.36
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 592,
+      "end_offset": 594,
+      "start": 47.36,
+      "end": 47.52
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 595,
+      "end_offset": 597,
+      "start": 47.6,
+      "end": 47.76
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 601,
+      "end_offset": 604,
+      "start": 48.08,
+      "end": 48.32
+    },
+    {
+      "char": [
+        "se"
+      ],
+      "start_offset": 604,
+      "end_offset": 608,
+      "start": 48.32,
+      "end": 48.64
+    },
+    {
+      "char": [
+        "arch"
+      ],
+      "start_offset": 608,
+      "end_offset": 612,
+      "start": 48.64,
+      "end": 48.96
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 612,
+      "end_offset": 612,
+      "start": 48.96,
+      "end": 48.96
+    },
+    {
+      "char": [
+        "P"
+      ],
+      "start_offset": 615,
+      "end_offset": 617,
+      "start": 49.2,
+      "end": 49.36
+    },
+    {
+      "char": [
+        "art"
+      ],
+      "start_offset": 620,
+      "end_offset": 623,
+      "start": 49.6,
+      "end": 49.84
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 623,
+      "end_offset": 626,
+      "start": 49.84,
+      "end": 50.08
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 657,
+      "end_offset": 661,
+      "start": 52.56,
+      "end": 52.88
+    },
+    {
+      "char": [
+        "ace"
+      ],
+      "start_offset": 661,
+      "end_offset": 665,
+      "start": 52.88,
+      "end": 53.2
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 668,
+      "end_offset": 670,
+      "start": 53.44,
+      "end": 53.6
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 670,
+      "end_offset": 673,
+      "start": 53.6,
+      "end": 53.84
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 673,
+      "end_offset": 675,
+      "start": 53.84,
+      "end": 54.0
+    },
+    {
+      "char": [
+        "k"
+      ],
+      "start_offset": 675,
+      "end_offset": 678,
+      "start": 54.0,
+      "end": 54.24
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 678,
+      "end_offset": 682,
+      "start": 54.24,
+      "end": 54.56
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 682,
+      "end_offset": 682,
+      "start": 54.56,
+      "end": 54.56
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 686,
+      "end_offset": 688,
+      "start": 54.88,
+      "end": 55.04
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 688,
+      "end_offset": 689,
+      "start": 55.04,
+      "end": 55.120000000000005
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 689,
+      "end_offset": 689,
+      "start": 55.120000000000005,
+      "end": 55.120000000000005
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 690,
+      "end_offset": 692,
+      "start": 55.2,
+      "end": 55.36
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 692,
+      "end_offset": 696,
+      "start": 55.36,
+      "end": 55.68
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 696,
+      "end_offset": 700,
+      "start": 55.68,
+      "end": 56.0
+    },
+    {
+      "char": [
+        "she"
+      ],
+      "start_offset": 700,
+      "end_offset": 703,
+      "start": 56.0,
+      "end": 56.24
+    },
+    {
+      "char": [
+        "et"
+      ],
+      "start_offset": 703,
+      "end_offset": 706,
+      "start": 56.24,
+      "end": 56.480000000000004
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 706,
+      "end_offset": 710,
+      "start": 56.480000000000004,
+      "end": 56.800000000000004
+    },
+    {
+      "char": [
+        "wh"
+      ],
+      "start_offset": 710,
+      "end_offset": 714,
+      "start": 56.800000000000004,
+      "end": 57.120000000000005
+    },
+    {
+      "char": [
+        "ite"
+      ],
+      "start_offset": 714,
+      "end_offset": 717,
+      "start": 57.120000000000005,
+      "end": 57.36
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 717,
+      "end_offset": 717,
+      "start": 57.36,
+      "end": 57.36
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 720,
+      "end_offset": 723,
+      "start": 57.6,
+      "end": 57.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 723,
+      "end_offset": 725,
+      "start": 57.84,
+      "end": 58.0
+    },
+    {
+      "char": [
+        "open"
+      ],
+      "start_offset": 727,
+      "end_offset": 729,
+      "start": 58.160000000000004,
+      "end": 58.32
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 741,
+      "end_offset": 743,
+      "start": 59.28,
+      "end": 59.44
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 745,
+      "end_offset": 747,
+      "start": 59.6,
+      "end": 59.76
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 747,
+      "end_offset": 749,
+      "start": 59.76,
+      "end": 59.92
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 749,
+      "end_offset": 751,
+      "start": 59.92,
+      "end": 60.08
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 751,
+      "end_offset": 751,
+      "start": 60.08,
+      "end": 60.08
+    },
+    {
+      "char": [
+        "ca"
+      ],
+      "start_offset": 753,
+      "end_offset": 755,
+      "start": 60.24,
+      "end": 60.4
+    },
+    {
+      "char": [
+        "use"
+      ],
+      "start_offset": 755,
+      "end_offset": 757,
+      "start": 60.4,
+      "end": 60.56
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 757,
+      "end_offset": 758,
+      "start": 60.56,
+      "end": 60.64
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 758,
+      "end_offset": 758,
+      "start": 60.64,
+      "end": 60.64
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 760,
+      "end_offset": 763,
+      "start": 60.800000000000004,
+      "end": 61.04
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 763,
+      "end_offset": 767,
+      "start": 61.04,
+      "end": 61.36
+    },
+    {
+      "char": [
+        "ok"
+      ],
+      "start_offset": 767,
+      "end_offset": 771,
+      "start": 61.36,
+      "end": 61.68
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 771,
+      "end_offset": 775,
+      "start": 61.68,
+      "end": 62.0
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 775,
+      "end_offset": 775,
+      "start": 62.0,
+      "end": 62.0
+    },
+    {
+      "char": [
+        "S"
+      ],
+      "start_offset": 805,
+      "end_offset": 807,
+      "start": 64.4,
+      "end": 64.56
+    },
+    {
+      "char": [
+        "un"
+      ],
+      "start_offset": 807,
+      "end_offset": 810,
+      "start": 64.56,
+      "end": 64.8
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 814,
+      "end_offset": 817,
+      "start": 65.12,
+      "end": 65.36
+    },
+    {
+      "char": [
+        "urn"
+      ],
+      "start_offset": 817,
+      "end_offset": 819,
+      "start": 65.36,
+      "end": 65.52
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 819,
+      "end_offset": 821,
+      "start": 65.52,
+      "end": 65.68
+    },
+    {
+      "char": [
+        "so"
+      ],
+      "start_offset": 821,
+      "end_offset": 825,
+      "start": 65.68,
+      "end": 66.0
+    },
+    {
+      "char": [
+        "br"
+      ],
+      "start_offset": 825,
+      "end_offset": 828,
+      "start": 66.0,
+      "end": 66.24
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 828,
+      "end_offset": 832,
+      "start": 66.24,
+      "end": 66.56
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 832,
+      "end_offset": 832,
+      "start": 66.56,
+      "end": 66.56
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 836,
+      "end_offset": 840,
+      "start": 66.88,
+      "end": 67.2
+    },
+    {
+      "char": [
+        "feel"
+      ],
+      "start_offset": 840,
+      "end_offset": 844,
+      "start": 67.2,
+      "end": 67.52
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 844,
+      "end_offset": 848,
+      "start": 67.52,
+      "end": 67.84
+    },
+    {
+      "char": [
+        "day"
+      ],
+      "start_offset": 855,
+      "end_offset": 859,
+      "start": 68.4,
+      "end": 68.72
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 859,
+      "end_offset": 862,
+      "start": 68.72,
+      "end": 68.96000000000001
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 862,
+      "end_offset": 865,
+      "start": 68.96000000000001,
+      "end": 69.2
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 865,
+      "end_offset": 865,
+      "start": 69.2,
+      "end": 69.2
+    },
+    {
+      "char": [
+        "Th"
+      ],
+      "start_offset": 868,
+      "end_offset": 869,
+      "start": 69.44,
+      "end": 69.52
+    },
+    {
+      "char": [
+        "ough"
+      ],
+      "start_offset": 869,
+      "end_offset": 871,
+      "start": 69.52,
+      "end": 69.68
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 872,
+      "end_offset": 873,
+      "start": 69.76,
+      "end": 69.84
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 873,
+      "end_offset": 873,
+      "start": 69.84,
+      "end": 69.84
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 874,
+      "end_offset": 875,
+      "start": 69.92,
+      "end": 70.0
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 877,
+      "end_offset": 880,
+      "start": 70.16,
+      "end": 70.4
+    },
+    {
+      "char": [
+        "ur"
+      ],
+      "start_offset": 880,
+      "end_offset": 883,
+      "start": 70.4,
+      "end": 70.64
+    },
+    {
+      "char": [
+        "ied"
+      ],
+      "start_offset": 886,
+      "end_offset": 888,
+      "start": 70.88,
+      "end": 71.04
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 891,
+      "end_offset": 894,
+      "start": 71.28,
+      "end": 71.52
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 894,
+      "end_offset": 897,
+      "start": 71.52,
+      "end": 71.76
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 897,
+      "end_offset": 897,
+      "start": 71.76,
+      "end": 71.76
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 902,
+      "end_offset": 903,
+      "start": 72.16,
+      "end": 72.24
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 903,
+      "end_offset": 903,
+      "start": 72.24,
+      "end": 72.24
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 905,
+      "end_offset": 908,
+      "start": 72.4,
+      "end": 72.64
+    },
+    {
+      "char": [
+        "still"
+      ],
+      "start_offset": 908,
+      "end_offset": 912,
+      "start": 72.64,
+      "end": 72.96000000000001
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 912,
+      "end_offset": 916,
+      "start": 72.96000000000001,
+      "end": 73.28
+    },
+    {
+      "char": [
+        "op"
+      ],
+      "start_offset": 916,
+      "end_offset": 920,
+      "start": 73.28,
+      "end": 73.60000000000001
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 920,
+      "end_offset": 924,
+      "start": 73.60000000000001,
+      "end": 73.92
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 924,
+      "end_offset": 924,
+      "start": 73.92,
+      "end": 73.92
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 991,
+      "end_offset": 995,
+      "start": 79.28,
+      "end": 79.60000000000001
+    },
+    {
+      "char": [
+        "am"
+      ],
+      "start_offset": 1003,
+      "end_offset": 1007,
+      "start": 80.24,
+      "end": 80.56
+    },
+    {
+      "char": [
+        "under"
+      ],
+      "start_offset": 1015,
+      "end_offset": 1018,
+      "start": 81.2,
+      "end": 81.44
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1024,
+      "end_offset": 1028,
+      "start": 81.92,
+      "end": 82.24
+    },
+    {
+      "char": [
+        "ev"
+      ],
+      "start_offset": 1031,
+      "end_offset": 1034,
+      "start": 82.48,
+      "end": 82.72
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 1037,
+      "end_offset": 1040,
+      "start": 82.96000000000001,
+      "end": 83.2
+    },
+    {
+      "char": [
+        "u"
+      ],
+      "start_offset": 1040,
+      "end_offset": 1042,
+      "start": 83.2,
+      "end": 83.36
+    },
+    {
+      "char": [
+        "ation"
+      ],
+      "start_offset": 1042,
+      "end_offset": 1044,
+      "start": 83.36,
+      "end": 83.52
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1044,
+      "end_offset": 1044,
+      "start": 83.52,
+      "end": 83.52
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1052,
+      "end_offset": 1054,
+      "start": 84.16,
+      "end": 84.32000000000001
+    },
+    {
+      "char": [
+        "there"
+      ],
+      "start_offset": 1054,
+      "end_offset": 1057,
+      "start": 84.32000000000001,
+      "end": 84.56
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 1057,
+      "end_offset": 1061,
+      "start": 84.56,
+      "end": 84.88
+    },
+    {
+      "char": [
+        "no"
+      ],
+      "start_offset": 1061,
+      "end_offset": 1065,
+      "start": 84.88,
+      "end": 85.2
+    },
+    {
+      "char": [
+        "one"
+      ],
+      "start_offset": 1065,
+      "end_offset": 1069,
+      "start": 85.2,
+      "end": 85.52
+    },
+    {
+      "char": [
+        "who"
+      ],
+      "start_offset": 1069,
+      "end_offset": 1073,
+      "start": 85.52,
+      "end": 85.84
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1073,
+      "end_offset": 1077,
+      "start": 85.84,
+      "end": 86.16
+    },
+    {
+      "char": [
+        "find"
+      ],
+      "start_offset": 1077,
+      "end_offset": 1081,
+      "start": 86.16,
+      "end": 86.48
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 1097,
+      "end_offset": 1101,
+      "start": 87.76,
+      "end": 88.08
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1101,
+      "end_offset": 1101,
+      "start": 88.08,
+      "end": 88.08
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1131,
+      "end_offset": 1135,
+      "start": 90.48,
+      "end": 90.8
+    },
+    {
+      "char": [
+        "am"
+      ],
+      "start_offset": 1143,
+      "end_offset": 1147,
+      "start": 91.44,
+      "end": 91.76
+    },
+    {
+      "char": [
+        "under"
+      ],
+      "start_offset": 1155,
+      "end_offset": 1158,
+      "start": 92.4,
+      "end": 92.64
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1165,
+      "end_offset": 1169,
+      "start": 93.2,
+      "end": 93.52
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1172,
+      "end_offset": 1175,
+      "start": 93.76,
+      "end": 94.0
+    },
+    {
+      "char": [
+        "v"
+      ],
+      "start_offset": 1175,
+      "end_offset": 1178,
+      "start": 94.0,
+      "end": 94.24
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 1178,
+      "end_offset": 1181,
+      "start": 94.24,
+      "end": 94.48
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1181,
+      "end_offset": 1184,
+      "start": 94.48,
+      "end": 94.72
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 1184,
+      "end_offset": 1187,
+      "start": 94.72,
+      "end": 94.96000000000001
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1187,
+      "end_offset": 1187,
+      "start": 94.96000000000001,
+      "end": 94.96000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1187,
+      "end_offset": 1187,
+      "start": 94.96000000000001,
+      "end": 94.96000000000001
+    },
+    {
+      "char": [
+        "so"
+      ],
+      "start_offset": 1195,
+      "end_offset": 1197,
+      "start": 95.60000000000001,
+      "end": 95.76
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1200,
+      "end_offset": 1203,
+      "start": 96.0,
+      "end": 96.24000000000001
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 1203,
+      "end_offset": 1205,
+      "start": 96.24000000000001,
+      "end": 96.4
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 1206,
+      "end_offset": 1208,
+      "start": 96.48,
+      "end": 96.64
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1212,
+      "end_offset": 1215,
+      "start": 96.96000000000001,
+      "end": 97.2
+    },
+    {
+      "char": [
+        "se"
+      ],
+      "start_offset": 1215,
+      "end_offset": 1219,
+      "start": 97.2,
+      "end": 97.52
+    },
+    {
+      "char": [
+        "arch"
+      ],
+      "start_offset": 1219,
+      "end_offset": 1223,
+      "start": 97.52,
+      "end": 97.84
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1223,
+      "end_offset": 1223,
+      "start": 97.84,
+      "end": 97.84
+    },
+    {
+      "char": [
+        "P"
+      ],
+      "start_offset": 1226,
+      "end_offset": 1228,
+      "start": 98.08,
+      "end": 98.24000000000001
+    },
+    {
+      "char": [
+        "art"
+      ],
+      "start_offset": 1231,
+      "end_offset": 1235,
+      "start": 98.48,
+      "end": 98.8
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1235,
+      "end_offset": 1238,
+      "start": 98.8,
+      "end": 99.04
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1516,
+      "end_offset": 1520,
+      "start": 121.28,
+      "end": 121.60000000000001
+    },
+    {
+      "char": [
+        "am"
+      ],
+      "start_offset": 1528,
+      "end_offset": 1531,
+      "start": 122.24000000000001,
+      "end": 122.48
+    },
+    {
+      "char": [
+        "under"
+      ],
+      "start_offset": 1539,
+      "end_offset": 1542,
+      "start": 123.12,
+      "end": 123.36
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1548,
+      "end_offset": 1552,
+      "start": 123.84,
+      "end": 124.16
+    },
+    {
+      "char": [
+        "ev"
+      ],
+      "start_offset": 1556,
+      "end_offset": 1559,
+      "start": 124.48,
+      "end": 124.72
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 1562,
+      "end_offset": 1565,
+      "start": 124.96000000000001,
+      "end": 125.2
+    },
+    {
+      "char": [
+        "u"
+      ],
+      "start_offset": 1565,
+      "end_offset": 1567,
+      "start": 125.2,
+      "end": 125.36
+    },
+    {
+      "char": [
+        "ation"
+      ],
+      "start_offset": 1567,
+      "end_offset": 1570,
+      "start": 125.36,
+      "end": 125.60000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1570,
+      "end_offset": 1570,
+      "start": 125.60000000000001,
+      "end": 125.60000000000001
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1578,
+      "end_offset": 1580,
+      "start": 126.24000000000001,
+      "end": 126.4
+    },
+    {
+      "char": [
+        "there"
+      ],
+      "start_offset": 1580,
+      "end_offset": 1582,
+      "start": 126.4,
+      "end": 126.56
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1582,
+      "end_offset": 1582,
+      "start": 126.56,
+      "end": 126.56
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1584,
+      "end_offset": 1584,
+      "start": 126.72,
+      "end": 126.72
+    },
+    {
+      "char": [
+        "no"
+      ],
+      "start_offset": 1584,
+      "end_offset": 1588,
+      "start": 126.72,
+      "end": 127.04
+    },
+    {
+      "char": [
+        "one"
+      ],
+      "start_offset": 1588,
+      "end_offset": 1592,
+      "start": 127.04,
+      "end": 127.36
+    },
+    {
+      "char": [
+        "who"
+      ],
+      "start_offset": 1592,
+      "end_offset": 1596,
+      "start": 127.36,
+      "end": 127.68
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1596,
+      "end_offset": 1600,
+      "start": 127.68,
+      "end": 128.0
+    },
+    {
+      "char": [
+        "find"
+      ],
+      "start_offset": 1604,
+      "end_offset": 1608,
+      "start": 128.32,
+      "end": 128.64000000000001
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 1616,
+      "end_offset": 1620,
+      "start": 129.28,
+      "end": 129.6
+    },
+    {
+      "char": [
+        "."
+      ],
+      "start_offset": 1620,
+      "end_offset": 1620,
+      "start": 129.6,
+      "end": 129.6
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1654,
+      "end_offset": 1658,
+      "start": 132.32,
+      "end": 132.64000000000001
+    },
+    {
+      "char": [
+        "am"
+      ],
+      "start_offset": 1666,
+      "end_offset": 1670,
+      "start": 133.28,
+      "end": 133.6
+    },
+    {
+      "char": [
+        "under"
+      ],
+      "start_offset": 1678,
+      "end_offset": 1681,
+      "start": 134.24,
+      "end": 134.48
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1687,
+      "end_offset": 1691,
+      "start": 134.96,
+      "end": 135.28
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1695,
+      "end_offset": 1699,
+      "start": 135.6,
+      "end": 135.92000000000002
+    },
+    {
+      "char": [
+        "v"
+      ],
+      "start_offset": 1699,
+      "end_offset": 1702,
+      "start": 135.92000000000002,
+      "end": 136.16
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 1702,
+      "end_offset": 1705,
+      "start": 136.16,
+      "end": 136.4
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1705,
+      "end_offset": 1707,
+      "start": 136.4,
+      "end": 136.56
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 1707,
+      "end_offset": 1710,
+      "start": 136.56,
+      "end": 136.8
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1710,
+      "end_offset": 1710,
+      "start": 136.8,
+      "end": 136.8
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1710,
+      "end_offset": 1710,
+      "start": 136.8,
+      "end": 136.8
+    },
+    {
+      "char": [
+        "so"
+      ],
+      "start_offset": 1718,
+      "end_offset": 1721,
+      "start": 137.44,
+      "end": 137.68
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1724,
+      "end_offset": 1727,
+      "start": 137.92000000000002,
+      "end": 138.16
+    },
+    {
+      "char": [
+        "ad"
+      ],
+      "start_offset": 1727,
+      "end_offset": 1729,
+      "start": 138.16,
+      "end": 138.32
+    },
+    {
+      "char": [
+        "out"
+      ],
+      "start_offset": 1732,
+      "end_offset": 1734,
+      "start": 138.56,
+      "end": 138.72
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 1736,
+      "end_offset": 1738,
+      "start": 138.88,
+      "end": 139.04
+    },
+    {
+      "char": [
+        "se"
+      ],
+      "start_offset": 1740,
+      "end_offset": 1743,
+      "start": 139.20000000000002,
+      "end": 139.44
+    },
+    {
+      "char": [
+        "arch"
+      ],
+      "start_offset": 1743,
+      "end_offset": 1747,
+      "start": 139.44,
+      "end": 139.76
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1747,
+      "end_offset": 1747,
+      "start": 139.76,
+      "end": 139.76
+    },
+    {
+      "char": [
+        "part"
+      ],
+      "start_offset": 1751,
+      "end_offset": 1754,
+      "start": 140.08,
+      "end": 140.32
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1762,
+      "end_offset": 1766,
+      "start": 140.96,
+      "end": 141.28
+    }
+  ],
+  "word": [
+    {
+      "word": "Sun",
+      "start_offset": 90,
+      "end_offset": 97,
+      "start": 7.2,
+      "end": 7.76
+    },
+    {
+      "word": "shines",
+      "start_offset": 107,
+      "end_offset": 121,
+      "start": 8.56,
+      "end": 9.68
+    },
+    {
+      "word": "through",
+      "start_offset": 125,
+      "end_offset": 129,
+      "start": 10.0,
+      "end": 10.32
+    },
+    {
+      "word": "the",
+      "start_offset": 137,
+      "end_offset": 141,
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "word": "eyes.",
+      "start_offset": 141,
+      "end_offset": 152,
+      "start": 11.28,
+      "end": 12.16
+    },
+    {
+      "word": "I",
+      "start_offset": 156,
+      "end_offset": 157,
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "word": "realize",
+      "start_offset": 160,
+      "end_offset": 177,
+      "start": 12.8,
+      "end": 14.16
+    },
+    {
+      "word": "that",
+      "start_offset": 186,
+      "end_offset": 189,
+      "start": 14.88,
+      "end": 15.120000000000001
+    },
+    {
+      "word": "I'm",
+      "start_offset": 189,
+      "end_offset": 194,
+      "start": 15.120000000000001,
+      "end": 15.52
+    },
+    {
+      "word": "frozen.",
+      "start_offset": 194,
+      "end_offset": 210,
+      "start": 15.52,
+      "end": 16.8
+    },
+    {
+      "word": "Stuck",
+      "start_offset": 229,
+      "end_offset": 238,
+      "start": 18.32,
+      "end": 19.04
+    },
+    {
+      "word": "inside",
+      "start_offset": 242,
+      "end_offset": 254,
+      "start": 19.36,
+      "end": 20.32
+    },
+    {
+      "word": "this",
+      "start_offset": 260,
+      "end_offset": 263,
+      "start": 20.8,
+      "end": 21.04
+    },
+    {
+      "word": "moment,",
+      "start_offset": 267,
+      "end_offset": 278,
+      "start": 21.36,
+      "end": 22.240000000000002
+    },
+    {
+      "word": "and",
+      "start_offset": 279,
+      "end_offset": 281,
+      "start": 22.32,
+      "end": 22.48
+    },
+    {
+      "word": "time",
+      "start_offset": 284,
+      "end_offset": 286,
+      "start": 22.72,
+      "end": 22.88
+    },
+    {
+      "word": "crystallized",
+      "start_offset": 292,
+      "end_offset": 307,
+      "start": 23.36,
+      "end": 24.560000000000002
+    },
+    {
+      "word": "in",
+      "start_offset": 310,
+      "end_offset": 313,
+      "start": 24.8,
+      "end": 25.04
+    },
+    {
+      "word": "the",
+      "start_offset": 313,
+      "end_offset": 317,
+      "start": 25.04,
+      "end": 25.36
+    },
+    {
+      "word": "life",
+      "start_offset": 317,
+      "end_offset": 321,
+      "start": 25.36,
+      "end": 25.68
+    },
+    {
+      "word": "I",
+      "start_offset": 325,
+      "end_offset": 329,
+      "start": 26.0,
+      "end": 26.32
+    },
+    {
+      "word": "have",
+      "start_offset": 329,
+      "end_offset": 332,
+      "start": 26.32,
+      "end": 26.560000000000002
+    },
+    {
+      "word": "chosen.",
+      "start_offset": 336,
+      "end_offset": 348,
+      "start": 26.88,
+      "end": 27.84
+    },
+    {
+      "word": "I",
+      "start_offset": 382,
+      "end_offset": 386,
+      "start": 30.560000000000002,
+      "end": 30.88
+    },
+    {
+      "word": "am",
+      "start_offset": 394,
+      "end_offset": 398,
+      "start": 31.52,
+      "end": 31.84
+    },
+    {
+      "word": "under",
+      "start_offset": 406,
+      "end_offset": 409,
+      "start": 32.480000000000004,
+      "end": 32.72
+    },
+    {
+      "word": "an",
+      "start_offset": 413,
+      "end_offset": 417,
+      "start": 33.04,
+      "end": 33.36
+    },
+    {
+      "word": "evaluation,",
+      "start_offset": 421,
+      "end_offset": 436,
+      "start": 33.68,
+      "end": 34.88
+    },
+    {
+      "word": "and",
+      "start_offset": 444,
+      "end_offset": 446,
+      "start": 35.52,
+      "end": 35.68
+    },
+    {
+      "word": "there's",
+      "start_offset": 446,
+      "end_offset": 451,
+      "start": 35.68,
+      "end": 36.08
+    },
+    {
+      "word": "no",
+      "start_offset": 451,
+      "end_offset": 455,
+      "start": 36.08,
+      "end": 36.4
+    },
+    {
+      "word": "one",
+      "start_offset": 455,
+      "end_offset": 459,
+      "start": 36.4,
+      "end": 36.72
+    },
+    {
+      "word": "who",
+      "start_offset": 459,
+      "end_offset": 463,
+      "start": 36.72,
+      "end": 37.04
+    },
+    {
+      "word": "can",
+      "start_offset": 463,
+      "end_offset": 467,
+      "start": 37.04,
+      "end": 37.36
+    },
+    {
+      "word": "find",
+      "start_offset": 467,
+      "end_offset": 471,
+      "start": 37.36,
+      "end": 37.68
+    },
+    {
+      "word": "me.",
+      "start_offset": 483,
+      "end_offset": 487,
+      "start": 38.64,
+      "end": 38.96
+    },
+    {
+      "word": "I",
+      "start_offset": 520,
+      "end_offset": 524,
+      "start": 41.6,
+      "end": 41.92
+    },
+    {
+      "word": "am",
+      "start_offset": 532,
+      "end_offset": 535,
+      "start": 42.56,
+      "end": 42.800000000000004
+    },
+    {
+      "word": "under",
+      "start_offset": 545,
+      "end_offset": 548,
+      "start": 43.6,
+      "end": 43.84
+    },
+    {
+      "word": "an",
+      "start_offset": 552,
+      "end_offset": 556,
+      "start": 44.160000000000004,
+      "end": 44.480000000000004
+    },
+    {
+      "word": "avalanche,",
+      "start_offset": 560,
+      "end_offset": 576,
+      "start": 44.800000000000004,
+      "end": 46.08
+    },
+    {
+      "word": "so",
+      "start_offset": 584,
+      "end_offset": 586,
+      "start": 46.72,
+      "end": 46.88
+    },
+    {
+      "word": "sad",
+      "start_offset": 589,
+      "end_offset": 594,
+      "start": 47.12,
+      "end": 47.52
+    },
+    {
+      "word": "now",
+      "start_offset": 595,
+      "end_offset": 597,
+      "start": 47.6,
+      "end": 47.76
+    },
+    {
+      "word": "to",
+      "start_offset": 601,
+      "end_offset": 604,
+      "start": 48.08,
+      "end": 48.32
+    },
+    {
+      "word": "search.",
+      "start_offset": 604,
+      "end_offset": 612,
+      "start": 48.32,
+      "end": 48.96
+    },
+    {
+      "word": "Party",
+      "start_offset": 615,
+      "end_offset": 626,
+      "start": 49.2,
+      "end": 50.08
+    },
+    {
+      "word": "face",
+      "start_offset": 657,
+      "end_offset": 665,
+      "start": 52.56,
+      "end": 53.2
+    },
+    {
+      "word": "to",
+      "start_offset": 668,
+      "end_offset": 670,
+      "start": 53.44,
+      "end": 53.6
+    },
+    {
+      "word": "the",
+      "start_offset": 670,
+      "end_offset": 673,
+      "start": 53.6,
+      "end": 53.84
+    },
+    {
+      "word": "sky,",
+      "start_offset": 673,
+      "end_offset": 682,
+      "start": 53.84,
+      "end": 54.56
+    },
+    {
+      "word": "but",
+      "start_offset": 686,
+      "end_offset": 688,
+      "start": 54.88,
+      "end": 55.04
+    },
+    {
+      "word": "it's",
+      "start_offset": 688,
+      "end_offset": 692,
+      "start": 55.04,
+      "end": 55.36
+    },
+    {
+      "word": "just",
+      "start_offset": 692,
+      "end_offset": 696,
+      "start": 55.36,
+      "end": 55.68
+    },
+    {
+      "word": "a",
+      "start_offset": 696,
+      "end_offset": 700,
+      "start": 55.68,
+      "end": 56.0
+    },
+    {
+      "word": "sheet",
+      "start_offset": 700,
+      "end_offset": 706,
+      "start": 56.0,
+      "end": 56.480000000000004
+    },
+    {
+      "word": "of",
+      "start_offset": 706,
+      "end_offset": 710,
+      "start": 56.480000000000004,
+      "end": 56.800000000000004
+    },
+    {
+      "word": "white.",
+      "start_offset": 710,
+      "end_offset": 717,
+      "start": 56.800000000000004,
+      "end": 57.36
+    },
+    {
+      "word": "And",
+      "start_offset": 720,
+      "end_offset": 723,
+      "start": 57.6,
+      "end": 57.84
+    },
+    {
+      "word": "I",
+      "start_offset": 723,
+      "end_offset": 725,
+      "start": 57.84,
+      "end": 58.0
+    },
+    {
+      "word": "open",
+      "start_offset": 727,
+      "end_offset": 729,
+      "start": 58.160000000000004,
+      "end": 58.32
+    },
+    {
+      "word": "my",
+      "start_offset": 741,
+      "end_offset": 743,
+      "start": 59.28,
+      "end": 59.44
+    },
+    {
+      "word": "eyes,",
+      "start_offset": 745,
+      "end_offset": 751,
+      "start": 59.6,
+      "end": 60.08
+    },
+    {
+      "word": "cause",
+      "start_offset": 753,
+      "end_offset": 757,
+      "start": 60.24,
+      "end": 60.56
+    },
+    {
+      "word": "I'm",
+      "start_offset": 757,
+      "end_offset": 763,
+      "start": 60.56,
+      "end": 61.04
+    },
+    {
+      "word": "choking.",
+      "start_offset": 763,
+      "end_offset": 775,
+      "start": 61.04,
+      "end": 62.0
+    },
+    {
+      "word": "Sun",
+      "start_offset": 805,
+      "end_offset": 810,
+      "start": 64.4,
+      "end": 64.8
+    },
+    {
+      "word": "burns",
+      "start_offset": 814,
+      "end_offset": 821,
+      "start": 65.12,
+      "end": 65.68
+    },
+    {
+      "word": "so",
+      "start_offset": 821,
+      "end_offset": 825,
+      "start": 65.68,
+      "end": 66.0
+    },
+    {
+      "word": "bright,",
+      "start_offset": 825,
+      "end_offset": 832,
+      "start": 66.0,
+      "end": 66.56
+    },
+    {
+      "word": "I",
+      "start_offset": 836,
+      "end_offset": 840,
+      "start": 66.88,
+      "end": 67.2
+    },
+    {
+      "word": "feel",
+      "start_offset": 840,
+      "end_offset": 844,
+      "start": 67.2,
+      "end": 67.52
+    },
+    {
+      "word": "like",
+      "start_offset": 844,
+      "end_offset": 848,
+      "start": 67.52,
+      "end": 67.84
+    },
+    {
+      "word": "daylight.",
+      "start_offset": 855,
+      "end_offset": 865,
+      "start": 68.4,
+      "end": 69.2
+    },
+    {
+      "word": "Though",
+      "start_offset": 868,
+      "end_offset": 871,
+      "start": 69.44,
+      "end": 69.68
+    },
+    {
+      "word": "I'm",
+      "start_offset": 872,
+      "end_offset": 875,
+      "start": 69.76,
+      "end": 70.0
+    },
+    {
+      "word": "buried",
+      "start_offset": 877,
+      "end_offset": 888,
+      "start": 70.16,
+      "end": 71.04
+    },
+    {
+      "word": "tight,",
+      "start_offset": 891,
+      "end_offset": 897,
+      "start": 71.28,
+      "end": 71.76
+    },
+    {
+      "word": "I'm",
+      "start_offset": 902,
+      "end_offset": 908,
+      "start": 72.16,
+      "end": 72.64
+    },
+    {
+      "word": "still",
+      "start_offset": 908,
+      "end_offset": 912,
+      "start": 72.64,
+      "end": 72.96000000000001
+    },
+    {
+      "word": "hoping.",
+      "start_offset": 912,
+      "end_offset": 924,
+      "start": 72.96000000000001,
+      "end": 73.92
+    },
+    {
+      "word": "I",
+      "start_offset": 991,
+      "end_offset": 995,
+      "start": 79.28,
+      "end": 79.60000000000001
+    },
+    {
+      "word": "am",
+      "start_offset": 1003,
+      "end_offset": 1007,
+      "start": 80.24,
+      "end": 80.56
+    },
+    {
+      "word": "under",
+      "start_offset": 1015,
+      "end_offset": 1018,
+      "start": 81.2,
+      "end": 81.44
+    },
+    {
+      "word": "an",
+      "start_offset": 1024,
+      "end_offset": 1028,
+      "start": 81.92,
+      "end": 82.24
+    },
+    {
+      "word": "evaluation,",
+      "start_offset": 1031,
+      "end_offset": 1044,
+      "start": 82.48,
+      "end": 83.52
+    },
+    {
+      "word": "and",
+      "start_offset": 1052,
+      "end_offset": 1054,
+      "start": 84.16,
+      "end": 84.32000000000001
+    },
+    {
+      "word": "there",
+      "start_offset": 1054,
+      "end_offset": 1057,
+      "start": 84.32000000000001,
+      "end": 84.56
+    },
+    {
+      "word": "is",
+      "start_offset": 1057,
+      "end_offset": 1061,
+      "start": 84.56,
+      "end": 84.88
+    },
+    {
+      "word": "no",
+      "start_offset": 1061,
+      "end_offset": 1065,
+      "start": 84.88,
+      "end": 85.2
+    },
+    {
+      "word": "one",
+      "start_offset": 1065,
+      "end_offset": 1069,
+      "start": 85.2,
+      "end": 85.52
+    },
+    {
+      "word": "who",
+      "start_offset": 1069,
+      "end_offset": 1073,
+      "start": 85.52,
+      "end": 85.84
+    },
+    {
+      "word": "can",
+      "start_offset": 1073,
+      "end_offset": 1077,
+      "start": 85.84,
+      "end": 86.16
+    },
+    {
+      "word": "find",
+      "start_offset": 1077,
+      "end_offset": 1081,
+      "start": 86.16,
+      "end": 86.48
+    },
+    {
+      "word": "me.",
+      "start_offset": 1097,
+      "end_offset": 1101,
+      "start": 87.76,
+      "end": 88.08
+    },
+    {
+      "word": "I",
+      "start_offset": 1131,
+      "end_offset": 1135,
+      "start": 90.48,
+      "end": 90.8
+    },
+    {
+      "word": "am",
+      "start_offset": 1143,
+      "end_offset": 1147,
+      "start": 91.44,
+      "end": 91.76
+    },
+    {
+      "word": "under",
+      "start_offset": 1155,
+      "end_offset": 1158,
+      "start": 92.4,
+      "end": 92.64
+    },
+    {
+      "word": "an",
+      "start_offset": 1165,
+      "end_offset": 1169,
+      "start": 93.2,
+      "end": 93.52
+    },
+    {
+      "word": "avalanche,",
+      "start_offset": 1172,
+      "end_offset": 1187,
+      "start": 93.76,
+      "end": 94.96000000000001
+    },
+    {
+      "word": "so",
+      "start_offset": 1195,
+      "end_offset": 1197,
+      "start": 95.60000000000001,
+      "end": 95.76
+    },
+    {
+      "word": "sad",
+      "start_offset": 1200,
+      "end_offset": 1205,
+      "start": 96.0,
+      "end": 96.4
+    },
+    {
+      "word": "now",
+      "start_offset": 1206,
+      "end_offset": 1208,
+      "start": 96.48,
+      "end": 96.64
+    },
+    {
+      "word": "to",
+      "start_offset": 1212,
+      "end_offset": 1215,
+      "start": 96.96000000000001,
+      "end": 97.2
+    },
+    {
+      "word": "search.",
+      "start_offset": 1215,
+      "end_offset": 1223,
+      "start": 97.2,
+      "end": 97.84
+    },
+    {
+      "word": "Party",
+      "start_offset": 1226,
+      "end_offset": 1238,
+      "start": 98.08,
+      "end": 99.04
+    },
+    {
+      "word": "I",
+      "start_offset": 1516,
+      "end_offset": 1520,
+      "start": 121.28,
+      "end": 121.60000000000001
+    },
+    {
+      "word": "am",
+      "start_offset": 1528,
+      "end_offset": 1531,
+      "start": 122.24000000000001,
+      "end": 122.48
+    },
+    {
+      "word": "under",
+      "start_offset": 1539,
+      "end_offset": 1542,
+      "start": 123.12,
+      "end": 123.36
+    },
+    {
+      "word": "an",
+      "start_offset": 1548,
+      "end_offset": 1552,
+      "start": 123.84,
+      "end": 124.16
+    },
+    {
+      "word": "evaluation,",
+      "start_offset": 1556,
+      "end_offset": 1570,
+      "start": 124.48,
+      "end": 125.60000000000001
+    },
+    {
+      "word": "and",
+      "start_offset": 1578,
+      "end_offset": 1580,
+      "start": 126.24000000000001,
+      "end": 126.4
+    },
+    {
+      "word": "there's",
+      "start_offset": 1580,
+      "end_offset": 1584,
+      "start": 126.4,
+      "end": 126.72
+    },
+    {
+      "word": "no",
+      "start_offset": 1584,
+      "end_offset": 1588,
+      "start": 126.72,
+      "end": 127.04
+    },
+    {
+      "word": "one",
+      "start_offset": 1588,
+      "end_offset": 1592,
+      "start": 127.04,
+      "end": 127.36
+    },
+    {
+      "word": "who",
+      "start_offset": 1592,
+      "end_offset": 1596,
+      "start": 127.36,
+      "end": 127.68
+    },
+    {
+      "word": "can",
+      "start_offset": 1596,
+      "end_offset": 1600,
+      "start": 127.68,
+      "end": 128.0
+    },
+    {
+      "word": "find",
+      "start_offset": 1604,
+      "end_offset": 1608,
+      "start": 128.32,
+      "end": 128.64000000000001
+    },
+    {
+      "word": "me.",
+      "start_offset": 1616,
+      "end_offset": 1620,
+      "start": 129.28,
+      "end": 129.6
+    },
+    {
+      "word": "I",
+      "start_offset": 1654,
+      "end_offset": 1658,
+      "start": 132.32,
+      "end": 132.64000000000001
+    },
+    {
+      "word": "am",
+      "start_offset": 1666,
+      "end_offset": 1670,
+      "start": 133.28,
+      "end": 133.6
+    },
+    {
+      "word": "under",
+      "start_offset": 1678,
+      "end_offset": 1681,
+      "start": 134.24,
+      "end": 134.48
+    },
+    {
+      "word": "an",
+      "start_offset": 1687,
+      "end_offset": 1691,
+      "start": 134.96,
+      "end": 135.28
+    },
+    {
+      "word": "avalanche,",
+      "start_offset": 1695,
+      "end_offset": 1710,
+      "start": 135.6,
+      "end": 136.8
+    },
+    {
+      "word": "so",
+      "start_offset": 1718,
+      "end_offset": 1721,
+      "start": 137.44,
+      "end": 137.68
+    },
+    {
+      "word": "sad",
+      "start_offset": 1724,
+      "end_offset": 1729,
+      "start": 137.92000000000002,
+      "end": 138.32
+    },
+    {
+      "word": "out",
+      "start_offset": 1732,
+      "end_offset": 1734,
+      "start": 138.56,
+      "end": 138.72
+    },
+    {
+      "word": "of",
+      "start_offset": 1736,
+      "end_offset": 1738,
+      "start": 138.88,
+      "end": 139.04
+    },
+    {
+      "word": "search,",
+      "start_offset": 1740,
+      "end_offset": 1747,
+      "start": 139.20000000000002,
+      "end": 139.76
+    },
+    {
+      "word": "party",
+      "start_offset": 1751,
+      "end_offset": 1766,
+      "start": 140.08,
+      "end": 141.28
+    }
+  ],
+  "segment": [
+    {
+      "segment": "Sun shines through the eyes.",
+      "start_offset": 90,
+      "end_offset": 152,
+      "start": 7.2,
+      "end": 12.16
+    },
+    {
+      "segment": "I realize that I'm frozen.",
+      "start_offset": 156,
+      "end_offset": 210,
+      "start": 12.48,
+      "end": 16.8
+    },
+    {
+      "segment": "Stuck inside this moment, and time crystallized in the life I have chosen.",
+      "start_offset": 229,
+      "end_offset": 348,
+      "start": 18.32,
+      "end": 27.84
+    },
+    {
+      "segment": "I am under an evaluation, and there's no one who can find me.",
+      "start_offset": 382,
+      "end_offset": 487,
+      "start": 30.560000000000002,
+      "end": 38.96
+    },
+    {
+      "segment": "I am under an avalanche, so sad now to search.",
+      "start_offset": 520,
+      "end_offset": 612,
+      "start": 41.6,
+      "end": 48.96
+    },
+    {
+      "segment": "Party face to the sky, but it's just a sheet of white.",
+      "start_offset": 615,
+      "end_offset": 717,
+      "start": 49.2,
+      "end": 57.36
+    },
+    {
+      "segment": "And I open my eyes, cause I'm choking.",
+      "start_offset": 720,
+      "end_offset": 775,
+      "start": 57.6,
+      "end": 62.0
+    },
+    {
+      "segment": "Sun burns so bright, I feel like daylight.",
+      "start_offset": 805,
+      "end_offset": 865,
+      "start": 64.4,
+      "end": 69.2
+    },
+    {
+      "segment": "Though I'm buried tight, I'm still hoping.",
+      "start_offset": 868,
+      "end_offset": 924,
+      "start": 69.44,
+      "end": 73.92
+    },
+    {
+      "segment": "I am under an evaluation, and there is no one who can find me.",
+      "start_offset": 991,
+      "end_offset": 1101,
+      "start": 79.28,
+      "end": 88.08
+    },
+    {
+      "segment": "I am under an avalanche, so sad now to search.",
+      "start_offset": 1131,
+      "end_offset": 1223,
+      "start": 90.48,
+      "end": 97.84
+    },
+    {
+      "segment": "Party I am under an evaluation, and there's no one who can find me.",
+      "start_offset": 1226,
+      "end_offset": 1620,
+      "start": 98.08,
+      "end": 129.6
+    },
+    {
+      "segment": "I am under an avalanche, so sad out of search, party",
+      "start_offset": 1654,
+      "end_offset": 1766,
+      "start": 132.32,
+      "end": 141.28
+    }
+  ]
+}

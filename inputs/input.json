@@ -1,0 +1,30 @@
+[
+    {
+    "id": "Hybrid Minds, Brodie - Heroin",
+    "audio_path": "inputs/Hybrid Minds, Brodie - Heroin.mp3",
+    "lrc_path": "inputs/Hybrid Minds, Brodie - Heroin.json",
+    "duration": 182.112,
+    "prompt_path": "inputs/Hybrid Minds, Brodie - Heroin.json_genre.txt"
+  },
+  {
+    "id": "Jade Bird - Avalanche",
+    "audio_path": "inputs/Jade Bird - Avalanche.mp3",
+    "lrc_path": "inputs/Jade Bird - Avalanche.json",
+    "duration": 151.584,
+    "prompt_path": "inputs/Jade Bird - Avalanche.json_genre.txt"
+  },
+  {
+    "id": "Waylon Wyatt - Sincerely, Your Son",
+    "audio_path": "inputs/Waylon Wyatt - Sincerely, Your Son.mp3",
+    "lrc_path": "inputs/Waylon Wyatt - Sincerely, Your Son.json",
+    "duration": 229.824,
+    "prompt_path": "inputs/Waylon Wyatt - Sincerely, Your Son.json_genre.txt"
+  },
+  {
+    "id": "Rizzle Kicks, Rachel Chinouriri - Follow Excitement!",
+    "audio_path": "inputs/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.mp3",
+    "lrc_path": "inputs/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.json",
+    "duration": 148.776,
+    "prompt_path": "inputs/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.json_genre.txt"
+  }
+]
