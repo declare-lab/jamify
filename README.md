@@ -1,14 +1,14 @@
-# JAM: Music Generation with CFM + DiT
+# JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability and Aesthetic Alignment
 
-JAM is a state-of-the-art music generation model that uses Continuous Flow Matching (CFM) with Diffusion Transformer (DiT) architecture to generate high-quality audio from text/lyrics and style prompts.
+JAM is a rectified flow-based model for lyrics-to-song generation that addresses the lack of fine-grained word-level controllability in existing lyrics-to-song models. Built on a compact 530M-parameter architecture with 16 LLaMA-style Transformer layers as the Diffusion Transformer (DiT) backbone, JAM enables precise vocal control that musicians desire in their workflows. Unlike previous models, JAM provides word and phoneme-level timing control, allowing musicians to specify the exact placement of each vocal sound for improved rhythmic flexibility and expressive timing.
 
 ## Features
 
-- **Text-to-Music Generation**: Generate music from lyrics and text descriptions
-- **Style Control**: Use audio prompts to control the musical style and genre
-- **High Quality**: Produces 44.1kHz audio using advanced VAE models
-- **Multi-GPU Support**: Distributed inference using Hugging Face Accelerate
-- **Flexible Configuration**: Extensive customization options for generation parameters
+- **Fine-grained Word and Phoneme-level Timing Control**: The first model to provide word-level timing and duration control in song generation, enabling precise prosody control for musicians
+- **Compact 530M Parameter Architecture**: Less than half the size of existing models, enabling faster inference with reduced resource requirements
+- **Enhanced Lyric Fidelity**: Achieves over 3× reduction in Word Error Rate (WER) and Phoneme Error Rate (PER) compared to prior work through precise phoneme boundary attention
+- **Global Duration Control**: Controllable duration up to 3 minutes and 50 seconds.
+- **Aesthetic Alignment through Direct Preference Optimization**: Iterative refinement using synthetic preference datasets to better align with human aesthetic preferences, eliminating manual annotation requirements
 
 ## JAM Samples
 
