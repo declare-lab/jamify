@@ -22,6 +22,10 @@ JAM is a rectified flow-based model for lyrics-to-song generation that addresses
 - **Global Duration Control**: Controllable duration up to 3 minutes and 50 seconds.
 - **Aesthetic Alignment through Direct Preference Optimization**: Iterative refinement using synthetic preference datasets to better align with human aesthetic preferences, eliminating manual annotation requirements
 
+## The Pipeline
+
+![cover-photo](jam.png)
+
 ## JAM Samples
 
 Check out the example generated music in the `generated_examples/` folder to hear what JAM can produce:
