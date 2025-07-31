@@ -138,6 +138,7 @@ class CFM(nn.Module):
         steps=32,
         cfg_strength=4.0,
         dual_cfg: tuple | None =None,
+        fix_dual_cfg: bool = False,
         sway_sampling_coef=None,
         seed: int | None = None,
         vocoder: Callable[[float["b d n"]], float["b nw"]] | None = None,  # noqa: F722
@@ -212,15 +213,26 @@ class CFM(nn.Module):
                 return pred
 
             if dual_cfg is not None:
-                phoneme_pred = self.transformer(
-                    x=x, cond=step_cond, text=text, time=t, drop_audio_cond=False, drop_text=False, drop_prompt=False,
-                    style_prompt=negative_style_prompt, start_time=start_time, duration_abs=duration_abs, duration_rel=duration_rel
-                )
-                null_pred = self.transformer(
-                    x=x, cond=step_cond, text=text, time=t, drop_audio_cond=True, drop_text=True, drop_prompt=False,
-                    style_prompt=negative_style_prompt, start_time=start_time, duration_abs=duration_abs, duration_rel=duration_rel
-                )
-                return dual_cfg[0] * (pred-phoneme_pred) + dual_cfg[1] * (phoneme_pred-null_pred) + null_pred
+                if not fix_dual_cfg:
+                    phoneme_pred = self.transformer(
+                        x=x, cond=step_cond, text=text, time=t, drop_audio_cond=False, drop_text=False, drop_prompt=False,
+                        style_prompt=negative_style_prompt, start_time=start_time, duration_abs=duration_abs, duration_rel=duration_rel
+                    )
+                    null_pred = self.transformer(
+                        x=x, cond=step_cond, text=text, time=t, drop_audio_cond=True, drop_text=True, drop_prompt=False,
+                        style_prompt=negative_style_prompt, start_time=start_time, duration_abs=duration_abs, duration_rel=duration_rel
+                    )
+                    return dual_cfg[0] * (pred-phoneme_pred) + dual_cfg[1] * (phoneme_pred-null_pred) + null_pred
+                else:
+                    style_pred = self.transformer(
+                        x=x, cond=step_cond, text=text, time=t, drop_audio_cond=False, drop_text=True, drop_prompt=False,
+                        style_prompt=style_prompt, start_time=start_time, duration_abs=duration_abs, duration_rel=duration_rel
+                    )
+                    null_pred = self.transformer(
+                        x=x, cond=step_cond, text=text, time=t, drop_audio_cond=True, drop_text=True, drop_prompt=False,
+                        style_prompt=negative_style_prompt, start_time=start_time, duration_abs=duration_abs, duration_rel=duration_rel
+                    )
+                    return dual_cfg[0] * (style_pred-null_pred) + dual_cfg[1] * (pred-style_pred) + null_pred
             else:
                 if cfg_strength < 1e-5:
                     return pred

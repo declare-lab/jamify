@@ -20,12 +20,13 @@ evaluation:
     always_use_style_index: 0
   
   sample_kwargs:
+    batch_infer_num: 1
     cfg_range:
       - 0.05
       - 1
     dual_cfg:
       - 4.7
-      - 2.5
+      - 2.6
     steps: 50
 
 model:
