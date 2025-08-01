@@ -4,7 +4,7 @@
   <h1>JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability and Aesthetic Alignment</h1>
   <br/>
  
-  [![arXiv](https://img.shields.io/badge/Read_the_paper-blue?style=flat&logoColor=blue&link=https%3A%2F%2Farxiv.org%2Fabs%2F)](https://arxiv.org/abs/2507.20880) [![Static Badge](https://img.shields.io/badge/JAM-Huggingface-violet?style=flat&logo=huggingface&logoColor=blue&link=https%3A%2F%2Fhuggingface.co%2Fdeclare-lab%2FJAM-0.5)](https://huggingface.co/declare-lab/JAM-0.5) [![Static Badge](https://img.shields.io/badge/Project-Jamify-pink?style=flat&logo=homepage&link=https%3A%2F%2Fdeclare-lab.github.io%2Fjamify)](https://declare-lab.github.io/jamify)
+  [![arXiv](https://img.shields.io/badge/Read_the_paper-blue?style=flat&logoColor=blue&link=https%3A%2F%2Farxiv.org%2Fabs%2F)](https://arxiv.org/abs/2507.20880) [![Static Badge](https://img.shields.io/badge/JAM-Huggingface-violet?style=flat&logo=huggingface&logoColor=blue&link=https%3A%2F%2Fhuggingface.co%2Fdeclare-lab%2FJAM-0.5)](https://huggingface.co/declare-lab/JAM-0.5) [![Static Badge](https://img.shields.io/badge/Project-Jamify-pink?style=flat&logo=homepage&link=https%3A%2F%2Fdeclare-lab.github.io%2Fjamify)](https://declare-lab.github.io/jamify)[![Static Badge](https://img.shields.io/badge/HuggingFace-Space-brightgreen?style=flat&logo=huggingface&link=https%3A%2F%2Fhuggingface.co%2Fspaces%2Fdeclare-lab%2FJAM)](https://huggingface.co/spaces/declare-lab/JAM)
  
 </div>
 
