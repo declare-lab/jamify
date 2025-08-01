@@ -21,7 +21,7 @@ evaluation:
   
   sample_kwargs:
     batch_infer_num: 1
-    fix_dual_cfg: true
+    # fix_dual_cfg: true
     cfg_range:
       - 0.05
       - 1
