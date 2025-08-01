@@ -252,10 +252,14 @@ model_path = snapshot_download(repo_id="declare-lab/jam-0.5")
 If you use JAM in your research, please cite:
 
 ```bibtex
-@misc{jam2024,
-  title={JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability and Aesthetic Alignment},
-  author={Renhang Liu and Chia-Yu Hung and Navonil Majumder and Taylor Gautreaux and Amir Ali Bagherzadeh and Chuan Li and Dorien Herremans and Soujanya Poria},
-  year={2025}
+@misc{liu2025jamtinyflowbasedsong,
+      title={JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability and Aesthetic Alignment}, 
+      author={Renhang Liu and Chia-Yu Hung and Navonil Majumder and Taylor Gautreaux and Amir Ali Bagherzadeh and Chuan Li and Dorien Herremans and Soujanya Poria},
+      year={2025},
+      eprint={2507.20880},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2507.20880}, 
 }
 ```
 
